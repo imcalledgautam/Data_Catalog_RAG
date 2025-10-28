@@ -1,0 +1,4502 @@
+[
+    {
+        "loan_id": 1,
+        "client_id": 481,
+        "loan_amount": 94678.98057922848,
+        "loan_start_date": "2025-04-09",
+        "loan_due_date": "2028-01-09",
+        "interest_rate": 6.72597416684027,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 2,
+        "client_id": 354,
+        "loan_amount": 84043.18732505006,
+        "loan_start_date": "2023-11-07",
+        "loan_due_date": "2029-03-29",
+        "interest_rate": 5.53471337167162,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 3,
+        "client_id": 176,
+        "loan_amount": 50972.514044843454,
+        "loan_start_date": "2022-01-10",
+        "loan_due_date": "2025-12-18",
+        "interest_rate": 4.147583411307746,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 4,
+        "client_id": 211,
+        "loan_amount": 19556.594007995787,
+        "loan_start_date": "2020-06-14",
+        "loan_due_date": "2027-04-14",
+        "interest_rate": 7.512419480564904,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 5,
+        "client_id": 135,
+        "loan_amount": 53697.86282178343,
+        "loan_start_date": "2024-12-14",
+        "loan_due_date": "2027-08-23",
+        "interest_rate": 6.592071908824707,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 6,
+        "client_id": 423,
+        "loan_amount": 57186.39735266916,
+        "loan_start_date": "2024-03-25",
+        "loan_due_date": "2027-10-11",
+        "interest_rate": 6.9189770152955195,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 7,
+        "client_id": 297,
+        "loan_amount": 72419.27383384352,
+        "loan_start_date": "2023-11-14",
+        "loan_due_date": "2028-08-30",
+        "interest_rate": 7.811154261306543,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 8,
+        "client_id": 433,
+        "loan_amount": 97964.88048922048,
+        "loan_start_date": "2023-03-04",
+        "loan_due_date": "2026-02-02",
+        "interest_rate": 5.166291642972243,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 9,
+        "client_id": 412,
+        "loan_amount": 20011.64364295566,
+        "loan_start_date": "2020-09-26",
+        "loan_due_date": "2025-12-12",
+        "interest_rate": 6.131053833625403,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 10,
+        "client_id": 100,
+        "loan_amount": 98987.76779852378,
+        "loan_start_date": "2024-06-11",
+        "loan_due_date": "2030-03-12",
+        "interest_rate": 7.826406384089391,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 11,
+        "client_id": 423,
+        "loan_amount": 86755.62006198426,
+        "loan_start_date": "2021-12-23",
+        "loan_due_date": "2028-07-13",
+        "interest_rate": 7.356020440568313,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 12,
+        "client_id": 6,
+        "loan_amount": 88408.9871988955,
+        "loan_start_date": "2020-08-19",
+        "loan_due_date": "2028-10-16",
+        "interest_rate": 4.243814380927199,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 13,
+        "client_id": 252,
+        "loan_amount": 35738.15569917108,
+        "loan_start_date": "2024-01-01",
+        "loan_due_date": "2028-11-17",
+        "interest_rate": 6.756726801083662,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 14,
+        "client_id": 230,
+        "loan_amount": 60548.869088918735,
+        "loan_start_date": "2023-11-30",
+        "loan_due_date": "2027-08-21",
+        "interest_rate": 4.57694241602114,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 15,
+        "client_id": 347,
+        "loan_amount": 57768.90485684678,
+        "loan_start_date": "2020-04-03",
+        "loan_due_date": "2027-08-29",
+        "interest_rate": 5.559368860311861,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 16,
+        "client_id": 228,
+        "loan_amount": 15254.040645794472,
+        "loan_start_date": "2023-03-02",
+        "loan_due_date": "2028-07-13",
+        "interest_rate": 4.065156989324927,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 17,
+        "client_id": 194,
+        "loan_amount": 12275.717082155757,
+        "loan_start_date": "2025-02-15",
+        "loan_due_date": "2027-11-06",
+        "interest_rate": 4.422206939994089,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 18,
+        "client_id": 466,
+        "loan_amount": 16696.761399775256,
+        "loan_start_date": "2022-01-18",
+        "loan_due_date": "2027-12-26",
+        "interest_rate": 2.7595017023581097,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 19,
+        "client_id": 434,
+        "loan_amount": 39068.7132005844,
+        "loan_start_date": "2023-02-06",
+        "loan_due_date": "2028-10-28",
+        "interest_rate": 3.6307133621082106,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 20,
+        "client_id": 439,
+        "loan_amount": 72506.9093737503,
+        "loan_start_date": "2022-08-17",
+        "loan_due_date": "2028-10-27",
+        "interest_rate": 8.255443756298162,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 21,
+        "client_id": 349,
+        "loan_amount": 57539.509813187964,
+        "loan_start_date": "2020-10-18",
+        "loan_due_date": "2030-08-12",
+        "interest_rate": 5.111425907284211,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 22,
+        "client_id": 108,
+        "loan_amount": 16376.997580317628,
+        "loan_start_date": "2022-12-11",
+        "loan_due_date": "2029-12-11",
+        "interest_rate": 8.261304629606066,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 23,
+        "client_id": 50,
+        "loan_amount": 15145.94842978118,
+        "loan_start_date": "2020-12-21",
+        "loan_due_date": "2027-05-07",
+        "interest_rate": 7.73327488609515,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 24,
+        "client_id": 253,
+        "loan_amount": 89766.40298332443,
+        "loan_start_date": "2023-07-17",
+        "loan_due_date": "2029-03-04",
+        "interest_rate": 2.5979510789729767,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 25,
+        "client_id": 5,
+        "loan_amount": 42752.44865656215,
+        "loan_start_date": "2024-03-17",
+        "loan_due_date": "2029-03-23",
+        "interest_rate": 5.073836973882305,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 26,
+        "client_id": 101,
+        "loan_amount": 5704.456323293456,
+        "loan_start_date": "2025-03-11",
+        "loan_due_date": "2029-10-05",
+        "interest_rate": 8.063981221662463,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 27,
+        "client_id": 140,
+        "loan_amount": 20992.382300412275,
+        "loan_start_date": "2023-04-13",
+        "loan_due_date": "2029-06-16",
+        "interest_rate": 4.375034873459018,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 28,
+        "client_id": 390,
+        "loan_amount": 61077.23165474736,
+        "loan_start_date": "2025-04-18",
+        "loan_due_date": "2027-09-25",
+        "interest_rate": 8.484360608444067,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 29,
+        "client_id": 353,
+        "loan_amount": 98372.96284132135,
+        "loan_start_date": "2020-10-19",
+        "loan_due_date": "2026-12-04",
+        "interest_rate": 5.460313565882007,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 30,
+        "client_id": 52,
+        "loan_amount": 31319.26746432552,
+        "loan_start_date": "2020-08-04",
+        "loan_due_date": "2028-01-18",
+        "interest_rate": 3.062439844202631,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 31,
+        "client_id": 497,
+        "loan_amount": 73591.67273403617,
+        "loan_start_date": "2025-06-06",
+        "loan_due_date": "2029-05-31",
+        "interest_rate": 2.9657885589040642,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 32,
+        "client_id": 160,
+        "loan_amount": 76126.47040616692,
+        "loan_start_date": "2023-12-26",
+        "loan_due_date": "2030-03-12",
+        "interest_rate": 5.198792802162641,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 33,
+        "client_id": 411,
+        "loan_amount": 97373.02736570413,
+        "loan_start_date": "2022-04-12",
+        "loan_due_date": "2029-05-10",
+        "interest_rate": 5.676969528980161,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 34,
+        "client_id": 202,
+        "loan_amount": 41533.05679479075,
+        "loan_start_date": "2020-01-26",
+        "loan_due_date": "2027-04-15",
+        "interest_rate": 8.42489848620058,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 35,
+        "client_id": 114,
+        "loan_amount": 12245.716922195596,
+        "loan_start_date": "2025-02-02",
+        "loan_due_date": "2027-11-10",
+        "interest_rate": 6.181842414189882,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 36,
+        "client_id": 297,
+        "loan_amount": 16282.441284418559,
+        "loan_start_date": "2024-02-26",
+        "loan_due_date": "2028-03-07",
+        "interest_rate": 6.313847641920216,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 37,
+        "client_id": 157,
+        "loan_amount": 38797.17538904889,
+        "loan_start_date": "2020-01-03",
+        "loan_due_date": "2026-06-17",
+        "interest_rate": 7.366381738565469,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 38,
+        "client_id": 467,
+        "loan_amount": 88666.34797549358,
+        "loan_start_date": "2020-12-31",
+        "loan_due_date": "2026-12-17",
+        "interest_rate": 6.61933272804803,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 39,
+        "client_id": 459,
+        "loan_amount": 48009.5953469035,
+        "loan_start_date": "2022-09-29",
+        "loan_due_date": "2028-11-21",
+        "interest_rate": 7.082140394843082,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 40,
+        "client_id": 147,
+        "loan_amount": 67315.52040500642,
+        "loan_start_date": "2020-10-25",
+        "loan_due_date": "2029-06-10",
+        "interest_rate": 8.344537286009267,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 41,
+        "client_id": 229,
+        "loan_amount": 68895.15231667898,
+        "loan_start_date": "2021-07-22",
+        "loan_due_date": "2029-10-08",
+        "interest_rate": 2.977850244234493,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 42,
+        "client_id": 398,
+        "loan_amount": 50718.58156754827,
+        "loan_start_date": "2022-09-26",
+        "loan_due_date": "2025-11-12",
+        "interest_rate": 4.410604824513941,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 43,
+        "client_id": 92,
+        "loan_amount": 8643.810526268864,
+        "loan_start_date": "2023-05-22",
+        "loan_due_date": "2030-10-06",
+        "interest_rate": 5.394279158906607,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 44,
+        "client_id": 166,
+        "loan_amount": 6891.3042461820605,
+        "loan_start_date": "2021-05-27",
+        "loan_due_date": "2026-07-10",
+        "interest_rate": 6.772449034069427,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 45,
+        "client_id": 74,
+        "loan_amount": 52212.443887789865,
+        "loan_start_date": "2023-01-01",
+        "loan_due_date": "2027-10-02",
+        "interest_rate": 3.888472205050083,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 46,
+        "client_id": 330,
+        "loan_amount": 35123.523909639756,
+        "loan_start_date": "2022-04-23",
+        "loan_due_date": "2026-11-03",
+        "interest_rate": 3.2647250580634015,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 47,
+        "client_id": 151,
+        "loan_amount": 58132.166853142604,
+        "loan_start_date": "2022-10-09",
+        "loan_due_date": "2026-02-07",
+        "interest_rate": 4.652356606461434,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 48,
+        "client_id": 29,
+        "loan_amount": 90188.78494290252,
+        "loan_start_date": "2020-07-30",
+        "loan_due_date": "2030-10-03",
+        "interest_rate": 5.259399224151187,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 49,
+        "client_id": 88,
+        "loan_amount": 83783.3812216117,
+        "loan_start_date": "2020-05-03",
+        "loan_due_date": "2030-06-11",
+        "interest_rate": 4.160100002987706,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 50,
+        "client_id": 181,
+        "loan_amount": 16870.364811697284,
+        "loan_start_date": "2024-10-21",
+        "loan_due_date": "2026-05-09",
+        "interest_rate": 6.687181185531289,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 51,
+        "client_id": 393,
+        "loan_amount": 88293.77089818964,
+        "loan_start_date": "2023-11-28",
+        "loan_due_date": "2030-01-02",
+        "interest_rate": 7.2438788698487855,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 52,
+        "client_id": 205,
+        "loan_amount": 48618.40313919362,
+        "loan_start_date": "2020-06-21",
+        "loan_due_date": "2026-04-14",
+        "interest_rate": 4.9196882795835695,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 53,
+        "client_id": 385,
+        "loan_amount": 85022.79580111131,
+        "loan_start_date": "2025-09-23",
+        "loan_due_date": "2030-06-09",
+        "interest_rate": 3.6234671620810155,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 54,
+        "client_id": 134,
+        "loan_amount": 48010.25825443032,
+        "loan_start_date": "2024-06-24",
+        "loan_due_date": "2026-11-27",
+        "interest_rate": 7.6096922616949545,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 55,
+        "client_id": 36,
+        "loan_amount": 80534.05974102802,
+        "loan_start_date": "2024-05-24",
+        "loan_due_date": "2026-11-13",
+        "interest_rate": 7.56855720010215,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 56,
+        "client_id": 251,
+        "loan_amount": 40034.28239633343,
+        "loan_start_date": "2020-08-30",
+        "loan_due_date": "2025-12-05",
+        "interest_rate": 3.1569232717586884,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 57,
+        "client_id": 393,
+        "loan_amount": 9927.232322456108,
+        "loan_start_date": "2020-09-05",
+        "loan_due_date": "2028-12-16",
+        "interest_rate": 3.3386462903188594,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 58,
+        "client_id": 183,
+        "loan_amount": 28616.90871441667,
+        "loan_start_date": "2020-09-23",
+        "loan_due_date": "2029-08-24",
+        "interest_rate": 3.399666666578437,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 59,
+        "client_id": 201,
+        "loan_amount": 28313.151132461906,
+        "loan_start_date": "2020-02-29",
+        "loan_due_date": "2028-03-27",
+        "interest_rate": 4.1017015125129355,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 60,
+        "client_id": 78,
+        "loan_amount": 5832.450691864498,
+        "loan_start_date": "2023-02-13",
+        "loan_due_date": "2026-05-26",
+        "interest_rate": 5.543497967069085,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 61,
+        "client_id": 138,
+        "loan_amount": 6811.913299812093,
+        "loan_start_date": "2022-05-30",
+        "loan_due_date": "2027-05-26",
+        "interest_rate": 3.1441404355062024,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 62,
+        "client_id": 318,
+        "loan_amount": 61562.87801936832,
+        "loan_start_date": "2021-05-10",
+        "loan_due_date": "2027-01-21",
+        "interest_rate": 7.507537810839256,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 63,
+        "client_id": 380,
+        "loan_amount": 62356.51214396937,
+        "loan_start_date": "2020-07-24",
+        "loan_due_date": "2028-12-30",
+        "interest_rate": 6.032587426876768,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 64,
+        "client_id": 39,
+        "loan_amount": 82296.92313955129,
+        "loan_start_date": "2022-02-26",
+        "loan_due_date": "2026-07-21",
+        "interest_rate": 7.676186325038616,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 65,
+        "client_id": 371,
+        "loan_amount": 8214.34593345034,
+        "loan_start_date": "2021-06-30",
+        "loan_due_date": "2027-08-08",
+        "interest_rate": 6.964412288275863,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 66,
+        "client_id": 368,
+        "loan_amount": 14032.026845842607,
+        "loan_start_date": "2020-06-10",
+        "loan_due_date": "2027-01-06",
+        "interest_rate": 7.825125671323769,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 67,
+        "client_id": 293,
+        "loan_amount": 61146.41729441504,
+        "loan_start_date": "2022-08-09",
+        "loan_due_date": "2029-07-03",
+        "interest_rate": 7.507971782098668,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 68,
+        "client_id": 81,
+        "loan_amount": 20094.188939526743,
+        "loan_start_date": "2022-08-18",
+        "loan_due_date": "2027-12-01",
+        "interest_rate": 2.930491201216037,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 69,
+        "client_id": 176,
+        "loan_amount": 84689.53116558089,
+        "loan_start_date": "2022-10-28",
+        "loan_due_date": "2025-12-18",
+        "interest_rate": 6.151896676633739,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 70,
+        "client_id": 238,
+        "loan_amount": 40615.230011242165,
+        "loan_start_date": "2022-07-05",
+        "loan_due_date": "2030-01-21",
+        "interest_rate": 3.1194563800712665,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 71,
+        "client_id": 268,
+        "loan_amount": 35210.565659215674,
+        "loan_start_date": "2021-07-07",
+        "loan_due_date": "2030-07-24",
+        "interest_rate": 7.587537905528606,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 72,
+        "client_id": 445,
+        "loan_amount": 20923.232748780967,
+        "loan_start_date": "2020-10-11",
+        "loan_due_date": "2028-12-20",
+        "interest_rate": 8.329312873875875,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 73,
+        "client_id": 172,
+        "loan_amount": 11210.424099122341,
+        "loan_start_date": "2021-08-09",
+        "loan_due_date": "2028-06-15",
+        "interest_rate": 7.475600143409838,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 74,
+        "client_id": 137,
+        "loan_amount": 44209.112718168326,
+        "loan_start_date": "2022-11-04",
+        "loan_due_date": "2027-11-19",
+        "interest_rate": 4.215909676108518,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 75,
+        "client_id": 316,
+        "loan_amount": 42881.56276352474,
+        "loan_start_date": "2022-11-24",
+        "loan_due_date": "2030-08-29",
+        "interest_rate": 3.4827609540890405,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 76,
+        "client_id": 383,
+        "loan_amount": 48218.49076853997,
+        "loan_start_date": "2023-02-01",
+        "loan_due_date": "2029-08-10",
+        "interest_rate": 5.72240798721306,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 77,
+        "client_id": 371,
+        "loan_amount": 82971.29108242081,
+        "loan_start_date": "2023-07-11",
+        "loan_due_date": "2025-11-24",
+        "interest_rate": 6.764096005383607,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 78,
+        "client_id": 376,
+        "loan_amount": 16169.350335245019,
+        "loan_start_date": "2023-07-04",
+        "loan_due_date": "2029-12-19",
+        "interest_rate": 5.046728324960175,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 79,
+        "client_id": 476,
+        "loan_amount": 37336.04689707999,
+        "loan_start_date": "2022-10-17",
+        "loan_due_date": "2025-10-21",
+        "interest_rate": 4.632473390967864,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 80,
+        "client_id": 396,
+        "loan_amount": 49234.56746653317,
+        "loan_start_date": "2022-07-25",
+        "loan_due_date": "2026-05-09",
+        "interest_rate": 5.8095818814156095,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 81,
+        "client_id": 311,
+        "loan_amount": 70142.1246899315,
+        "loan_start_date": "2021-11-28",
+        "loan_due_date": "2027-02-15",
+        "interest_rate": 7.497364828504391,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 82,
+        "client_id": 221,
+        "loan_amount": 92765.62413158616,
+        "loan_start_date": "2020-12-13",
+        "loan_due_date": "2028-05-08",
+        "interest_rate": 4.348801415394428,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 83,
+        "client_id": 220,
+        "loan_amount": 56575.72286896853,
+        "loan_start_date": "2021-03-15",
+        "loan_due_date": "2028-12-05",
+        "interest_rate": 3.489381457947645,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 84,
+        "client_id": 401,
+        "loan_amount": 90930.85194064585,
+        "loan_start_date": "2023-08-28",
+        "loan_due_date": "2030-04-26",
+        "interest_rate": 4.629768672513105,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 85,
+        "client_id": 437,
+        "loan_amount": 28609.057727251442,
+        "loan_start_date": "2020-05-03",
+        "loan_due_date": "2026-04-08",
+        "interest_rate": 7.8917106300034,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 86,
+        "client_id": 157,
+        "loan_amount": 68307.33795710275,
+        "loan_start_date": "2025-04-09",
+        "loan_due_date": "2029-07-15",
+        "interest_rate": 4.310334742898524,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 87,
+        "client_id": 303,
+        "loan_amount": 41072.844104487296,
+        "loan_start_date": "2020-06-05",
+        "loan_due_date": "2029-06-20",
+        "interest_rate": 7.0198350715461215,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 88,
+        "client_id": 172,
+        "loan_amount": 55664.325585077124,
+        "loan_start_date": "2020-03-12",
+        "loan_due_date": "2026-03-14",
+        "interest_rate": 3.197313702616488,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 89,
+        "client_id": 329,
+        "loan_amount": 77233.12024950451,
+        "loan_start_date": "2020-08-04",
+        "loan_due_date": "2029-05-17",
+        "interest_rate": 4.7579959380328445,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 90,
+        "client_id": 168,
+        "loan_amount": 51933.8530119501,
+        "loan_start_date": "2023-04-09",
+        "loan_due_date": "2030-08-27",
+        "interest_rate": 7.176173759366377,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 91,
+        "client_id": 474,
+        "loan_amount": 5788.797683916025,
+        "loan_start_date": "2024-02-19",
+        "loan_due_date": "2027-02-01",
+        "interest_rate": 6.343957709926167,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 92,
+        "client_id": 161,
+        "loan_amount": 55908.97187211992,
+        "loan_start_date": "2024-07-25",
+        "loan_due_date": "2028-12-24",
+        "interest_rate": 6.474531907895301,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 93,
+        "client_id": 89,
+        "loan_amount": 79676.87397007608,
+        "loan_start_date": "2021-04-19",
+        "loan_due_date": "2030-08-04",
+        "interest_rate": 5.546472216798536,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 94,
+        "client_id": 82,
+        "loan_amount": 67827.89013356081,
+        "loan_start_date": "2022-09-22",
+        "loan_due_date": "2028-06-22",
+        "interest_rate": 4.188860548791078,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 95,
+        "client_id": 451,
+        "loan_amount": 28859.92973018893,
+        "loan_start_date": "2020-12-09",
+        "loan_due_date": "2028-04-06",
+        "interest_rate": 7.301879043216445,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 96,
+        "client_id": 420,
+        "loan_amount": 18540.714637359284,
+        "loan_start_date": "2025-04-17",
+        "loan_due_date": "2026-11-10",
+        "interest_rate": 4.523767370011822,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 97,
+        "client_id": 90,
+        "loan_amount": 12503.879828862744,
+        "loan_start_date": "2020-12-09",
+        "loan_due_date": "2029-06-28",
+        "interest_rate": 5.683831749605378,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 98,
+        "client_id": 107,
+        "loan_amount": 78026.13224766137,
+        "loan_start_date": "2020-07-29",
+        "loan_due_date": "2030-05-11",
+        "interest_rate": 7.493417894150905,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 99,
+        "client_id": 4,
+        "loan_amount": 91235.52993574186,
+        "loan_start_date": "2025-01-03",
+        "loan_due_date": "2029-09-04",
+        "interest_rate": 3.9852142183641126,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 100,
+        "client_id": 137,
+        "loan_amount": 36925.15367157357,
+        "loan_start_date": "2020-02-06",
+        "loan_due_date": "2026-07-22",
+        "interest_rate": 4.633495731443873,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 101,
+        "client_id": 338,
+        "loan_amount": 37739.38210568154,
+        "loan_start_date": "2023-12-25",
+        "loan_due_date": "2028-03-22",
+        "interest_rate": 6.321881852743873,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 102,
+        "client_id": 99,
+        "loan_amount": 97415.19137920882,
+        "loan_start_date": "2024-09-14",
+        "loan_due_date": "2030-01-05",
+        "interest_rate": 6.402109345256367,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 103,
+        "client_id": 48,
+        "loan_amount": 65851.78039770015,
+        "loan_start_date": "2024-05-10",
+        "loan_due_date": "2027-12-26",
+        "interest_rate": 5.901735664595054,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 104,
+        "client_id": 399,
+        "loan_amount": 41065.9114904652,
+        "loan_start_date": "2020-07-02",
+        "loan_due_date": "2028-09-06",
+        "interest_rate": 2.5369794750168326,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 105,
+        "client_id": 439,
+        "loan_amount": 72045.1958450528,
+        "loan_start_date": "2024-12-27",
+        "loan_due_date": "2027-03-09",
+        "interest_rate": 7.545729828868959,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 106,
+        "client_id": 383,
+        "loan_amount": 14323.492446210308,
+        "loan_start_date": "2024-01-10",
+        "loan_due_date": "2029-05-29",
+        "interest_rate": 8.07035771635862,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 107,
+        "client_id": 76,
+        "loan_amount": 95055.17665302193,
+        "loan_start_date": "2025-07-10",
+        "loan_due_date": "2027-03-13",
+        "interest_rate": 8.104546018789524,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 108,
+        "client_id": 108,
+        "loan_amount": 95097.47389625177,
+        "loan_start_date": "2024-11-11",
+        "loan_due_date": "2027-02-25",
+        "interest_rate": 8.005723387255335,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 109,
+        "client_id": 360,
+        "loan_amount": 43742.39620039071,
+        "loan_start_date": "2022-11-30",
+        "loan_due_date": "2027-02-14",
+        "interest_rate": 4.814413437395214,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 110,
+        "client_id": 66,
+        "loan_amount": 69344.91771465205,
+        "loan_start_date": "2024-02-14",
+        "loan_due_date": "2028-02-15",
+        "interest_rate": 2.7863198993446745,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 111,
+        "client_id": 358,
+        "loan_amount": 24876.098885610165,
+        "loan_start_date": "2023-03-02",
+        "loan_due_date": "2028-03-08",
+        "interest_rate": 8.009328662638747,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 112,
+        "client_id": 21,
+        "loan_amount": 7735.94268362498,
+        "loan_start_date": "2022-02-02",
+        "loan_due_date": "2026-05-11",
+        "interest_rate": 4.17361526264965,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 113,
+        "client_id": 464,
+        "loan_amount": 72114.85516341342,
+        "loan_start_date": "2022-07-22",
+        "loan_due_date": "2029-05-06",
+        "interest_rate": 5.301494837017876,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 114,
+        "client_id": 354,
+        "loan_amount": 82895.14745484688,
+        "loan_start_date": "2025-09-29",
+        "loan_due_date": "2027-01-17",
+        "interest_rate": 7.3922508887541625,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 115,
+        "client_id": 204,
+        "loan_amount": 82500.7729456607,
+        "loan_start_date": "2020-03-23",
+        "loan_due_date": "2027-02-21",
+        "interest_rate": 6.250280142264925,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 116,
+        "client_id": 69,
+        "loan_amount": 72027.79735689909,
+        "loan_start_date": "2022-10-21",
+        "loan_due_date": "2030-06-13",
+        "interest_rate": 4.971026725058113,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 117,
+        "client_id": 122,
+        "loan_amount": 17087.410370145095,
+        "loan_start_date": "2024-08-19",
+        "loan_due_date": "2027-10-24",
+        "interest_rate": 6.882762660206357,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 118,
+        "client_id": 72,
+        "loan_amount": 18173.491707024223,
+        "loan_start_date": "2024-07-14",
+        "loan_due_date": "2026-09-20",
+        "interest_rate": 3.65769593806839,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 119,
+        "client_id": 135,
+        "loan_amount": 21244.641176429406,
+        "loan_start_date": "2023-11-27",
+        "loan_due_date": "2027-07-20",
+        "interest_rate": 2.78636293704017,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 120,
+        "client_id": 270,
+        "loan_amount": 17523.853184959546,
+        "loan_start_date": "2022-11-25",
+        "loan_due_date": "2027-06-13",
+        "interest_rate": 5.337701238208545,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 121,
+        "client_id": 294,
+        "loan_amount": 69483.12686315531,
+        "loan_start_date": "2024-04-13",
+        "loan_due_date": "2028-10-26",
+        "interest_rate": 8.10353083876128,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 122,
+        "client_id": 174,
+        "loan_amount": 46842.68292087285,
+        "loan_start_date": "2021-01-16",
+        "loan_due_date": "2026-08-19",
+        "interest_rate": 4.057175551125215,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 123,
+        "client_id": 236,
+        "loan_amount": 58339.38807023111,
+        "loan_start_date": "2023-06-30",
+        "loan_due_date": "2026-07-18",
+        "interest_rate": 4.9667825329606226,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 124,
+        "client_id": 118,
+        "loan_amount": 68563.5789727704,
+        "loan_start_date": "2025-04-11",
+        "loan_due_date": "2030-04-23",
+        "interest_rate": 6.080677244788157,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 125,
+        "client_id": 154,
+        "loan_amount": 99053.63580862827,
+        "loan_start_date": "2021-04-12",
+        "loan_due_date": "2028-09-11",
+        "interest_rate": 5.0612977885643895,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 126,
+        "client_id": 282,
+        "loan_amount": 5653.611678860297,
+        "loan_start_date": "2021-11-01",
+        "loan_due_date": "2025-10-30",
+        "interest_rate": 5.820563148459156,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 127,
+        "client_id": 233,
+        "loan_amount": 94964.1737473894,
+        "loan_start_date": "2021-04-10",
+        "loan_due_date": "2028-03-15",
+        "interest_rate": 3.2413162894495575,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 128,
+        "client_id": 176,
+        "loan_amount": 51632.18791506354,
+        "loan_start_date": "2022-08-12",
+        "loan_due_date": "2028-11-17",
+        "interest_rate": 5.439343878179203,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 129,
+        "client_id": 158,
+        "loan_amount": 78306.15204683616,
+        "loan_start_date": "2022-02-18",
+        "loan_due_date": "2030-05-31",
+        "interest_rate": 3.971824652633269,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 130,
+        "client_id": 403,
+        "loan_amount": 35259.30109980766,
+        "loan_start_date": "2023-03-05",
+        "loan_due_date": "2026-10-09",
+        "interest_rate": 3.9294633147934093,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 131,
+        "client_id": 132,
+        "loan_amount": 47186.82962923155,
+        "loan_start_date": "2020-02-17",
+        "loan_due_date": "2027-05-16",
+        "interest_rate": 7.422470875789116,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 132,
+        "client_id": 163,
+        "loan_amount": 96758.20147833678,
+        "loan_start_date": "2023-12-10",
+        "loan_due_date": "2028-08-20",
+        "interest_rate": 7.505350007312883,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 133,
+        "client_id": 312,
+        "loan_amount": 14739.37986176668,
+        "loan_start_date": "2025-06-07",
+        "loan_due_date": "2026-06-13",
+        "interest_rate": 5.460745283040933,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 134,
+        "client_id": 235,
+        "loan_amount": 6683.7316797416215,
+        "loan_start_date": "2025-05-28",
+        "loan_due_date": "2026-07-17",
+        "interest_rate": 7.394469642208119,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 135,
+        "client_id": 79,
+        "loan_amount": 72628.6999303918,
+        "loan_start_date": "2022-10-10",
+        "loan_due_date": "2027-05-19",
+        "interest_rate": 6.045111850522179,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 136,
+        "client_id": 65,
+        "loan_amount": 84630.9096310933,
+        "loan_start_date": "2020-03-20",
+        "loan_due_date": "2030-06-22",
+        "interest_rate": 2.6619876036269328,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 137,
+        "client_id": 111,
+        "loan_amount": 25739.640116627703,
+        "loan_start_date": "2024-03-16",
+        "loan_due_date": "2026-09-23",
+        "interest_rate": 6.173223384549598,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 138,
+        "client_id": 344,
+        "loan_amount": 87657.8549754538,
+        "loan_start_date": "2025-08-21",
+        "loan_due_date": "2030-04-30",
+        "interest_rate": 6.164991232170235,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 139,
+        "client_id": 140,
+        "loan_amount": 88059.53319662446,
+        "loan_start_date": "2022-11-30",
+        "loan_due_date": "2027-04-06",
+        "interest_rate": 5.131245453679613,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 140,
+        "client_id": 97,
+        "loan_amount": 42143.08056074939,
+        "loan_start_date": "2022-07-16",
+        "loan_due_date": "2026-12-03",
+        "interest_rate": 7.516115576056597,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 141,
+        "client_id": 462,
+        "loan_amount": 44697.463880899966,
+        "loan_start_date": "2024-03-21",
+        "loan_due_date": "2030-02-09",
+        "interest_rate": 4.127719622896807,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 142,
+        "client_id": 28,
+        "loan_amount": 67873.02689855143,
+        "loan_start_date": "2022-02-04",
+        "loan_due_date": "2029-10-03",
+        "interest_rate": 7.232214480706128,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 143,
+        "client_id": 375,
+        "loan_amount": 79947.37228169852,
+        "loan_start_date": "2021-01-11",
+        "loan_due_date": "2028-06-30",
+        "interest_rate": 6.893412831434478,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 144,
+        "client_id": 407,
+        "loan_amount": 71882.36504046666,
+        "loan_start_date": "2024-08-09",
+        "loan_due_date": "2026-01-22",
+        "interest_rate": 2.553959774402127,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 145,
+        "client_id": 157,
+        "loan_amount": 47384.84026872523,
+        "loan_start_date": "2023-11-25",
+        "loan_due_date": "2028-06-06",
+        "interest_rate": 3.610319967014588,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 146,
+        "client_id": 456,
+        "loan_amount": 44737.029501971425,
+        "loan_start_date": "2023-01-11",
+        "loan_due_date": "2029-10-31",
+        "interest_rate": 6.752282671684106,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 147,
+        "client_id": 448,
+        "loan_amount": 86191.89611175812,
+        "loan_start_date": "2024-06-09",
+        "loan_due_date": "2026-08-22",
+        "interest_rate": 7.765438589278712,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 148,
+        "client_id": 13,
+        "loan_amount": 33866.73937523504,
+        "loan_start_date": "2023-07-20",
+        "loan_due_date": "2028-11-25",
+        "interest_rate": 5.47007641582264,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 149,
+        "client_id": 298,
+        "loan_amount": 31964.68593311445,
+        "loan_start_date": "2021-07-07",
+        "loan_due_date": "2026-03-17",
+        "interest_rate": 5.896049305101585,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 150,
+        "client_id": 29,
+        "loan_amount": 71267.52685572422,
+        "loan_start_date": "2020-06-01",
+        "loan_due_date": "2029-08-01",
+        "interest_rate": 4.95936252182508,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 151,
+        "client_id": 77,
+        "loan_amount": 65108.9021245979,
+        "loan_start_date": "2022-03-07",
+        "loan_due_date": "2029-03-09",
+        "interest_rate": 5.525749804329315,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 152,
+        "client_id": 307,
+        "loan_amount": 86742.89475071394,
+        "loan_start_date": "2024-11-25",
+        "loan_due_date": "2030-02-18",
+        "interest_rate": 4.876868932367031,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 153,
+        "client_id": 230,
+        "loan_amount": 43070.62533728646,
+        "loan_start_date": "2025-01-31",
+        "loan_due_date": "2029-07-30",
+        "interest_rate": 4.281478009560457,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 154,
+        "client_id": 160,
+        "loan_amount": 35046.71962152133,
+        "loan_start_date": "2020-09-15",
+        "loan_due_date": "2030-07-19",
+        "interest_rate": 6.039603419176526,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 155,
+        "client_id": 324,
+        "loan_amount": 78904.42054673268,
+        "loan_start_date": "2022-11-11",
+        "loan_due_date": "2028-09-02",
+        "interest_rate": 4.4124353572547275,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 156,
+        "client_id": 475,
+        "loan_amount": 82746.40361058831,
+        "loan_start_date": "2023-02-23",
+        "loan_due_date": "2029-09-06",
+        "interest_rate": 3.631718807659416,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 157,
+        "client_id": 159,
+        "loan_amount": 43584.88225150978,
+        "loan_start_date": "2024-08-04",
+        "loan_due_date": "2027-08-02",
+        "interest_rate": 8.013794197681538,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 158,
+        "client_id": 330,
+        "loan_amount": 66805.20612319096,
+        "loan_start_date": "2024-04-02",
+        "loan_due_date": "2027-05-04",
+        "interest_rate": 7.3868807796694655,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 159,
+        "client_id": 458,
+        "loan_amount": 42743.872322757525,
+        "loan_start_date": "2025-07-26",
+        "loan_due_date": "2027-01-20",
+        "interest_rate": 4.681159768878111,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 160,
+        "client_id": 358,
+        "loan_amount": 76109.22291661796,
+        "loan_start_date": "2024-08-02",
+        "loan_due_date": "2028-09-27",
+        "interest_rate": 3.6939533005515495,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 161,
+        "client_id": 481,
+        "loan_amount": 96614.24144729896,
+        "loan_start_date": "2020-06-21",
+        "loan_due_date": "2029-01-17",
+        "interest_rate": 2.6132836165176743,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 162,
+        "client_id": 297,
+        "loan_amount": 98013.17597651685,
+        "loan_start_date": "2021-04-30",
+        "loan_due_date": "2027-04-10",
+        "interest_rate": 4.608693557461967,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 163,
+        "client_id": 339,
+        "loan_amount": 80660.11084148199,
+        "loan_start_date": "2024-01-04",
+        "loan_due_date": "2030-02-17",
+        "interest_rate": 6.7754532428278695,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 164,
+        "client_id": 340,
+        "loan_amount": 15983.777883763929,
+        "loan_start_date": "2022-05-20",
+        "loan_due_date": "2028-01-26",
+        "interest_rate": 5.277715997529858,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 165,
+        "client_id": 224,
+        "loan_amount": 32169.666833901112,
+        "loan_start_date": "2021-04-20",
+        "loan_due_date": "2026-05-23",
+        "interest_rate": 5.626458238020389,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 166,
+        "client_id": 66,
+        "loan_amount": 36749.62963845415,
+        "loan_start_date": "2024-02-24",
+        "loan_due_date": "2028-11-30",
+        "interest_rate": 5.561006095938412,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 167,
+        "client_id": 452,
+        "loan_amount": 87116.56962485591,
+        "loan_start_date": "2021-04-27",
+        "loan_due_date": "2029-06-19",
+        "interest_rate": 6.932887519229256,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 168,
+        "client_id": 182,
+        "loan_amount": 97004.41684531895,
+        "loan_start_date": "2022-06-06",
+        "loan_due_date": "2026-04-09",
+        "interest_rate": 8.497807380767005,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 169,
+        "client_id": 437,
+        "loan_amount": 95867.84669166312,
+        "loan_start_date": "2023-02-28",
+        "loan_due_date": "2030-01-06",
+        "interest_rate": 3.8708923937318707,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 170,
+        "client_id": 161,
+        "loan_amount": 77181.63424143645,
+        "loan_start_date": "2023-11-07",
+        "loan_due_date": "2026-12-29",
+        "interest_rate": 5.605072395473731,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 171,
+        "client_id": 396,
+        "loan_amount": 75290.79577728802,
+        "loan_start_date": "2024-05-08",
+        "loan_due_date": "2029-11-16",
+        "interest_rate": 4.048840828101642,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 172,
+        "client_id": 155,
+        "loan_amount": 43752.10625361928,
+        "loan_start_date": "2020-02-05",
+        "loan_due_date": "2026-04-09",
+        "interest_rate": 4.974244248241031,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 173,
+        "client_id": 218,
+        "loan_amount": 82480.00805423479,
+        "loan_start_date": "2022-03-06",
+        "loan_due_date": "2026-08-08",
+        "interest_rate": 7.785504968201514,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 174,
+        "client_id": 298,
+        "loan_amount": 38301.937374115034,
+        "loan_start_date": "2024-07-12",
+        "loan_due_date": "2028-06-16",
+        "interest_rate": 4.507820373517569,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 175,
+        "client_id": 11,
+        "loan_amount": 99675.44965585449,
+        "loan_start_date": "2021-05-27",
+        "loan_due_date": "2028-06-01",
+        "interest_rate": 4.8097634167881615,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 176,
+        "client_id": 135,
+        "loan_amount": 46514.66383046495,
+        "loan_start_date": "2024-02-06",
+        "loan_due_date": "2028-10-10",
+        "interest_rate": 7.425038866242412,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 177,
+        "client_id": 13,
+        "loan_amount": 82992.0930755888,
+        "loan_start_date": "2021-05-05",
+        "loan_due_date": "2027-05-31",
+        "interest_rate": 4.569529182078958,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 178,
+        "client_id": 286,
+        "loan_amount": 98551.18790946092,
+        "loan_start_date": "2021-08-11",
+        "loan_due_date": "2027-10-19",
+        "interest_rate": 3.8500637317475856,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 179,
+        "client_id": 75,
+        "loan_amount": 77393.79346256435,
+        "loan_start_date": "2021-07-02",
+        "loan_due_date": "2030-05-20",
+        "interest_rate": 7.82135351348838,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 180,
+        "client_id": 144,
+        "loan_amount": 44459.119053121554,
+        "loan_start_date": "2025-06-12",
+        "loan_due_date": "2027-03-14",
+        "interest_rate": 5.226477959798018,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 181,
+        "client_id": 136,
+        "loan_amount": 83098.91701961082,
+        "loan_start_date": "2021-11-18",
+        "loan_due_date": "2026-08-09",
+        "interest_rate": 4.653634443256238,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 182,
+        "client_id": 139,
+        "loan_amount": 71080.16668713056,
+        "loan_start_date": "2025-03-27",
+        "loan_due_date": "2030-01-27",
+        "interest_rate": 5.217834456929511,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 183,
+        "client_id": 342,
+        "loan_amount": 84780.7364169036,
+        "loan_start_date": "2021-02-21",
+        "loan_due_date": "2029-10-05",
+        "interest_rate": 3.4026085085221154,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 184,
+        "client_id": 95,
+        "loan_amount": 49064.94191732388,
+        "loan_start_date": "2021-07-04",
+        "loan_due_date": "2028-03-28",
+        "interest_rate": 4.819202203595598,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 185,
+        "client_id": 260,
+        "loan_amount": 71042.14833261896,
+        "loan_start_date": "2021-08-15",
+        "loan_due_date": "2030-03-25",
+        "interest_rate": 6.496870759782848,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 186,
+        "client_id": 332,
+        "loan_amount": 7339.893737451175,
+        "loan_start_date": "2020-11-22",
+        "loan_due_date": "2026-03-09",
+        "interest_rate": 7.014967280046099,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 187,
+        "client_id": 19,
+        "loan_amount": 82983.38560521984,
+        "loan_start_date": "2021-01-15",
+        "loan_due_date": "2028-12-21",
+        "interest_rate": 3.0700948686239613,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 188,
+        "client_id": 498,
+        "loan_amount": 37122.29179697122,
+        "loan_start_date": "2020-07-14",
+        "loan_due_date": "2027-07-23",
+        "interest_rate": 3.8095899363037167,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 189,
+        "client_id": 118,
+        "loan_amount": 71257.93068919372,
+        "loan_start_date": "2020-06-09",
+        "loan_due_date": "2028-06-07",
+        "interest_rate": 8.277423571589752,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 190,
+        "client_id": 51,
+        "loan_amount": 25933.745889173642,
+        "loan_start_date": "2020-02-26",
+        "loan_due_date": "2026-09-12",
+        "interest_rate": 7.346203792226996,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 191,
+        "client_id": 127,
+        "loan_amount": 9420.576193053288,
+        "loan_start_date": "2022-03-14",
+        "loan_due_date": "2030-06-16",
+        "interest_rate": 3.0394642132611134,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 192,
+        "client_id": 359,
+        "loan_amount": 22561.04320303588,
+        "loan_start_date": "2021-04-03",
+        "loan_due_date": "2025-12-14",
+        "interest_rate": 5.786518728359701,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 193,
+        "client_id": 271,
+        "loan_amount": 53284.73036271721,
+        "loan_start_date": "2022-03-20",
+        "loan_due_date": "2027-12-05",
+        "interest_rate": 5.910205366889808,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 194,
+        "client_id": 248,
+        "loan_amount": 64793.99112367929,
+        "loan_start_date": "2024-01-10",
+        "loan_due_date": "2029-01-03",
+        "interest_rate": 4.059690839741945,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 195,
+        "client_id": 214,
+        "loan_amount": 55575.9238162226,
+        "loan_start_date": "2023-02-21",
+        "loan_due_date": "2029-07-17",
+        "interest_rate": 5.805964712193175,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 196,
+        "client_id": 216,
+        "loan_amount": 77851.85496731166,
+        "loan_start_date": "2022-06-25",
+        "loan_due_date": "2030-02-07",
+        "interest_rate": 8.282597732030329,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 197,
+        "client_id": 500,
+        "loan_amount": 99261.21731976318,
+        "loan_start_date": "2022-02-24",
+        "loan_due_date": "2028-05-01",
+        "interest_rate": 5.9780522091818735,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 198,
+        "client_id": 444,
+        "loan_amount": 14970.269970202356,
+        "loan_start_date": "2022-05-16",
+        "loan_due_date": "2027-07-18",
+        "interest_rate": 5.090328919303716,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 199,
+        "client_id": 97,
+        "loan_amount": 18440.236134803607,
+        "loan_start_date": "2025-01-29",
+        "loan_due_date": "2030-05-11",
+        "interest_rate": 5.726893595205972,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 200,
+        "client_id": 394,
+        "loan_amount": 95735.14546466242,
+        "loan_start_date": "2025-03-23",
+        "loan_due_date": "2029-07-05",
+        "interest_rate": 4.320089045444853,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 201,
+        "client_id": 259,
+        "loan_amount": 99147.9047077273,
+        "loan_start_date": "2021-03-31",
+        "loan_due_date": "2030-06-05",
+        "interest_rate": 8.122099814067656,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 202,
+        "client_id": 277,
+        "loan_amount": 57171.12904378541,
+        "loan_start_date": "2020-03-22",
+        "loan_due_date": "2029-11-30",
+        "interest_rate": 4.20343277511704,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 203,
+        "client_id": 413,
+        "loan_amount": 20830.096273137497,
+        "loan_start_date": "2023-11-12",
+        "loan_due_date": "2028-02-26",
+        "interest_rate": 7.713071184868101,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 204,
+        "client_id": 25,
+        "loan_amount": 39053.53991860452,
+        "loan_start_date": "2024-12-14",
+        "loan_due_date": "2027-10-02",
+        "interest_rate": 7.709861448555661,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 205,
+        "client_id": 439,
+        "loan_amount": 65097.79478915664,
+        "loan_start_date": "2021-10-13",
+        "loan_due_date": "2027-08-13",
+        "interest_rate": 6.700045851640806,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 206,
+        "client_id": 40,
+        "loan_amount": 57268.540862830494,
+        "loan_start_date": "2025-08-06",
+        "loan_due_date": "2030-08-01",
+        "interest_rate": 5.212146445381065,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 207,
+        "client_id": 151,
+        "loan_amount": 29567.489106610694,
+        "loan_start_date": "2021-06-01",
+        "loan_due_date": "2030-05-20",
+        "interest_rate": 8.292287461399852,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 208,
+        "client_id": 51,
+        "loan_amount": 37703.37677326231,
+        "loan_start_date": "2024-03-28",
+        "loan_due_date": "2028-10-06",
+        "interest_rate": 4.767186289803934,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 209,
+        "client_id": 154,
+        "loan_amount": 38816.367959667274,
+        "loan_start_date": "2020-10-04",
+        "loan_due_date": "2029-07-01",
+        "interest_rate": 3.169441995187775,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 210,
+        "client_id": 53,
+        "loan_amount": 59826.837449784914,
+        "loan_start_date": "2022-04-03",
+        "loan_due_date": "2029-03-02",
+        "interest_rate": 6.172951140511051,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 211,
+        "client_id": 66,
+        "loan_amount": 94261.1504378413,
+        "loan_start_date": "2023-08-28",
+        "loan_due_date": "2029-09-24",
+        "interest_rate": 5.251829203979542,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 212,
+        "client_id": 41,
+        "loan_amount": 71209.38602211434,
+        "loan_start_date": "2023-10-25",
+        "loan_due_date": "2025-12-20",
+        "interest_rate": 4.23957031829611,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 213,
+        "client_id": 41,
+        "loan_amount": 34186.297359705306,
+        "loan_start_date": "2025-07-08",
+        "loan_due_date": "2028-05-18",
+        "interest_rate": 4.365147437601052,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 214,
+        "client_id": 402,
+        "loan_amount": 16821.43090967791,
+        "loan_start_date": "2025-01-13",
+        "loan_due_date": "2028-09-11",
+        "interest_rate": 3.6960793395742364,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 215,
+        "client_id": 327,
+        "loan_amount": 92214.87659874698,
+        "loan_start_date": "2024-09-09",
+        "loan_due_date": "2027-02-07",
+        "interest_rate": 6.852924405660153,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 216,
+        "client_id": 204,
+        "loan_amount": 16327.194859519132,
+        "loan_start_date": "2023-03-26",
+        "loan_due_date": "2027-01-06",
+        "interest_rate": 2.5339149008976394,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 217,
+        "client_id": 45,
+        "loan_amount": 85225.60845631328,
+        "loan_start_date": "2023-07-08",
+        "loan_due_date": "2027-11-25",
+        "interest_rate": 7.244340183505715,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 218,
+        "client_id": 359,
+        "loan_amount": 73179.82589436798,
+        "loan_start_date": "2020-12-04",
+        "loan_due_date": "2030-03-24",
+        "interest_rate": 5.202316806072602,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 219,
+        "client_id": 315,
+        "loan_amount": 40527.22889302317,
+        "loan_start_date": "2021-07-15",
+        "loan_due_date": "2029-03-04",
+        "interest_rate": 5.048262577022777,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 220,
+        "client_id": 239,
+        "loan_amount": 71454.09170347845,
+        "loan_start_date": "2021-10-31",
+        "loan_due_date": "2027-01-10",
+        "interest_rate": 5.611492671254852,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 221,
+        "client_id": 153,
+        "loan_amount": 28856.490891511316,
+        "loan_start_date": "2022-05-06",
+        "loan_due_date": "2028-04-07",
+        "interest_rate": 5.136525250692621,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 222,
+        "client_id": 49,
+        "loan_amount": 88535.20513491816,
+        "loan_start_date": "2020-12-26",
+        "loan_due_date": "2028-01-09",
+        "interest_rate": 7.428577541256711,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 223,
+        "client_id": 404,
+        "loan_amount": 16820.6304263807,
+        "loan_start_date": "2025-08-16",
+        "loan_due_date": "2030-07-03",
+        "interest_rate": 8.369631030391151,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 224,
+        "client_id": 325,
+        "loan_amount": 28109.09791442703,
+        "loan_start_date": "2024-05-23",
+        "loan_due_date": "2030-06-15",
+        "interest_rate": 6.875490594420503,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 225,
+        "client_id": 354,
+        "loan_amount": 68055.71011070925,
+        "loan_start_date": "2020-01-30",
+        "loan_due_date": "2026-04-04",
+        "interest_rate": 4.586642280839463,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 226,
+        "client_id": 242,
+        "loan_amount": 98860.85265390648,
+        "loan_start_date": "2023-04-22",
+        "loan_due_date": "2029-09-04",
+        "interest_rate": 4.53802081055683,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 227,
+        "client_id": 364,
+        "loan_amount": 10689.847534990426,
+        "loan_start_date": "2024-05-16",
+        "loan_due_date": "2025-11-06",
+        "interest_rate": 4.876471110999372,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 228,
+        "client_id": 297,
+        "loan_amount": 34122.39144998259,
+        "loan_start_date": "2021-11-21",
+        "loan_due_date": "2028-08-29",
+        "interest_rate": 4.862467138015488,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 229,
+        "client_id": 262,
+        "loan_amount": 63981.414717255786,
+        "loan_start_date": "2023-11-13",
+        "loan_due_date": "2027-05-18",
+        "interest_rate": 5.036618134857177,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 230,
+        "client_id": 212,
+        "loan_amount": 94153.9150105462,
+        "loan_start_date": "2020-12-18",
+        "loan_due_date": "2025-12-23",
+        "interest_rate": 7.301894678241968,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 231,
+        "client_id": 11,
+        "loan_amount": 75969.59699332059,
+        "loan_start_date": "2024-04-16",
+        "loan_due_date": "2029-06-16",
+        "interest_rate": 3.4329229090629063,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 232,
+        "client_id": 60,
+        "loan_amount": 94767.65901164984,
+        "loan_start_date": "2025-02-16",
+        "loan_due_date": "2027-04-25",
+        "interest_rate": 5.928126398635457,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 233,
+        "client_id": 252,
+        "loan_amount": 86110.01126672105,
+        "loan_start_date": "2020-09-02",
+        "loan_due_date": "2026-08-25",
+        "interest_rate": 5.336942370451618,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 234,
+        "client_id": 406,
+        "loan_amount": 84807.62120002715,
+        "loan_start_date": "2021-01-26",
+        "loan_due_date": "2026-02-20",
+        "interest_rate": 6.125720759130022,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 235,
+        "client_id": 223,
+        "loan_amount": 43217.373526938936,
+        "loan_start_date": "2021-02-04",
+        "loan_due_date": "2026-05-17",
+        "interest_rate": 8.058651982655705,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 236,
+        "client_id": 379,
+        "loan_amount": 45069.18699090778,
+        "loan_start_date": "2023-08-06",
+        "loan_due_date": "2029-10-21",
+        "interest_rate": 6.590277886990137,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 237,
+        "client_id": 434,
+        "loan_amount": 87622.83974241743,
+        "loan_start_date": "2021-12-18",
+        "loan_due_date": "2030-01-31",
+        "interest_rate": 8.257307597698265,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 238,
+        "client_id": 321,
+        "loan_amount": 94105.62684236313,
+        "loan_start_date": "2020-05-21",
+        "loan_due_date": "2027-12-12",
+        "interest_rate": 3.3544285329944836,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 239,
+        "client_id": 314,
+        "loan_amount": 22544.303619737733,
+        "loan_start_date": "2024-07-07",
+        "loan_due_date": "2029-06-18",
+        "interest_rate": 4.088341495235799,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 240,
+        "client_id": 119,
+        "loan_amount": 46296.477781304566,
+        "loan_start_date": "2024-09-26",
+        "loan_due_date": "2028-03-10",
+        "interest_rate": 6.047476338936243,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 241,
+        "client_id": 172,
+        "loan_amount": 78854.5402024363,
+        "loan_start_date": "2025-06-23",
+        "loan_due_date": "2027-04-12",
+        "interest_rate": 4.536382067800728,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 242,
+        "client_id": 281,
+        "loan_amount": 92448.19201678016,
+        "loan_start_date": "2020-12-30",
+        "loan_due_date": "2027-05-12",
+        "interest_rate": 4.855184802287157,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 243,
+        "client_id": 377,
+        "loan_amount": 74064.62308473176,
+        "loan_start_date": "2022-10-14",
+        "loan_due_date": "2027-12-13",
+        "interest_rate": 5.32869944547909,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 244,
+        "client_id": 434,
+        "loan_amount": 90127.04197533452,
+        "loan_start_date": "2021-05-29",
+        "loan_due_date": "2030-06-08",
+        "interest_rate": 4.995882700418658,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 245,
+        "client_id": 29,
+        "loan_amount": 54909.41202656683,
+        "loan_start_date": "2020-11-24",
+        "loan_due_date": "2029-10-08",
+        "interest_rate": 8.314216104254392,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 246,
+        "client_id": 143,
+        "loan_amount": 20097.32693092267,
+        "loan_start_date": "2020-12-07",
+        "loan_due_date": "2026-06-28",
+        "interest_rate": 7.187325645327593,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 247,
+        "client_id": 215,
+        "loan_amount": 10757.262448882806,
+        "loan_start_date": "2021-11-10",
+        "loan_due_date": "2026-09-24",
+        "interest_rate": 7.086219228597381,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 248,
+        "client_id": 50,
+        "loan_amount": 57830.05485450299,
+        "loan_start_date": "2022-10-18",
+        "loan_due_date": "2028-09-24",
+        "interest_rate": 7.85987807274628,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 249,
+        "client_id": 491,
+        "loan_amount": 91053.04386356696,
+        "loan_start_date": "2024-07-17",
+        "loan_due_date": "2027-02-08",
+        "interest_rate": 7.435349314995383,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 250,
+        "client_id": 452,
+        "loan_amount": 15659.968503421498,
+        "loan_start_date": "2023-08-26",
+        "loan_due_date": "2026-05-04",
+        "interest_rate": 5.456151081604354,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 251,
+        "client_id": 359,
+        "loan_amount": 96100.90003350783,
+        "loan_start_date": "2025-07-18",
+        "loan_due_date": "2026-05-02",
+        "interest_rate": 4.568496507699086,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 252,
+        "client_id": 176,
+        "loan_amount": 95710.8176688913,
+        "loan_start_date": "2020-10-11",
+        "loan_due_date": "2029-08-23",
+        "interest_rate": 3.689541330963902,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 253,
+        "client_id": 491,
+        "loan_amount": 69064.58499848016,
+        "loan_start_date": "2021-05-06",
+        "loan_due_date": "2030-01-31",
+        "interest_rate": 3.6844784080814286,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 254,
+        "client_id": 91,
+        "loan_amount": 48412.47818467375,
+        "loan_start_date": "2020-07-14",
+        "loan_due_date": "2030-02-19",
+        "interest_rate": 6.3058601596697015,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 255,
+        "client_id": 220,
+        "loan_amount": 16019.113139687466,
+        "loan_start_date": "2023-08-13",
+        "loan_due_date": "2030-06-19",
+        "interest_rate": 2.8324651984105844,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 256,
+        "client_id": 283,
+        "loan_amount": 78665.49780410495,
+        "loan_start_date": "2021-04-19",
+        "loan_due_date": "2029-05-01",
+        "interest_rate": 4.514186392251091,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 257,
+        "client_id": 17,
+        "loan_amount": 65780.60209097598,
+        "loan_start_date": "2024-03-19",
+        "loan_due_date": "2028-09-11",
+        "interest_rate": 4.38263301192942,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 258,
+        "client_id": 455,
+        "loan_amount": 62187.433179953085,
+        "loan_start_date": "2022-02-01",
+        "loan_due_date": "2030-05-08",
+        "interest_rate": 7.940336553327217,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 259,
+        "client_id": 177,
+        "loan_amount": 44699.40573705945,
+        "loan_start_date": "2023-10-04",
+        "loan_due_date": "2029-09-10",
+        "interest_rate": 3.69083342793755,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 260,
+        "client_id": 80,
+        "loan_amount": 75229.17142306465,
+        "loan_start_date": "2025-03-08",
+        "loan_due_date": "2026-11-05",
+        "interest_rate": 8.376244673976467,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 261,
+        "client_id": 196,
+        "loan_amount": 70686.48834205783,
+        "loan_start_date": "2024-12-08",
+        "loan_due_date": "2026-11-26",
+        "interest_rate": 7.380915519105494,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 262,
+        "client_id": 376,
+        "loan_amount": 29278.601949892694,
+        "loan_start_date": "2024-03-25",
+        "loan_due_date": "2028-08-26",
+        "interest_rate": 7.495839317623344,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 263,
+        "client_id": 339,
+        "loan_amount": 41955.92070903224,
+        "loan_start_date": "2024-05-07",
+        "loan_due_date": "2027-03-26",
+        "interest_rate": 3.9629813259170756,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 264,
+        "client_id": 109,
+        "loan_amount": 44905.81497280272,
+        "loan_start_date": "2020-09-30",
+        "loan_due_date": "2029-06-05",
+        "interest_rate": 3.0259878406647127,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 265,
+        "client_id": 308,
+        "loan_amount": 84016.64224693619,
+        "loan_start_date": "2022-01-07",
+        "loan_due_date": "2028-03-15",
+        "interest_rate": 4.5724774110646464,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 266,
+        "client_id": 380,
+        "loan_amount": 98192.07734175237,
+        "loan_start_date": "2020-03-07",
+        "loan_due_date": "2028-10-18",
+        "interest_rate": 4.53810136021545,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 267,
+        "client_id": 62,
+        "loan_amount": 15404.30633062598,
+        "loan_start_date": "2021-03-25",
+        "loan_due_date": "2026-03-16",
+        "interest_rate": 3.9708327809940105,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 268,
+        "client_id": 136,
+        "loan_amount": 49872.070049934926,
+        "loan_start_date": "2025-01-31",
+        "loan_due_date": "2030-05-17",
+        "interest_rate": 3.9769593059824455,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 269,
+        "client_id": 339,
+        "loan_amount": 19783.49952622765,
+        "loan_start_date": "2021-07-17",
+        "loan_due_date": "2028-04-28",
+        "interest_rate": 7.039779039308265,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 270,
+        "client_id": 150,
+        "loan_amount": 65612.60697393013,
+        "loan_start_date": "2020-05-09",
+        "loan_due_date": "2030-09-24",
+        "interest_rate": 4.869682837629779,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 271,
+        "client_id": 454,
+        "loan_amount": 32080.745815184546,
+        "loan_start_date": "2020-01-28",
+        "loan_due_date": "2028-06-08",
+        "interest_rate": 2.729939621635048,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 272,
+        "client_id": 283,
+        "loan_amount": 41647.75792938477,
+        "loan_start_date": "2022-01-11",
+        "loan_due_date": "2026-10-05",
+        "interest_rate": 3.180084564669171,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 273,
+        "client_id": 216,
+        "loan_amount": 25824.305830130965,
+        "loan_start_date": "2021-05-05",
+        "loan_due_date": "2029-04-03",
+        "interest_rate": 6.19643065460658,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 274,
+        "client_id": 219,
+        "loan_amount": 5110.408648897597,
+        "loan_start_date": "2025-09-01",
+        "loan_due_date": "2030-03-30",
+        "interest_rate": 6.0735624083001865,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 275,
+        "client_id": 438,
+        "loan_amount": 56747.22835147976,
+        "loan_start_date": "2023-05-24",
+        "loan_due_date": "2030-04-21",
+        "interest_rate": 3.3589969217622833,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 276,
+        "client_id": 350,
+        "loan_amount": 67306.22541856025,
+        "loan_start_date": "2023-10-25",
+        "loan_due_date": "2027-10-17",
+        "interest_rate": 7.291058872483141,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 277,
+        "client_id": 462,
+        "loan_amount": 79372.63004212987,
+        "loan_start_date": "2022-03-14",
+        "loan_due_date": "2026-01-25",
+        "interest_rate": 7.454950671846079,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 278,
+        "client_id": 84,
+        "loan_amount": 71169.17977094259,
+        "loan_start_date": "2023-01-02",
+        "loan_due_date": "2027-07-02",
+        "interest_rate": 2.989749586991172,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 279,
+        "client_id": 43,
+        "loan_amount": 48801.08248866301,
+        "loan_start_date": "2022-09-19",
+        "loan_due_date": "2029-12-14",
+        "interest_rate": 8.037036844224502,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 280,
+        "client_id": 109,
+        "loan_amount": 94347.92521810511,
+        "loan_start_date": "2025-04-15",
+        "loan_due_date": "2029-09-13",
+        "interest_rate": 6.430384786640943,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 281,
+        "client_id": 279,
+        "loan_amount": 85121.34213802736,
+        "loan_start_date": "2024-01-19",
+        "loan_due_date": "2025-11-22",
+        "interest_rate": 5.553735458384734,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 282,
+        "client_id": 467,
+        "loan_amount": 61653.69886414902,
+        "loan_start_date": "2020-08-18",
+        "loan_due_date": "2027-09-18",
+        "interest_rate": 5.776199971964311,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 283,
+        "client_id": 366,
+        "loan_amount": 58463.94153973996,
+        "loan_start_date": "2021-08-05",
+        "loan_due_date": "2026-05-07",
+        "interest_rate": 5.452219846904799,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 284,
+        "client_id": 243,
+        "loan_amount": 55743.22127079932,
+        "loan_start_date": "2022-02-11",
+        "loan_due_date": "2030-01-11",
+        "interest_rate": 7.688179666772605,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 285,
+        "client_id": 366,
+        "loan_amount": 90250.62463922313,
+        "loan_start_date": "2021-09-19",
+        "loan_due_date": "2027-08-20",
+        "interest_rate": 7.68144630179545,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 286,
+        "client_id": 379,
+        "loan_amount": 82836.86640305015,
+        "loan_start_date": "2025-06-20",
+        "loan_due_date": "2030-03-06",
+        "interest_rate": 5.902147311395078,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 287,
+        "client_id": 332,
+        "loan_amount": 23076.03930611184,
+        "loan_start_date": "2023-04-05",
+        "loan_due_date": "2025-10-21",
+        "interest_rate": 7.870406856950115,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 288,
+        "client_id": 61,
+        "loan_amount": 77794.07295736654,
+        "loan_start_date": "2022-03-23",
+        "loan_due_date": "2030-03-11",
+        "interest_rate": 7.784577690400898,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 289,
+        "client_id": 87,
+        "loan_amount": 72467.63410486406,
+        "loan_start_date": "2021-12-28",
+        "loan_due_date": "2026-04-27",
+        "interest_rate": 6.756868944839211,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 290,
+        "client_id": 331,
+        "loan_amount": 48591.14531841884,
+        "loan_start_date": "2023-02-20",
+        "loan_due_date": "2027-12-20",
+        "interest_rate": 8.117718584665031,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 291,
+        "client_id": 224,
+        "loan_amount": 57284.693221381516,
+        "loan_start_date": "2020-12-17",
+        "loan_due_date": "2027-12-22",
+        "interest_rate": 4.3504164531374165,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 292,
+        "client_id": 290,
+        "loan_amount": 53919.032642769096,
+        "loan_start_date": "2020-04-17",
+        "loan_due_date": "2029-05-17",
+        "interest_rate": 8.029319018380622,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 293,
+        "client_id": 56,
+        "loan_amount": 16792.18274138368,
+        "loan_start_date": "2023-03-21",
+        "loan_due_date": "2025-10-31",
+        "interest_rate": 3.976976358817658,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 294,
+        "client_id": 154,
+        "loan_amount": 37629.36103258461,
+        "loan_start_date": "2020-09-24",
+        "loan_due_date": "2029-08-07",
+        "interest_rate": 7.871633512076013,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 295,
+        "client_id": 182,
+        "loan_amount": 60848.46411811295,
+        "loan_start_date": "2020-07-07",
+        "loan_due_date": "2030-04-14",
+        "interest_rate": 5.5166593621827005,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 296,
+        "client_id": 173,
+        "loan_amount": 50731.20391408267,
+        "loan_start_date": "2021-04-09",
+        "loan_due_date": "2028-06-05",
+        "interest_rate": 4.400963468240952,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 297,
+        "client_id": 45,
+        "loan_amount": 48037.563632907535,
+        "loan_start_date": "2022-06-05",
+        "loan_due_date": "2030-07-19",
+        "interest_rate": 5.229699740114835,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 298,
+        "client_id": 385,
+        "loan_amount": 38016.19228733278,
+        "loan_start_date": "2022-01-07",
+        "loan_due_date": "2028-04-27",
+        "interest_rate": 3.222619000421005,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 299,
+        "client_id": 359,
+        "loan_amount": 76099.16673887736,
+        "loan_start_date": "2022-11-21",
+        "loan_due_date": "2029-11-11",
+        "interest_rate": 3.7172542535636994,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 300,
+        "client_id": 329,
+        "loan_amount": 15427.561553984708,
+        "loan_start_date": "2020-02-01",
+        "loan_due_date": "2028-12-14",
+        "interest_rate": 7.030214730005868,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 301,
+        "client_id": 188,
+        "loan_amount": 6248.419739605627,
+        "loan_start_date": "2021-05-07",
+        "loan_due_date": "2027-08-14",
+        "interest_rate": 4.357037101319596,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 302,
+        "client_id": 479,
+        "loan_amount": 87484.11034903981,
+        "loan_start_date": "2021-10-21",
+        "loan_due_date": "2028-05-20",
+        "interest_rate": 2.825734296222287,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 303,
+        "client_id": 402,
+        "loan_amount": 59752.1733325832,
+        "loan_start_date": "2021-02-09",
+        "loan_due_date": "2029-06-25",
+        "interest_rate": 3.352500063158801,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 304,
+        "client_id": 36,
+        "loan_amount": 82862.53122229943,
+        "loan_start_date": "2022-09-13",
+        "loan_due_date": "2030-02-19",
+        "interest_rate": 3.097866957097292,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 305,
+        "client_id": 370,
+        "loan_amount": 36495.767757874084,
+        "loan_start_date": "2021-11-26",
+        "loan_due_date": "2027-01-12",
+        "interest_rate": 4.339415454946447,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 306,
+        "client_id": 84,
+        "loan_amount": 37661.64546683034,
+        "loan_start_date": "2025-09-03",
+        "loan_due_date": "2027-04-14",
+        "interest_rate": 5.846293610548198,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 307,
+        "client_id": 416,
+        "loan_amount": 59525.27245507835,
+        "loan_start_date": "2022-11-29",
+        "loan_due_date": "2028-05-22",
+        "interest_rate": 6.3543829799873945,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 308,
+        "client_id": 418,
+        "loan_amount": 25850.0435952936,
+        "loan_start_date": "2023-11-16",
+        "loan_due_date": "2029-12-31",
+        "interest_rate": 8.130024273729436,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 309,
+        "client_id": 37,
+        "loan_amount": 26561.355928902158,
+        "loan_start_date": "2021-11-29",
+        "loan_due_date": "2030-06-12",
+        "interest_rate": 5.945952630018876,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 310,
+        "client_id": 242,
+        "loan_amount": 21463.51294047168,
+        "loan_start_date": "2024-04-18",
+        "loan_due_date": "2028-11-28",
+        "interest_rate": 3.8661829597597652,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 311,
+        "client_id": 350,
+        "loan_amount": 67121.11582970203,
+        "loan_start_date": "2025-05-19",
+        "loan_due_date": "2028-10-20",
+        "interest_rate": 3.467445275230357,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 312,
+        "client_id": 196,
+        "loan_amount": 72052.11653200407,
+        "loan_start_date": "2021-09-01",
+        "loan_due_date": "2030-08-27",
+        "interest_rate": 4.719144972383752,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 313,
+        "client_id": 341,
+        "loan_amount": 5326.878506888132,
+        "loan_start_date": "2022-03-24",
+        "loan_due_date": "2027-12-25",
+        "interest_rate": 6.476453515109335,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 314,
+        "client_id": 63,
+        "loan_amount": 69417.30447223011,
+        "loan_start_date": "2025-01-09",
+        "loan_due_date": "2029-05-29",
+        "interest_rate": 5.053850785423263,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 315,
+        "client_id": 126,
+        "loan_amount": 71869.01789034838,
+        "loan_start_date": "2022-03-06",
+        "loan_due_date": "2027-10-16",
+        "interest_rate": 5.778757149635843,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 316,
+        "client_id": 433,
+        "loan_amount": 16752.936355567697,
+        "loan_start_date": "2023-10-14",
+        "loan_due_date": "2027-09-13",
+        "interest_rate": 7.673046003096533,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 317,
+        "client_id": 294,
+        "loan_amount": 80244.14765195595,
+        "loan_start_date": "2022-09-03",
+        "loan_due_date": "2029-07-03",
+        "interest_rate": 5.738038448990402,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 318,
+        "client_id": 347,
+        "loan_amount": 44594.286333082775,
+        "loan_start_date": "2025-03-18",
+        "loan_due_date": "2028-09-27",
+        "interest_rate": 7.055785623577229,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 319,
+        "client_id": 273,
+        "loan_amount": 41066.33578406091,
+        "loan_start_date": "2024-03-22",
+        "loan_due_date": "2029-06-24",
+        "interest_rate": 5.720485111517375,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 320,
+        "client_id": 93,
+        "loan_amount": 15422.721565972048,
+        "loan_start_date": "2024-12-10",
+        "loan_due_date": "2028-02-24",
+        "interest_rate": 8.495209856411918,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 321,
+        "client_id": 426,
+        "loan_amount": 14006.696642088897,
+        "loan_start_date": "2020-03-10",
+        "loan_due_date": "2029-06-16",
+        "interest_rate": 3.844430702062889,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 322,
+        "client_id": 94,
+        "loan_amount": 19956.627453631387,
+        "loan_start_date": "2023-08-01",
+        "loan_due_date": "2029-12-28",
+        "interest_rate": 2.8282640255924054,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 323,
+        "client_id": 93,
+        "loan_amount": 71592.44152098948,
+        "loan_start_date": "2021-12-27",
+        "loan_due_date": "2027-07-23",
+        "interest_rate": 4.662046030143108,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 324,
+        "client_id": 339,
+        "loan_amount": 19682.182329995812,
+        "loan_start_date": "2024-02-17",
+        "loan_due_date": "2028-03-03",
+        "interest_rate": 3.354752200664495,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 325,
+        "client_id": 469,
+        "loan_amount": 24285.008818856862,
+        "loan_start_date": "2024-12-28",
+        "loan_due_date": "2027-09-15",
+        "interest_rate": 3.929560029264781,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 326,
+        "client_id": 457,
+        "loan_amount": 59137.253365322926,
+        "loan_start_date": "2024-11-04",
+        "loan_due_date": "2028-06-04",
+        "interest_rate": 6.843619225937278,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 327,
+        "client_id": 458,
+        "loan_amount": 25543.04065183441,
+        "loan_start_date": "2022-04-24",
+        "loan_due_date": "2028-07-04",
+        "interest_rate": 3.631607148027136,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 328,
+        "client_id": 413,
+        "loan_amount": 59428.29337561262,
+        "loan_start_date": "2024-02-29",
+        "loan_due_date": "2030-10-03",
+        "interest_rate": 3.6602348961287765,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 329,
+        "client_id": 388,
+        "loan_amount": 47116.64381796654,
+        "loan_start_date": "2020-09-21",
+        "loan_due_date": "2026-10-04",
+        "interest_rate": 6.756954613724585,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 330,
+        "client_id": 179,
+        "loan_amount": 35939.60589029904,
+        "loan_start_date": "2022-12-13",
+        "loan_due_date": "2029-08-14",
+        "interest_rate": 5.838319328933981,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 331,
+        "client_id": 437,
+        "loan_amount": 72985.3153233113,
+        "loan_start_date": "2021-05-06",
+        "loan_due_date": "2029-05-11",
+        "interest_rate": 3.639240262730299,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 332,
+        "client_id": 476,
+        "loan_amount": 31282.599029231616,
+        "loan_start_date": "2020-06-05",
+        "loan_due_date": "2028-07-17",
+        "interest_rate": 5.6334927413958304,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 333,
+        "client_id": 301,
+        "loan_amount": 85867.39866021264,
+        "loan_start_date": "2025-07-24",
+        "loan_due_date": "2029-06-10",
+        "interest_rate": 4.971253659329098,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 334,
+        "client_id": 99,
+        "loan_amount": 5544.580787628802,
+        "loan_start_date": "2024-06-11",
+        "loan_due_date": "2030-04-13",
+        "interest_rate": 3.377026261097667,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 335,
+        "client_id": 46,
+        "loan_amount": 61766.884186712414,
+        "loan_start_date": "2020-09-24",
+        "loan_due_date": "2028-12-03",
+        "interest_rate": 6.2893313388718095,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 336,
+        "client_id": 168,
+        "loan_amount": 64248.98869731198,
+        "loan_start_date": "2023-10-30",
+        "loan_due_date": "2027-03-23",
+        "interest_rate": 6.673504619831907,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 337,
+        "client_id": 288,
+        "loan_amount": 17007.926130236137,
+        "loan_start_date": "2020-06-07",
+        "loan_due_date": "2029-04-30",
+        "interest_rate": 8.387910206975555,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 338,
+        "client_id": 496,
+        "loan_amount": 95165.55235428695,
+        "loan_start_date": "2020-02-11",
+        "loan_due_date": "2027-04-19",
+        "interest_rate": 6.5206205853062,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 339,
+        "client_id": 265,
+        "loan_amount": 30586.79435395167,
+        "loan_start_date": "2020-02-22",
+        "loan_due_date": "2025-11-27",
+        "interest_rate": 8.155551416170209,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 340,
+        "client_id": 50,
+        "loan_amount": 45970.0578584034,
+        "loan_start_date": "2022-03-15",
+        "loan_due_date": "2026-09-29",
+        "interest_rate": 6.961280102470135,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 341,
+        "client_id": 366,
+        "loan_amount": 91779.5858221946,
+        "loan_start_date": "2025-03-27",
+        "loan_due_date": "2029-04-16",
+        "interest_rate": 7.601488996337752,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 342,
+        "client_id": 232,
+        "loan_amount": 14016.831178302753,
+        "loan_start_date": "2024-03-29",
+        "loan_due_date": "2029-12-22",
+        "interest_rate": 7.682946666228763,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 343,
+        "client_id": 379,
+        "loan_amount": 82099.78740147216,
+        "loan_start_date": "2022-01-16",
+        "loan_due_date": "2027-04-05",
+        "interest_rate": 5.199491902484513,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 344,
+        "client_id": 289,
+        "loan_amount": 81705.7514496525,
+        "loan_start_date": "2024-09-02",
+        "loan_due_date": "2029-12-02",
+        "interest_rate": 2.767504435788156,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 345,
+        "client_id": 180,
+        "loan_amount": 53094.087261632674,
+        "loan_start_date": "2020-02-16",
+        "loan_due_date": "2026-05-18",
+        "interest_rate": 6.0001183636914055,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 346,
+        "client_id": 262,
+        "loan_amount": 31101.72411506385,
+        "loan_start_date": "2020-10-08",
+        "loan_due_date": "2026-10-28",
+        "interest_rate": 3.2023133311397753,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 347,
+        "client_id": 496,
+        "loan_amount": 47337.029339067856,
+        "loan_start_date": "2023-06-15",
+        "loan_due_date": "2027-02-10",
+        "interest_rate": 8.195037029672665,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 348,
+        "client_id": 159,
+        "loan_amount": 86438.6115541895,
+        "loan_start_date": "2025-06-06",
+        "loan_due_date": "2027-07-08",
+        "interest_rate": 2.507812431123397,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 349,
+        "client_id": 30,
+        "loan_amount": 93601.87991889272,
+        "loan_start_date": "2024-09-07",
+        "loan_due_date": "2030-08-06",
+        "interest_rate": 8.308317311052765,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 350,
+        "client_id": 477,
+        "loan_amount": 51261.513146572725,
+        "loan_start_date": "2023-01-08",
+        "loan_due_date": "2030-01-21",
+        "interest_rate": 8.14047464597796,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 351,
+        "client_id": 186,
+        "loan_amount": 51963.48322677539,
+        "loan_start_date": "2023-06-25",
+        "loan_due_date": "2028-07-04",
+        "interest_rate": 2.727303479522549,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 352,
+        "client_id": 193,
+        "loan_amount": 46452.57737883502,
+        "loan_start_date": "2021-09-18",
+        "loan_due_date": "2027-02-27",
+        "interest_rate": 3.0791548865407266,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 353,
+        "client_id": 174,
+        "loan_amount": 61805.105135186735,
+        "loan_start_date": "2023-08-01",
+        "loan_due_date": "2030-09-07",
+        "interest_rate": 7.200808576059755,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 354,
+        "client_id": 324,
+        "loan_amount": 76737.35502898863,
+        "loan_start_date": "2022-12-21",
+        "loan_due_date": "2028-06-23",
+        "interest_rate": 4.256412102454628,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 355,
+        "client_id": 39,
+        "loan_amount": 65400.90524685257,
+        "loan_start_date": "2021-12-26",
+        "loan_due_date": "2030-08-04",
+        "interest_rate": 3.75362187664335,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 356,
+        "client_id": 163,
+        "loan_amount": 94444.89354988895,
+        "loan_start_date": "2024-03-09",
+        "loan_due_date": "2028-05-03",
+        "interest_rate": 6.054198224046717,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 357,
+        "client_id": 59,
+        "loan_amount": 49116.07207815018,
+        "loan_start_date": "2025-04-03",
+        "loan_due_date": "2029-10-16",
+        "interest_rate": 4.590349517861085,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 358,
+        "client_id": 123,
+        "loan_amount": 76882.42594343779,
+        "loan_start_date": "2024-04-07",
+        "loan_due_date": "2029-10-02",
+        "interest_rate": 6.774892478523456,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 359,
+        "client_id": 268,
+        "loan_amount": 87888.24040494159,
+        "loan_start_date": "2021-08-04",
+        "loan_due_date": "2026-07-09",
+        "interest_rate": 2.558425798170488,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 360,
+        "client_id": 488,
+        "loan_amount": 60655.84561352635,
+        "loan_start_date": "2021-07-05",
+        "loan_due_date": "2029-06-25",
+        "interest_rate": 5.697289083801063,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 361,
+        "client_id": 288,
+        "loan_amount": 80080.2444383412,
+        "loan_start_date": "2021-04-01",
+        "loan_due_date": "2026-05-08",
+        "interest_rate": 5.633787416684146,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 362,
+        "client_id": 112,
+        "loan_amount": 39142.811488640786,
+        "loan_start_date": "2023-07-22",
+        "loan_due_date": "2027-10-16",
+        "interest_rate": 3.003875567079846,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 363,
+        "client_id": 360,
+        "loan_amount": 82464.02868530969,
+        "loan_start_date": "2024-12-29",
+        "loan_due_date": "2027-02-17",
+        "interest_rate": 3.8458328941848037,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 364,
+        "client_id": 324,
+        "loan_amount": 62648.40513810938,
+        "loan_start_date": "2024-05-16",
+        "loan_due_date": "2029-07-02",
+        "interest_rate": 8.178151824384509,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 365,
+        "client_id": 277,
+        "loan_amount": 36344.529009461665,
+        "loan_start_date": "2022-01-12",
+        "loan_due_date": "2030-04-02",
+        "interest_rate": 2.9932831031667995,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 366,
+        "client_id": 160,
+        "loan_amount": 9399.823615730327,
+        "loan_start_date": "2020-06-04",
+        "loan_due_date": "2027-04-12",
+        "interest_rate": 3.7756593624610524,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 367,
+        "client_id": 292,
+        "loan_amount": 69124.43538036878,
+        "loan_start_date": "2021-05-29",
+        "loan_due_date": "2029-12-25",
+        "interest_rate": 5.680982299571723,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 368,
+        "client_id": 25,
+        "loan_amount": 89442.92982499576,
+        "loan_start_date": "2020-08-20",
+        "loan_due_date": "2027-01-04",
+        "interest_rate": 5.291600111049984,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 369,
+        "client_id": 74,
+        "loan_amount": 12467.30460074245,
+        "loan_start_date": "2025-04-12",
+        "loan_due_date": "2030-05-27",
+        "interest_rate": 5.252856986612907,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 370,
+        "client_id": 467,
+        "loan_amount": 57273.35362492639,
+        "loan_start_date": "2025-01-29",
+        "loan_due_date": "2025-11-10",
+        "interest_rate": 3.403317929263187,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 371,
+        "client_id": 359,
+        "loan_amount": 85750.77151187263,
+        "loan_start_date": "2022-07-08",
+        "loan_due_date": "2028-11-01",
+        "interest_rate": 7.531948767877779,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 372,
+        "client_id": 429,
+        "loan_amount": 97623.35139437736,
+        "loan_start_date": "2020-10-03",
+        "loan_due_date": "2027-08-26",
+        "interest_rate": 3.342690939431085,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 373,
+        "client_id": 206,
+        "loan_amount": 46219.70643241089,
+        "loan_start_date": "2023-05-28",
+        "loan_due_date": "2028-01-22",
+        "interest_rate": 4.728190142118878,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 374,
+        "client_id": 495,
+        "loan_amount": 46387.325111701524,
+        "loan_start_date": "2020-09-16",
+        "loan_due_date": "2027-12-12",
+        "interest_rate": 6.649205318906056,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 375,
+        "client_id": 151,
+        "loan_amount": 65665.1029943534,
+        "loan_start_date": "2024-07-01",
+        "loan_due_date": "2030-02-21",
+        "interest_rate": 5.2752688465643285,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 376,
+        "client_id": 361,
+        "loan_amount": 76192.52708467786,
+        "loan_start_date": "2022-01-09",
+        "loan_due_date": "2027-01-12",
+        "interest_rate": 2.9009427333138857,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 377,
+        "client_id": 373,
+        "loan_amount": 34115.88722317935,
+        "loan_start_date": "2025-01-08",
+        "loan_due_date": "2026-06-05",
+        "interest_rate": 6.5596448792810875,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 378,
+        "client_id": 206,
+        "loan_amount": 71194.57169050211,
+        "loan_start_date": "2020-11-10",
+        "loan_due_date": "2025-10-25",
+        "interest_rate": 4.643012836011379,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 379,
+        "client_id": 185,
+        "loan_amount": 51346.874238887955,
+        "loan_start_date": "2022-08-14",
+        "loan_due_date": "2026-11-29",
+        "interest_rate": 3.8897204944530337,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 380,
+        "client_id": 211,
+        "loan_amount": 48500.63214694023,
+        "loan_start_date": "2021-07-11",
+        "loan_due_date": "2026-03-24",
+        "interest_rate": 8.268071118173214,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 381,
+        "client_id": 334,
+        "loan_amount": 20445.729565244394,
+        "loan_start_date": "2021-08-11",
+        "loan_due_date": "2027-12-03",
+        "interest_rate": 4.317697325814767,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 382,
+        "client_id": 10,
+        "loan_amount": 25681.42170359097,
+        "loan_start_date": "2023-10-26",
+        "loan_due_date": "2026-11-24",
+        "interest_rate": 6.665845020574579,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 383,
+        "client_id": 439,
+        "loan_amount": 37399.68890776776,
+        "loan_start_date": "2025-03-08",
+        "loan_due_date": "2026-02-12",
+        "interest_rate": 5.2976011396876626,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 384,
+        "client_id": 371,
+        "loan_amount": 11546.623044485375,
+        "loan_start_date": "2024-03-10",
+        "loan_due_date": "2030-07-09",
+        "interest_rate": 6.42725072522672,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 385,
+        "client_id": 364,
+        "loan_amount": 54361.1775336023,
+        "loan_start_date": "2025-08-31",
+        "loan_due_date": "2029-05-18",
+        "interest_rate": 7.050129819403559,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 386,
+        "client_id": 445,
+        "loan_amount": 35670.60241378087,
+        "loan_start_date": "2020-05-28",
+        "loan_due_date": "2029-10-03",
+        "interest_rate": 7.866868073612286,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 387,
+        "client_id": 153,
+        "loan_amount": 12718.739617841129,
+        "loan_start_date": "2021-12-10",
+        "loan_due_date": "2029-04-21",
+        "interest_rate": 6.910007123473072,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 388,
+        "client_id": 371,
+        "loan_amount": 71731.44570971989,
+        "loan_start_date": "2021-06-04",
+        "loan_due_date": "2029-08-05",
+        "interest_rate": 8.402496875208154,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 389,
+        "client_id": 344,
+        "loan_amount": 74633.41678258429,
+        "loan_start_date": "2024-02-17",
+        "loan_due_date": "2028-05-30",
+        "interest_rate": 2.6206805347103725,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 390,
+        "client_id": 414,
+        "loan_amount": 6696.847522225997,
+        "loan_start_date": "2025-01-31",
+        "loan_due_date": "2028-01-10",
+        "interest_rate": 3.3119532230999322,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 391,
+        "client_id": 298,
+        "loan_amount": 30633.69395705777,
+        "loan_start_date": "2023-07-03",
+        "loan_due_date": "2026-03-12",
+        "interest_rate": 6.505316790458432,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 392,
+        "client_id": 237,
+        "loan_amount": 21511.315309785376,
+        "loan_start_date": "2022-07-18",
+        "loan_due_date": "2030-02-18",
+        "interest_rate": 3.331782442585954,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 393,
+        "client_id": 87,
+        "loan_amount": 83603.0535019396,
+        "loan_start_date": "2025-07-05",
+        "loan_due_date": "2027-06-10",
+        "interest_rate": 4.960836123192963,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 394,
+        "client_id": 354,
+        "loan_amount": 11240.880564763349,
+        "loan_start_date": "2025-03-28",
+        "loan_due_date": "2029-02-08",
+        "interest_rate": 3.424560797177097,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 395,
+        "client_id": 446,
+        "loan_amount": 48245.146184613426,
+        "loan_start_date": "2023-05-30",
+        "loan_due_date": "2028-04-09",
+        "interest_rate": 7.069524195977728,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 396,
+        "client_id": 177,
+        "loan_amount": 85350.77727154363,
+        "loan_start_date": "2022-01-21",
+        "loan_due_date": "2030-02-07",
+        "interest_rate": 7.172668570943922,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 397,
+        "client_id": 275,
+        "loan_amount": 83877.78168608698,
+        "loan_start_date": "2022-11-17",
+        "loan_due_date": "2027-09-23",
+        "interest_rate": 3.7374689344905256,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 398,
+        "client_id": 61,
+        "loan_amount": 30304.606178233094,
+        "loan_start_date": "2021-05-19",
+        "loan_due_date": "2029-11-27",
+        "interest_rate": 6.463615756387317,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 399,
+        "client_id": 484,
+        "loan_amount": 77974.1447197193,
+        "loan_start_date": "2023-12-14",
+        "loan_due_date": "2029-12-03",
+        "interest_rate": 6.982788419763535,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 400,
+        "client_id": 350,
+        "loan_amount": 24343.355140844455,
+        "loan_start_date": "2022-03-06",
+        "loan_due_date": "2028-11-03",
+        "interest_rate": 2.8697691016829303,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 401,
+        "client_id": 218,
+        "loan_amount": 32953.70986689492,
+        "loan_start_date": "2022-08-26",
+        "loan_due_date": "2026-09-26",
+        "interest_rate": 5.524488520398044,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 402,
+        "client_id": 397,
+        "loan_amount": 12103.917471828772,
+        "loan_start_date": "2023-11-22",
+        "loan_due_date": "2027-09-15",
+        "interest_rate": 5.202929029584604,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 403,
+        "client_id": 375,
+        "loan_amount": 35591.48001490778,
+        "loan_start_date": "2025-04-22",
+        "loan_due_date": "2027-06-16",
+        "interest_rate": 3.0088751132604155,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 404,
+        "client_id": 206,
+        "loan_amount": 25062.85885874225,
+        "loan_start_date": "2022-03-20",
+        "loan_due_date": "2027-10-03",
+        "interest_rate": 6.836167196858714,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 405,
+        "client_id": 207,
+        "loan_amount": 81880.83287988587,
+        "loan_start_date": "2025-07-02",
+        "loan_due_date": "2028-05-22",
+        "interest_rate": 4.642543145031707,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 406,
+        "client_id": 316,
+        "loan_amount": 16470.733130349276,
+        "loan_start_date": "2022-06-06",
+        "loan_due_date": "2030-07-01",
+        "interest_rate": 6.499140133734198,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 407,
+        "client_id": 344,
+        "loan_amount": 9122.46925719385,
+        "loan_start_date": "2024-06-08",
+        "loan_due_date": "2028-02-05",
+        "interest_rate": 7.163657908182837,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 408,
+        "client_id": 384,
+        "loan_amount": 48760.19887265845,
+        "loan_start_date": "2020-09-08",
+        "loan_due_date": "2027-09-07",
+        "interest_rate": 7.748980912270022,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 409,
+        "client_id": 168,
+        "loan_amount": 22476.780561403346,
+        "loan_start_date": "2024-11-19",
+        "loan_due_date": "2026-10-16",
+        "interest_rate": 5.4110543019238175,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 410,
+        "client_id": 69,
+        "loan_amount": 27363.12694980406,
+        "loan_start_date": "2024-07-23",
+        "loan_due_date": "2026-02-09",
+        "interest_rate": 3.862226353489854,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 411,
+        "client_id": 469,
+        "loan_amount": 56542.48438199732,
+        "loan_start_date": "2025-01-28",
+        "loan_due_date": "2027-03-02",
+        "interest_rate": 7.850473220267483,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 412,
+        "client_id": 52,
+        "loan_amount": 30366.758807721584,
+        "loan_start_date": "2025-02-27",
+        "loan_due_date": "2027-09-10",
+        "interest_rate": 5.247473135348221,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 413,
+        "client_id": 102,
+        "loan_amount": 37589.24333124154,
+        "loan_start_date": "2023-03-29",
+        "loan_due_date": "2030-08-11",
+        "interest_rate": 6.869147407440656,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 414,
+        "client_id": 446,
+        "loan_amount": 55928.31501747672,
+        "loan_start_date": "2022-12-26",
+        "loan_due_date": "2029-03-19",
+        "interest_rate": 6.2618485431992355,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 415,
+        "client_id": 414,
+        "loan_amount": 11990.69827806392,
+        "loan_start_date": "2024-10-22",
+        "loan_due_date": "2030-02-08",
+        "interest_rate": 3.7683841367574002,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 416,
+        "client_id": 471,
+        "loan_amount": 62066.90724979171,
+        "loan_start_date": "2023-11-20",
+        "loan_due_date": "2030-04-30",
+        "interest_rate": 4.674404797212973,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 417,
+        "client_id": 474,
+        "loan_amount": 30434.441283844928,
+        "loan_start_date": "2022-06-09",
+        "loan_due_date": "2029-03-16",
+        "interest_rate": 6.3238285232830735,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 418,
+        "client_id": 139,
+        "loan_amount": 84577.61808526282,
+        "loan_start_date": "2024-10-09",
+        "loan_due_date": "2027-11-18",
+        "interest_rate": 6.382692365909207,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 419,
+        "client_id": 206,
+        "loan_amount": 12409.164396601822,
+        "loan_start_date": "2025-10-13",
+        "loan_due_date": "2025-12-29",
+        "interest_rate": 7.052047569791884,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 420,
+        "client_id": 56,
+        "loan_amount": 33760.958433291395,
+        "loan_start_date": "2025-05-22",
+        "loan_due_date": "2028-01-21",
+        "interest_rate": 4.331121975652428,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 421,
+        "client_id": 150,
+        "loan_amount": 28419.847472350346,
+        "loan_start_date": "2024-05-30",
+        "loan_due_date": "2027-04-25",
+        "interest_rate": 2.7246153353966847,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 422,
+        "client_id": 333,
+        "loan_amount": 50406.59539876832,
+        "loan_start_date": "2024-08-27",
+        "loan_due_date": "2027-10-13",
+        "interest_rate": 6.549458886919159,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 423,
+        "client_id": 125,
+        "loan_amount": 78168.75810390827,
+        "loan_start_date": "2024-02-24",
+        "loan_due_date": "2028-03-25",
+        "interest_rate": 6.003415799907927,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 424,
+        "client_id": 161,
+        "loan_amount": 82509.3172782713,
+        "loan_start_date": "2021-10-13",
+        "loan_due_date": "2026-04-12",
+        "interest_rate": 4.987377919660169,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 425,
+        "client_id": 180,
+        "loan_amount": 90244.80916698974,
+        "loan_start_date": "2020-11-30",
+        "loan_due_date": "2030-08-23",
+        "interest_rate": 4.820555399239105,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 426,
+        "client_id": 437,
+        "loan_amount": 59177.74858526812,
+        "loan_start_date": "2020-10-02",
+        "loan_due_date": "2029-07-22",
+        "interest_rate": 4.995927585240301,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 427,
+        "client_id": 454,
+        "loan_amount": 30301.50046858073,
+        "loan_start_date": "2022-05-05",
+        "loan_due_date": "2028-05-29",
+        "interest_rate": 6.166621536301953,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 428,
+        "client_id": 36,
+        "loan_amount": 28360.163187762882,
+        "loan_start_date": "2024-11-22",
+        "loan_due_date": "2029-07-11",
+        "interest_rate": 3.6545648879276045,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 429,
+        "client_id": 21,
+        "loan_amount": 86561.7674617888,
+        "loan_start_date": "2021-04-01",
+        "loan_due_date": "2026-06-14",
+        "interest_rate": 5.648383741814998,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 430,
+        "client_id": 239,
+        "loan_amount": 44412.32524949534,
+        "loan_start_date": "2023-06-14",
+        "loan_due_date": "2028-12-17",
+        "interest_rate": 2.7289007645128938,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 431,
+        "client_id": 27,
+        "loan_amount": 17301.23411740642,
+        "loan_start_date": "2021-04-17",
+        "loan_due_date": "2027-09-26",
+        "interest_rate": 8.114165198802347,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 432,
+        "client_id": 310,
+        "loan_amount": 33001.59190436678,
+        "loan_start_date": "2020-07-29",
+        "loan_due_date": "2028-11-04",
+        "interest_rate": 2.591932510003778,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 433,
+        "client_id": 74,
+        "loan_amount": 84971.09587039967,
+        "loan_start_date": "2022-04-22",
+        "loan_due_date": "2029-10-04",
+        "interest_rate": 8.384476673009779,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 434,
+        "client_id": 223,
+        "loan_amount": 24599.072646121338,
+        "loan_start_date": "2024-07-06",
+        "loan_due_date": "2027-04-21",
+        "interest_rate": 4.905549760277598,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 435,
+        "client_id": 467,
+        "loan_amount": 39732.444259917895,
+        "loan_start_date": "2025-05-25",
+        "loan_due_date": "2028-01-18",
+        "interest_rate": 3.1555253322790042,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 436,
+        "client_id": 107,
+        "loan_amount": 18797.02092811988,
+        "loan_start_date": "2025-04-21",
+        "loan_due_date": "2027-08-11",
+        "interest_rate": 3.4466721907812112,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 437,
+        "client_id": 169,
+        "loan_amount": 26413.911460701063,
+        "loan_start_date": "2024-06-17",
+        "loan_due_date": "2030-06-11",
+        "interest_rate": 2.518065294202173,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 438,
+        "client_id": 417,
+        "loan_amount": 90181.86138715968,
+        "loan_start_date": "2023-07-08",
+        "loan_due_date": "2028-12-05",
+        "interest_rate": 7.26982508417138,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 439,
+        "client_id": 72,
+        "loan_amount": 23714.71148346851,
+        "loan_start_date": "2021-01-21",
+        "loan_due_date": "2028-09-17",
+        "interest_rate": 7.4746335580123,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 440,
+        "client_id": 344,
+        "loan_amount": 6256.778618046113,
+        "loan_start_date": "2021-05-10",
+        "loan_due_date": "2026-05-31",
+        "interest_rate": 5.428623457884469,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 441,
+        "client_id": 20,
+        "loan_amount": 56204.09003049095,
+        "loan_start_date": "2020-10-26",
+        "loan_due_date": "2029-07-11",
+        "interest_rate": 6.551997775741722,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 442,
+        "client_id": 471,
+        "loan_amount": 86285.66357138939,
+        "loan_start_date": "2021-03-05",
+        "loan_due_date": "2030-06-18",
+        "interest_rate": 5.371318281584404,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 443,
+        "client_id": 461,
+        "loan_amount": 65401.619189279256,
+        "loan_start_date": "2020-07-20",
+        "loan_due_date": "2028-07-12",
+        "interest_rate": 4.943682759175983,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 444,
+        "client_id": 361,
+        "loan_amount": 41353.67428647389,
+        "loan_start_date": "2024-11-20",
+        "loan_due_date": "2028-05-24",
+        "interest_rate": 4.474125242677707,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 445,
+        "client_id": 206,
+        "loan_amount": 17467.89716278173,
+        "loan_start_date": "2023-05-16",
+        "loan_due_date": "2026-06-01",
+        "interest_rate": 6.354730789290169,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 446,
+        "client_id": 383,
+        "loan_amount": 37661.10639491685,
+        "loan_start_date": "2022-09-15",
+        "loan_due_date": "2029-02-01",
+        "interest_rate": 5.0654709021158455,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 447,
+        "client_id": 378,
+        "loan_amount": 5564.4888679920905,
+        "loan_start_date": "2023-09-10",
+        "loan_due_date": "2030-03-18",
+        "interest_rate": 3.49531010266767,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 448,
+        "client_id": 399,
+        "loan_amount": 37490.11121216956,
+        "loan_start_date": "2025-10-08",
+        "loan_due_date": "2030-03-17",
+        "interest_rate": 7.790598641470914,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 449,
+        "client_id": 329,
+        "loan_amount": 71777.82449480506,
+        "loan_start_date": "2023-05-01",
+        "loan_due_date": "2028-05-13",
+        "interest_rate": 6.231043806129428,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 450,
+        "client_id": 232,
+        "loan_amount": 38839.24002534631,
+        "loan_start_date": "2021-12-01",
+        "loan_due_date": "2029-02-04",
+        "interest_rate": 2.753040762230326,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 451,
+        "client_id": 246,
+        "loan_amount": 15967.748320523815,
+        "loan_start_date": "2021-03-30",
+        "loan_due_date": "2029-07-03",
+        "interest_rate": 4.183606105503306,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 452,
+        "client_id": 50,
+        "loan_amount": 71124.87813946517,
+        "loan_start_date": "2020-01-18",
+        "loan_due_date": "2026-03-25",
+        "interest_rate": 5.459395163636646,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 453,
+        "client_id": 40,
+        "loan_amount": 80323.16313471507,
+        "loan_start_date": "2021-05-02",
+        "loan_due_date": "2026-11-19",
+        "interest_rate": 7.416651824616562,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 454,
+        "client_id": 141,
+        "loan_amount": 32904.2286966768,
+        "loan_start_date": "2020-04-29",
+        "loan_due_date": "2028-10-10",
+        "interest_rate": 5.065624057790393,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 455,
+        "client_id": 18,
+        "loan_amount": 34156.816200422036,
+        "loan_start_date": "2021-01-06",
+        "loan_due_date": "2025-12-27",
+        "interest_rate": 2.7567321355505823,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 456,
+        "client_id": 275,
+        "loan_amount": 9657.27763993627,
+        "loan_start_date": "2020-10-15",
+        "loan_due_date": "2027-10-09",
+        "interest_rate": 3.7110433889763583,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 457,
+        "client_id": 396,
+        "loan_amount": 79827.71713976172,
+        "loan_start_date": "2021-07-26",
+        "loan_due_date": "2026-10-18",
+        "interest_rate": 7.801927934242519,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 458,
+        "client_id": 63,
+        "loan_amount": 25220.887432002266,
+        "loan_start_date": "2020-09-03",
+        "loan_due_date": "2030-01-09",
+        "interest_rate": 6.859572017839996,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 459,
+        "client_id": 12,
+        "loan_amount": 7842.224700976802,
+        "loan_start_date": "2022-04-16",
+        "loan_due_date": "2026-05-18",
+        "interest_rate": 6.526126065418467,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 460,
+        "client_id": 329,
+        "loan_amount": 58218.7305038681,
+        "loan_start_date": "2023-03-13",
+        "loan_due_date": "2026-05-17",
+        "interest_rate": 2.5693423749072055,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 461,
+        "client_id": 123,
+        "loan_amount": 56337.49439217832,
+        "loan_start_date": "2021-08-28",
+        "loan_due_date": "2026-06-30",
+        "interest_rate": 5.54915486103879,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 462,
+        "client_id": 310,
+        "loan_amount": 27054.528629254095,
+        "loan_start_date": "2023-08-17",
+        "loan_due_date": "2030-03-20",
+        "interest_rate": 3.21687144165655,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 463,
+        "client_id": 352,
+        "loan_amount": 50374.44459523468,
+        "loan_start_date": "2023-12-14",
+        "loan_due_date": "2028-12-19",
+        "interest_rate": 3.9353680688137533,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 464,
+        "client_id": 365,
+        "loan_amount": 78101.25225482209,
+        "loan_start_date": "2022-09-04",
+        "loan_due_date": "2027-02-08",
+        "interest_rate": 5.214822335299483,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 465,
+        "client_id": 62,
+        "loan_amount": 81729.24195763761,
+        "loan_start_date": "2021-04-17",
+        "loan_due_date": "2029-01-04",
+        "interest_rate": 4.166393291885822,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 466,
+        "client_id": 433,
+        "loan_amount": 95317.14181876522,
+        "loan_start_date": "2024-06-19",
+        "loan_due_date": "2029-03-15",
+        "interest_rate": 5.970584940967921,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 467,
+        "client_id": 95,
+        "loan_amount": 17902.436144177467,
+        "loan_start_date": "2021-09-09",
+        "loan_due_date": "2026-11-08",
+        "interest_rate": 4.421819482685407,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 468,
+        "client_id": 245,
+        "loan_amount": 54652.070252665784,
+        "loan_start_date": "2022-06-19",
+        "loan_due_date": "2027-01-10",
+        "interest_rate": 7.840994856454694,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 469,
+        "client_id": 53,
+        "loan_amount": 89422.30601602068,
+        "loan_start_date": "2023-03-06",
+        "loan_due_date": "2027-10-12",
+        "interest_rate": 3.884711942856344,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 470,
+        "client_id": 276,
+        "loan_amount": 20233.776643785735,
+        "loan_start_date": "2022-01-16",
+        "loan_due_date": "2029-11-10",
+        "interest_rate": 7.847531967950478,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 471,
+        "client_id": 211,
+        "loan_amount": 34012.399556177385,
+        "loan_start_date": "2024-10-16",
+        "loan_due_date": "2025-11-01",
+        "interest_rate": 3.1156052425604637,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 472,
+        "client_id": 374,
+        "loan_amount": 29857.489119601003,
+        "loan_start_date": "2024-03-12",
+        "loan_due_date": "2027-09-26",
+        "interest_rate": 3.8672562889812307,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 473,
+        "client_id": 398,
+        "loan_amount": 41412.746288336246,
+        "loan_start_date": "2024-02-11",
+        "loan_due_date": "2030-01-29",
+        "interest_rate": 7.767947114298234,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 474,
+        "client_id": 472,
+        "loan_amount": 15783.767075109621,
+        "loan_start_date": "2022-04-20",
+        "loan_due_date": "2028-06-25",
+        "interest_rate": 4.965066443506332,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 475,
+        "client_id": 274,
+        "loan_amount": 93332.21505902316,
+        "loan_start_date": "2023-06-13",
+        "loan_due_date": "2029-09-14",
+        "interest_rate": 8.087364062450908,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 476,
+        "client_id": 118,
+        "loan_amount": 59236.29226817185,
+        "loan_start_date": "2025-08-27",
+        "loan_due_date": "2026-05-16",
+        "interest_rate": 6.953665798261592,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 477,
+        "client_id": 93,
+        "loan_amount": 93848.08295031326,
+        "loan_start_date": "2023-11-01",
+        "loan_due_date": "2026-01-21",
+        "interest_rate": 5.976816342224497,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 478,
+        "client_id": 190,
+        "loan_amount": 36851.50322256833,
+        "loan_start_date": "2022-04-27",
+        "loan_due_date": "2030-08-21",
+        "interest_rate": 4.349084208551776,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 479,
+        "client_id": 395,
+        "loan_amount": 89056.1350612626,
+        "loan_start_date": "2021-04-06",
+        "loan_due_date": "2030-10-11",
+        "interest_rate": 5.062275532389757,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 480,
+        "client_id": 12,
+        "loan_amount": 68711.21611289277,
+        "loan_start_date": "2025-09-19",
+        "loan_due_date": "2028-12-17",
+        "interest_rate": 2.824694814582017,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 481,
+        "client_id": 270,
+        "loan_amount": 5647.124443270837,
+        "loan_start_date": "2025-08-21",
+        "loan_due_date": "2028-12-06",
+        "interest_rate": 6.6494847997763085,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 482,
+        "client_id": 443,
+        "loan_amount": 88849.82621150232,
+        "loan_start_date": "2022-09-27",
+        "loan_due_date": "2028-05-13",
+        "interest_rate": 4.7948743882032465,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 483,
+        "client_id": 489,
+        "loan_amount": 60452.090742967215,
+        "loan_start_date": "2021-09-16",
+        "loan_due_date": "2028-04-18",
+        "interest_rate": 3.6894085379248738,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 484,
+        "client_id": 93,
+        "loan_amount": 83487.91684787371,
+        "loan_start_date": "2025-04-10",
+        "loan_due_date": "2027-07-04",
+        "interest_rate": 3.375318252184706,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 485,
+        "client_id": 199,
+        "loan_amount": 90212.20681839508,
+        "loan_start_date": "2023-04-24",
+        "loan_due_date": "2026-07-25",
+        "interest_rate": 6.889977114531824,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 486,
+        "client_id": 341,
+        "loan_amount": 75151.25261615685,
+        "loan_start_date": "2021-09-13",
+        "loan_due_date": "2028-10-08",
+        "interest_rate": 5.544606543406586,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 487,
+        "client_id": 69,
+        "loan_amount": 64702.350649469074,
+        "loan_start_date": "2023-09-26",
+        "loan_due_date": "2026-12-04",
+        "interest_rate": 7.620395519614667,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 488,
+        "client_id": 223,
+        "loan_amount": 60398.55480415871,
+        "loan_start_date": "2023-06-16",
+        "loan_due_date": "2030-07-05",
+        "interest_rate": 8.246532367166193,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 489,
+        "client_id": 176,
+        "loan_amount": 47300.989489378575,
+        "loan_start_date": "2020-10-18",
+        "loan_due_date": "2030-08-15",
+        "interest_rate": 7.8154203279384475,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 490,
+        "client_id": 45,
+        "loan_amount": 32853.27836561325,
+        "loan_start_date": "2023-01-19",
+        "loan_due_date": "2029-11-22",
+        "interest_rate": 8.411643160585601,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 491,
+        "client_id": 459,
+        "loan_amount": 63760.6524617057,
+        "loan_start_date": "2022-02-10",
+        "loan_due_date": "2029-10-27",
+        "interest_rate": 7.676308302092039,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 492,
+        "client_id": 105,
+        "loan_amount": 32448.501522587998,
+        "loan_start_date": "2021-12-14",
+        "loan_due_date": "2027-05-31",
+        "interest_rate": 5.472996888190347,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 493,
+        "client_id": 455,
+        "loan_amount": 7608.253582524661,
+        "loan_start_date": "2025-07-21",
+        "loan_due_date": "2028-04-16",
+        "interest_rate": 3.0829335072192463,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 494,
+        "client_id": 44,
+        "loan_amount": 62723.65757434532,
+        "loan_start_date": "2021-02-06",
+        "loan_due_date": "2028-04-04",
+        "interest_rate": 5.689104903515883,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 495,
+        "client_id": 336,
+        "loan_amount": 26276.529180990812,
+        "loan_start_date": "2021-05-13",
+        "loan_due_date": "2028-03-12",
+        "interest_rate": 5.844033026151199,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 496,
+        "client_id": 287,
+        "loan_amount": 40960.68556687415,
+        "loan_start_date": "2022-02-08",
+        "loan_due_date": "2027-12-27",
+        "interest_rate": 7.5097563385852775,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 497,
+        "client_id": 473,
+        "loan_amount": 52566.3593273711,
+        "loan_start_date": "2020-03-12",
+        "loan_due_date": "2025-12-12",
+        "interest_rate": 4.096709888672988,
+        "loan_status": "Defaulted"
+    },
+    {
+        "loan_id": 498,
+        "client_id": 493,
+        "loan_amount": 25372.447014792604,
+        "loan_start_date": "2025-03-02",
+        "loan_due_date": "2027-08-24",
+        "interest_rate": 2.501702069425281,
+        "loan_status": "Active"
+    },
+    {
+        "loan_id": 499,
+        "client_id": 185,
+        "loan_amount": 43764.50686993183,
+        "loan_start_date": "2022-05-19",
+        "loan_due_date": "2030-06-29",
+        "interest_rate": 3.767042645710595,
+        "loan_status": "Paid"
+    },
+    {
+        "loan_id": 500,
+        "client_id": 368,
+        "loan_amount": 77583.06528173493,
+        "loan_start_date": "2024-10-14",
+        "loan_due_date": "2029-02-20",
+        "interest_rate": 7.911258237836221,
+        "loan_status": "Defaulted"
+    }
+]

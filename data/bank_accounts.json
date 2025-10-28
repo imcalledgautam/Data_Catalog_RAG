@@ -1,0 +1,4502 @@
+[
+    {
+        "account_id": 1,
+        "account_no": "9497507566",
+        "routing_no": "784824818",
+        "balance_amount": 41033.27981226946,
+        "date_created": "2025-07-31",
+        "account_category": "Savings",
+        "client_id": 191
+    },
+    {
+        "account_id": 2,
+        "account_no": "1279005848",
+        "routing_no": "538091613",
+        "balance_amount": 4782.976569008742,
+        "date_created": "2023-07-14",
+        "account_category": "Current",
+        "client_id": 352
+    },
+    {
+        "account_id": 3,
+        "account_no": "4783229311",
+        "routing_no": "896817055",
+        "balance_amount": 8471.037231107297,
+        "date_created": "2020-07-21",
+        "account_category": "Fixed",
+        "client_id": 408
+    },
+    {
+        "account_id": 4,
+        "account_no": "4808488698",
+        "routing_no": "353351053",
+        "balance_amount": 45293.47818747144,
+        "date_created": "2025-01-03",
+        "account_category": "Fixed",
+        "client_id": 482
+    },
+    {
+        "account_id": 5,
+        "account_no": "3018292951",
+        "routing_no": "747995627",
+        "balance_amount": 46517.26328808726,
+        "date_created": "2020-05-20",
+        "account_category": "Current",
+        "client_id": 125
+    },
+    {
+        "account_id": 6,
+        "account_no": "6547293662",
+        "routing_no": "166836798",
+        "balance_amount": 2682.909903421558,
+        "date_created": "2021-10-04",
+        "account_category": "Fixed",
+        "client_id": 322
+    },
+    {
+        "account_id": 7,
+        "account_no": "9876069652",
+        "routing_no": "98129551",
+        "balance_amount": 5421.667734635033,
+        "date_created": "2021-01-12",
+        "account_category": "Fixed",
+        "client_id": 371
+    },
+    {
+        "account_id": 8,
+        "account_no": "4844839327",
+        "routing_no": "478736197",
+        "balance_amount": 20226.16929260577,
+        "date_created": "2025-10-17",
+        "account_category": "Current",
+        "client_id": 481
+    },
+    {
+        "account_id": 9,
+        "account_no": "8079625209",
+        "routing_no": "476198207",
+        "balance_amount": 13616.584184838644,
+        "date_created": "2024-12-15",
+        "account_category": "Current",
+        "client_id": 205
+    },
+    {
+        "account_id": 10,
+        "account_no": "5742153104",
+        "routing_no": "502057242",
+        "balance_amount": 48979.5818197468,
+        "date_created": "2021-06-01",
+        "account_category": "Fixed",
+        "client_id": 58
+    },
+    {
+        "account_id": 11,
+        "account_no": "4851125064",
+        "routing_no": "785296918",
+        "balance_amount": 12371.2359468591,
+        "date_created": "2023-12-22",
+        "account_category": "Fixed",
+        "client_id": 86
+    },
+    {
+        "account_id": 12,
+        "account_no": "299238622",
+        "routing_no": "235955895",
+        "balance_amount": 38162.2122867277,
+        "date_created": "2025-07-08",
+        "account_category": "Savings",
+        "client_id": 380
+    },
+    {
+        "account_id": 13,
+        "account_no": "8236111335",
+        "routing_no": "421392405",
+        "balance_amount": 43519.62351044368,
+        "date_created": "2023-02-20",
+        "account_category": "Savings",
+        "client_id": 140
+    },
+    {
+        "account_id": 14,
+        "account_no": "8581074824",
+        "routing_no": "304788674",
+        "balance_amount": 20524.84285671695,
+        "date_created": "2022-04-15",
+        "account_category": "Savings",
+        "client_id": 464
+    },
+    {
+        "account_id": 15,
+        "account_no": "8880747314",
+        "routing_no": "67895645",
+        "balance_amount": 25097.968012943,
+        "date_created": "2024-10-07",
+        "account_category": "Current",
+        "client_id": 336
+    },
+    {
+        "account_id": 16,
+        "account_no": "5229461743",
+        "routing_no": "800415889",
+        "balance_amount": 22296.736752637444,
+        "date_created": "2022-06-30",
+        "account_category": "Fixed",
+        "client_id": 350
+    },
+    {
+        "account_id": 17,
+        "account_no": "3349550120",
+        "routing_no": "79335960",
+        "balance_amount": 2773.9039838771637,
+        "date_created": "2023-01-08",
+        "account_category": "Current",
+        "client_id": 48
+    },
+    {
+        "account_id": 18,
+        "account_no": "4072117845",
+        "routing_no": "106531730",
+        "balance_amount": 47458.889878614114,
+        "date_created": "2021-03-17",
+        "account_category": "Current",
+        "client_id": 237
+    },
+    {
+        "account_id": 19,
+        "account_no": "4534510002",
+        "routing_no": "682611873",
+        "balance_amount": 22084.301908058987,
+        "date_created": "2023-01-20",
+        "account_category": "Current",
+        "client_id": 303
+    },
+    {
+        "account_id": 20,
+        "account_no": "3511053139",
+        "routing_no": "821697250",
+        "balance_amount": 41258.56405926367,
+        "date_created": "2021-01-17",
+        "account_category": "Current",
+        "client_id": 367
+    },
+    {
+        "account_id": 21,
+        "account_no": "7491712997",
+        "routing_no": "634498697",
+        "balance_amount": 2507.013312585392,
+        "date_created": "2021-09-21",
+        "account_category": "Current",
+        "client_id": 261
+    },
+    {
+        "account_id": 22,
+        "account_no": "9519224589",
+        "routing_no": "19043496",
+        "balance_amount": 24765.04496789901,
+        "date_created": "2024-12-14",
+        "account_category": "Current",
+        "client_id": 152
+    },
+    {
+        "account_id": 23,
+        "account_no": "4999376435",
+        "routing_no": "720229406",
+        "balance_amount": 49261.630983328876,
+        "date_created": "2024-02-05",
+        "account_category": "Fixed",
+        "client_id": 74
+    },
+    {
+        "account_id": 24,
+        "account_no": "2033317482",
+        "routing_no": "580940026",
+        "balance_amount": 8326.487229543249,
+        "date_created": "2023-06-01",
+        "account_category": "Savings",
+        "client_id": 369
+    },
+    {
+        "account_id": 25,
+        "account_no": "7664791711",
+        "routing_no": "280272780",
+        "balance_amount": 34492.99577248772,
+        "date_created": "2022-01-17",
+        "account_category": "Fixed",
+        "client_id": 256
+    },
+    {
+        "account_id": 26,
+        "account_no": "4965575313",
+        "routing_no": "70785192",
+        "balance_amount": 24574.290624534624,
+        "date_created": "2022-12-25",
+        "account_category": "Current",
+        "client_id": 36
+    },
+    {
+        "account_id": 27,
+        "account_no": "4508605090",
+        "routing_no": "943307946",
+        "balance_amount": 42182.07504552089,
+        "date_created": "2023-10-10",
+        "account_category": "Savings",
+        "client_id": 64
+    },
+    {
+        "account_id": 28,
+        "account_no": "1981475940",
+        "routing_no": "74405027",
+        "balance_amount": 41090.55007653298,
+        "date_created": "2023-01-29",
+        "account_category": "Current",
+        "client_id": 32
+    },
+    {
+        "account_id": 29,
+        "account_no": "8637748198",
+        "routing_no": "727404271",
+        "balance_amount": 39753.76106364019,
+        "date_created": "2024-07-13",
+        "account_category": "Current",
+        "client_id": 151
+    },
+    {
+        "account_id": 30,
+        "account_no": "2029430173",
+        "routing_no": "515893552",
+        "balance_amount": 42460.27215459216,
+        "date_created": "2021-09-05",
+        "account_category": "Fixed",
+        "client_id": 354
+    },
+    {
+        "account_id": 31,
+        "account_no": "5903641379",
+        "routing_no": "982783444",
+        "balance_amount": 36899.17193967327,
+        "date_created": "2022-12-03",
+        "account_category": "Savings",
+        "client_id": 296
+    },
+    {
+        "account_id": 32,
+        "account_no": "2243260793",
+        "routing_no": "189331038",
+        "balance_amount": 9097.25820074336,
+        "date_created": "2022-11-18",
+        "account_category": "Fixed",
+        "client_id": 454
+    },
+    {
+        "account_id": 33,
+        "account_no": "942208034",
+        "routing_no": "751530464",
+        "balance_amount": 35893.13676442731,
+        "date_created": "2024-06-23",
+        "account_category": "Fixed",
+        "client_id": 179
+    },
+    {
+        "account_id": 34,
+        "account_no": "3113325415",
+        "routing_no": "584452131",
+        "balance_amount": 28203.46569255985,
+        "date_created": "2025-07-18",
+        "account_category": "Savings",
+        "client_id": 434
+    },
+    {
+        "account_id": 35,
+        "account_no": "8196975346",
+        "routing_no": "104716713",
+        "balance_amount": 48419.7267527534,
+        "date_created": "2023-09-09",
+        "account_category": "Savings",
+        "client_id": 298
+    },
+    {
+        "account_id": 36,
+        "account_no": "8989844697",
+        "routing_no": "255545242",
+        "balance_amount": 28433.807554542516,
+        "date_created": "2025-05-29",
+        "account_category": "Savings",
+        "client_id": 345
+    },
+    {
+        "account_id": 37,
+        "account_no": "7662325833",
+        "routing_no": "45391980",
+        "balance_amount": 32622.279954167934,
+        "date_created": "2022-11-19",
+        "account_category": "Current",
+        "client_id": 189
+    },
+    {
+        "account_id": 38,
+        "account_no": "8588714954",
+        "routing_no": "955505674",
+        "balance_amount": 10402.456344435206,
+        "date_created": "2024-07-31",
+        "account_category": "Fixed",
+        "client_id": 96
+    },
+    {
+        "account_id": 39,
+        "account_no": "8934725529",
+        "routing_no": "802151528",
+        "balance_amount": 40643.29271005333,
+        "date_created": "2020-11-20",
+        "account_category": "Savings",
+        "client_id": 232
+    },
+    {
+        "account_id": 40,
+        "account_no": "8853147084",
+        "routing_no": "739120781",
+        "balance_amount": 12656.859418050575,
+        "date_created": "2025-10-01",
+        "account_category": "Fixed",
+        "client_id": 88
+    },
+    {
+        "account_id": 41,
+        "account_no": "5031216624",
+        "routing_no": "140858625",
+        "balance_amount": 27270.12751008052,
+        "date_created": "2022-07-14",
+        "account_category": "Savings",
+        "client_id": 222
+    },
+    {
+        "account_id": 42,
+        "account_no": "7274565242",
+        "routing_no": "94330364",
+        "balance_amount": 46303.69296416574,
+        "date_created": "2024-12-12",
+        "account_category": "Current",
+        "client_id": 203
+    },
+    {
+        "account_id": 43,
+        "account_no": "1987093168",
+        "routing_no": "41823999",
+        "balance_amount": 10040.662749555717,
+        "date_created": "2020-07-07",
+        "account_category": "Savings",
+        "client_id": 498
+    },
+    {
+        "account_id": 44,
+        "account_no": "4863616554",
+        "routing_no": "130699863",
+        "balance_amount": 18484.07452933103,
+        "date_created": "2022-03-17",
+        "account_category": "Savings",
+        "client_id": 425
+    },
+    {
+        "account_id": 45,
+        "account_no": "3177875919",
+        "routing_no": "953968814",
+        "balance_amount": 10244.472068630364,
+        "date_created": "2020-06-02",
+        "account_category": "Savings",
+        "client_id": 428
+    },
+    {
+        "account_id": 46,
+        "account_no": "5748287110",
+        "routing_no": "270877671",
+        "balance_amount": 48585.28237081564,
+        "date_created": "2025-02-23",
+        "account_category": "Savings",
+        "client_id": 71
+    },
+    {
+        "account_id": 47,
+        "account_no": "133876927",
+        "routing_no": "402885557",
+        "balance_amount": 8785.981334403004,
+        "date_created": "2021-04-10",
+        "account_category": "Savings",
+        "client_id": 379
+    },
+    {
+        "account_id": 48,
+        "account_no": "6210893705",
+        "routing_no": "729709907",
+        "balance_amount": 35252.82039455563,
+        "date_created": "2024-12-05",
+        "account_category": "Current",
+        "client_id": 263
+    },
+    {
+        "account_id": 49,
+        "account_no": "9384506682",
+        "routing_no": "285810060",
+        "balance_amount": 8150.069181382111,
+        "date_created": "2020-09-14",
+        "account_category": "Fixed",
+        "client_id": 435
+    },
+    {
+        "account_id": 50,
+        "account_no": "8801784646",
+        "routing_no": "880895683",
+        "balance_amount": 6086.835433673947,
+        "date_created": "2025-03-26",
+        "account_category": "Savings",
+        "client_id": 266
+    },
+    {
+        "account_id": 51,
+        "account_no": "6331154300",
+        "routing_no": "392598390",
+        "balance_amount": 9611.309667066855,
+        "date_created": "2023-04-16",
+        "account_category": "Fixed",
+        "client_id": 384
+    },
+    {
+        "account_id": 52,
+        "account_no": "1461982325",
+        "routing_no": "954561657",
+        "balance_amount": 11585.556254623058,
+        "date_created": "2024-08-24",
+        "account_category": "Savings",
+        "client_id": 28
+    },
+    {
+        "account_id": 53,
+        "account_no": "7349651821",
+        "routing_no": "139722383",
+        "balance_amount": 47415.85932715895,
+        "date_created": "2025-05-27",
+        "account_category": "Savings",
+        "client_id": 394
+    },
+    {
+        "account_id": 54,
+        "account_no": "8091537801",
+        "routing_no": "84823739",
+        "balance_amount": 17960.24527586632,
+        "date_created": "2020-11-22",
+        "account_category": "Savings",
+        "client_id": 418
+    },
+    {
+        "account_id": 55,
+        "account_no": "7737610323",
+        "routing_no": "183676404",
+        "balance_amount": 47109.907099746655,
+        "date_created": "2021-06-14",
+        "account_category": "Fixed",
+        "client_id": 451
+    },
+    {
+        "account_id": 56,
+        "account_no": "5075218406",
+        "routing_no": "634463538",
+        "balance_amount": 10060.098297645804,
+        "date_created": "2024-04-23",
+        "account_category": "Fixed",
+        "client_id": 98
+    },
+    {
+        "account_id": 57,
+        "account_no": "5153640072",
+        "routing_no": "212215974",
+        "balance_amount": 48435.14452365173,
+        "date_created": "2025-04-03",
+        "account_category": "Savings",
+        "client_id": 336
+    },
+    {
+        "account_id": 58,
+        "account_no": "1284842395",
+        "routing_no": "650407121",
+        "balance_amount": 23376.940757808305,
+        "date_created": "2023-08-05",
+        "account_category": "Fixed",
+        "client_id": 444
+    },
+    {
+        "account_id": 59,
+        "account_no": "8515106463",
+        "routing_no": "305568023",
+        "balance_amount": 47423.706281886385,
+        "date_created": "2025-01-04",
+        "account_category": "Current",
+        "client_id": 280
+    },
+    {
+        "account_id": 60,
+        "account_no": "2172284960",
+        "routing_no": "793580059",
+        "balance_amount": 38180.42836625388,
+        "date_created": "2024-08-15",
+        "account_category": "Current",
+        "client_id": 162
+    },
+    {
+        "account_id": 61,
+        "account_no": "6994181334",
+        "routing_no": "819128299",
+        "balance_amount": 33983.08858226789,
+        "date_created": "2025-08-09",
+        "account_category": "Savings",
+        "client_id": 319
+    },
+    {
+        "account_id": 62,
+        "account_no": "6481135346",
+        "routing_no": "389852029",
+        "balance_amount": 5341.762309219684,
+        "date_created": "2025-04-22",
+        "account_category": "Savings",
+        "client_id": 34
+    },
+    {
+        "account_id": 63,
+        "account_no": "862631792",
+        "routing_no": "390792241",
+        "balance_amount": 35602.795396417234,
+        "date_created": "2024-05-27",
+        "account_category": "Fixed",
+        "client_id": 191
+    },
+    {
+        "account_id": 64,
+        "account_no": "6997448993",
+        "routing_no": "156384154",
+        "balance_amount": 8812.799496746089,
+        "date_created": "2022-07-23",
+        "account_category": "Fixed",
+        "client_id": 95
+    },
+    {
+        "account_id": 65,
+        "account_no": "5549295488",
+        "routing_no": "863794380",
+        "balance_amount": 26875.464713218826,
+        "date_created": "2023-04-22",
+        "account_category": "Fixed",
+        "client_id": 325
+    },
+    {
+        "account_id": 66,
+        "account_no": "5071242299",
+        "routing_no": "965050926",
+        "balance_amount": 6530.955830990788,
+        "date_created": "2022-09-23",
+        "account_category": "Fixed",
+        "client_id": 298
+    },
+    {
+        "account_id": 67,
+        "account_no": "6867251774",
+        "routing_no": "89726017",
+        "balance_amount": 27904.644321349755,
+        "date_created": "2020-09-22",
+        "account_category": "Current",
+        "client_id": 72
+    },
+    {
+        "account_id": 68,
+        "account_no": "4681331727",
+        "routing_no": "423070577",
+        "balance_amount": 33195.269208007725,
+        "date_created": "2020-01-29",
+        "account_category": "Current",
+        "client_id": 214
+    },
+    {
+        "account_id": 69,
+        "account_no": "3494664582",
+        "routing_no": "141008314",
+        "balance_amount": 11285.242828109982,
+        "date_created": "2022-05-26",
+        "account_category": "Current",
+        "client_id": 86
+    },
+    {
+        "account_id": 70,
+        "account_no": "8082696971",
+        "routing_no": "690977593",
+        "balance_amount": 43311.23776552925,
+        "date_created": "2020-07-18",
+        "account_category": "Current",
+        "client_id": 254
+    },
+    {
+        "account_id": 71,
+        "account_no": "8684578078",
+        "routing_no": "986173380",
+        "balance_amount": 10582.685575121313,
+        "date_created": "2021-09-30",
+        "account_category": "Current",
+        "client_id": 276
+    },
+    {
+        "account_id": 72,
+        "account_no": "7045101541",
+        "routing_no": "505474001",
+        "balance_amount": 5263.404691200738,
+        "date_created": "2022-06-23",
+        "account_category": "Savings",
+        "client_id": 451
+    },
+    {
+        "account_id": 73,
+        "account_no": "5455149037",
+        "routing_no": "426355939",
+        "balance_amount": 46744.749414208345,
+        "date_created": "2025-06-08",
+        "account_category": "Current",
+        "client_id": 275
+    },
+    {
+        "account_id": 74,
+        "account_no": "9780032213",
+        "routing_no": "982472292",
+        "balance_amount": 17602.852203316274,
+        "date_created": "2022-08-18",
+        "account_category": "Current",
+        "client_id": 59
+    },
+    {
+        "account_id": 75,
+        "account_no": "5514141410",
+        "routing_no": "193292424",
+        "balance_amount": 22557.347028513203,
+        "date_created": "2023-08-05",
+        "account_category": "Current",
+        "client_id": 352
+    },
+    {
+        "account_id": 76,
+        "account_no": "3441304778",
+        "routing_no": "315589575",
+        "balance_amount": 28405.67143984338,
+        "date_created": "2022-06-10",
+        "account_category": "Current",
+        "client_id": 447
+    },
+    {
+        "account_id": 77,
+        "account_no": "9880164742",
+        "routing_no": "302949765",
+        "balance_amount": 36049.394558878404,
+        "date_created": "2024-04-03",
+        "account_category": "Savings",
+        "client_id": 493
+    },
+    {
+        "account_id": 78,
+        "account_no": "4250370452",
+        "routing_no": "919512064",
+        "balance_amount": 42166.60049365158,
+        "date_created": "2021-12-28",
+        "account_category": "Savings",
+        "client_id": 141
+    },
+    {
+        "account_id": 79,
+        "account_no": "7553621762",
+        "routing_no": "202751710",
+        "balance_amount": 33619.84809113188,
+        "date_created": "2023-11-16",
+        "account_category": "Current",
+        "client_id": 500
+    },
+    {
+        "account_id": 80,
+        "account_no": "4714814867",
+        "routing_no": "864520757",
+        "balance_amount": 18674.595014104685,
+        "date_created": "2023-06-22",
+        "account_category": "Savings",
+        "client_id": 158
+    },
+    {
+        "account_id": 81,
+        "account_no": "5855546318",
+        "routing_no": "448247130",
+        "balance_amount": 31096.021140035045,
+        "date_created": "2021-05-31",
+        "account_category": "Current",
+        "client_id": 230
+    },
+    {
+        "account_id": 82,
+        "account_no": "8101265196",
+        "routing_no": "983242340",
+        "balance_amount": 45344.46757635672,
+        "date_created": "2021-04-14",
+        "account_category": "Savings",
+        "client_id": 356
+    },
+    {
+        "account_id": 83,
+        "account_no": "5462927776",
+        "routing_no": "494179151",
+        "balance_amount": 13614.047741530878,
+        "date_created": "2020-11-23",
+        "account_category": "Current",
+        "client_id": 283
+    },
+    {
+        "account_id": 84,
+        "account_no": "9180849886",
+        "routing_no": "531937209",
+        "balance_amount": 4063.792427629423,
+        "date_created": "2023-06-10",
+        "account_category": "Fixed",
+        "client_id": 330
+    },
+    {
+        "account_id": 85,
+        "account_no": "800810004",
+        "routing_no": "440000262",
+        "balance_amount": 4376.088380448877,
+        "date_created": "2022-09-22",
+        "account_category": "Fixed",
+        "client_id": 245
+    },
+    {
+        "account_id": 86,
+        "account_no": "7611750296",
+        "routing_no": "386348145",
+        "balance_amount": 15882.10449793138,
+        "date_created": "2025-05-10",
+        "account_category": "Savings",
+        "client_id": 453
+    },
+    {
+        "account_id": 87,
+        "account_no": "1639071650",
+        "routing_no": "901399120",
+        "balance_amount": 42623.85676026265,
+        "date_created": "2023-08-06",
+        "account_category": "Savings",
+        "client_id": 18
+    },
+    {
+        "account_id": 88,
+        "account_no": "6476650812",
+        "routing_no": "374065901",
+        "balance_amount": 11325.82409021411,
+        "date_created": "2020-06-26",
+        "account_category": "Fixed",
+        "client_id": 90
+    },
+    {
+        "account_id": 89,
+        "account_no": "8367152859",
+        "routing_no": "522684515",
+        "balance_amount": 23118.688888478013,
+        "date_created": "2023-09-24",
+        "account_category": "Current",
+        "client_id": 262
+    },
+    {
+        "account_id": 90,
+        "account_no": "9304623654",
+        "routing_no": "273947203",
+        "balance_amount": 20900.888907007786,
+        "date_created": "2025-10-15",
+        "account_category": "Savings",
+        "client_id": 67
+    },
+    {
+        "account_id": 91,
+        "account_no": "7679324551",
+        "routing_no": "184878784",
+        "balance_amount": 30365.433302652727,
+        "date_created": "2022-11-01",
+        "account_category": "Savings",
+        "client_id": 332
+    },
+    {
+        "account_id": 92,
+        "account_no": "9189437460",
+        "routing_no": "73898941",
+        "balance_amount": 37833.97434712142,
+        "date_created": "2023-09-23",
+        "account_category": "Savings",
+        "client_id": 185
+    },
+    {
+        "account_id": 93,
+        "account_no": "57879992",
+        "routing_no": "212977866",
+        "balance_amount": 21651.868429169994,
+        "date_created": "2024-09-02",
+        "account_category": "Fixed",
+        "client_id": 298
+    },
+    {
+        "account_id": 94,
+        "account_no": "754331298",
+        "routing_no": "207006591",
+        "balance_amount": 27709.845039281183,
+        "date_created": "2024-11-27",
+        "account_category": "Savings",
+        "client_id": 165
+    },
+    {
+        "account_id": 95,
+        "account_no": "9132190391",
+        "routing_no": "494251298",
+        "balance_amount": 34238.8079728442,
+        "date_created": "2022-04-03",
+        "account_category": "Current",
+        "client_id": 345
+    },
+    {
+        "account_id": 96,
+        "account_no": "2239349447",
+        "routing_no": "260949949",
+        "balance_amount": 47716.94051991793,
+        "date_created": "2021-06-27",
+        "account_category": "Current",
+        "client_id": 424
+    },
+    {
+        "account_id": 97,
+        "account_no": "130401688",
+        "routing_no": "993765304",
+        "balance_amount": 41662.11315486559,
+        "date_created": "2021-07-18",
+        "account_category": "Fixed",
+        "client_id": 93
+    },
+    {
+        "account_id": 98,
+        "account_no": "8890812087",
+        "routing_no": "386610736",
+        "balance_amount": 9999.69062916871,
+        "date_created": "2020-10-25",
+        "account_category": "Fixed",
+        "client_id": 111
+    },
+    {
+        "account_id": 99,
+        "account_no": "786286703",
+        "routing_no": "940241419",
+        "balance_amount": 29922.506810804633,
+        "date_created": "2020-04-06",
+        "account_category": "Savings",
+        "client_id": 431
+    },
+    {
+        "account_id": 100,
+        "account_no": "1076437581",
+        "routing_no": "968476568",
+        "balance_amount": 11952.506202796241,
+        "date_created": "2020-03-07",
+        "account_category": "Current",
+        "client_id": 105
+    },
+    {
+        "account_id": 101,
+        "account_no": "3492147657",
+        "routing_no": "928309973",
+        "balance_amount": 32166.18874546692,
+        "date_created": "2025-08-31",
+        "account_category": "Fixed",
+        "client_id": 126
+    },
+    {
+        "account_id": 102,
+        "account_no": "3822165947",
+        "routing_no": "107714584",
+        "balance_amount": 13543.232882476063,
+        "date_created": "2025-01-17",
+        "account_category": "Savings",
+        "client_id": 219
+    },
+    {
+        "account_id": 103,
+        "account_no": "6085425626",
+        "routing_no": "762793840",
+        "balance_amount": 34086.04833393234,
+        "date_created": "2024-08-02",
+        "account_category": "Fixed",
+        "client_id": 64
+    },
+    {
+        "account_id": 104,
+        "account_no": "3092684813",
+        "routing_no": "968091471",
+        "balance_amount": 31010.822636243152,
+        "date_created": "2023-12-03",
+        "account_category": "Savings",
+        "client_id": 208
+    },
+    {
+        "account_id": 105,
+        "account_no": "5548026767",
+        "routing_no": "427098963",
+        "balance_amount": 47283.941294911834,
+        "date_created": "2020-08-28",
+        "account_category": "Savings",
+        "client_id": 130
+    },
+    {
+        "account_id": 106,
+        "account_no": "7545151861",
+        "routing_no": "219742167",
+        "balance_amount": 24486.025207671177,
+        "date_created": "2021-10-16",
+        "account_category": "Current",
+        "client_id": 354
+    },
+    {
+        "account_id": 107,
+        "account_no": "2767804617",
+        "routing_no": "394659722",
+        "balance_amount": 1550.758030080744,
+        "date_created": "2021-04-05",
+        "account_category": "Savings",
+        "client_id": 495
+    },
+    {
+        "account_id": 108,
+        "account_no": "8776356124",
+        "routing_no": "72669546",
+        "balance_amount": 35154.3402988228,
+        "date_created": "2025-03-16",
+        "account_category": "Fixed",
+        "client_id": 356
+    },
+    {
+        "account_id": 109,
+        "account_no": "5081797131",
+        "routing_no": "538887825",
+        "balance_amount": 24851.618839416256,
+        "date_created": "2022-05-23",
+        "account_category": "Savings",
+        "client_id": 343
+    },
+    {
+        "account_id": 110,
+        "account_no": "7412451982",
+        "routing_no": "560615425",
+        "balance_amount": 48108.63663844382,
+        "date_created": "2020-05-08",
+        "account_category": "Savings",
+        "client_id": 52
+    },
+    {
+        "account_id": 111,
+        "account_no": "759008322",
+        "routing_no": "323027714",
+        "balance_amount": 6236.110135267741,
+        "date_created": "2025-05-07",
+        "account_category": "Savings",
+        "client_id": 172
+    },
+    {
+        "account_id": 112,
+        "account_no": "3705525346",
+        "routing_no": "570144557",
+        "balance_amount": 39312.39691867578,
+        "date_created": "2024-09-13",
+        "account_category": "Savings",
+        "client_id": 400
+    },
+    {
+        "account_id": 113,
+        "account_no": "2665241030",
+        "routing_no": "614515525",
+        "balance_amount": 23082.82151635997,
+        "date_created": "2022-07-22",
+        "account_category": "Current",
+        "client_id": 99
+    },
+    {
+        "account_id": 114,
+        "account_no": "788650693",
+        "routing_no": "609798305",
+        "balance_amount": 15081.908731170382,
+        "date_created": "2021-09-07",
+        "account_category": "Fixed",
+        "client_id": 240
+    },
+    {
+        "account_id": 115,
+        "account_no": "3114119230",
+        "routing_no": "33166233",
+        "balance_amount": 42981.05502193485,
+        "date_created": "2022-03-17",
+        "account_category": "Savings",
+        "client_id": 249
+    },
+    {
+        "account_id": 116,
+        "account_no": "7351981378",
+        "routing_no": "668686708",
+        "balance_amount": 49690.42915591124,
+        "date_created": "2020-11-17",
+        "account_category": "Current",
+        "client_id": 273
+    },
+    {
+        "account_id": 117,
+        "account_no": "4824929964",
+        "routing_no": "408646820",
+        "balance_amount": 47280.005617606774,
+        "date_created": "2022-03-04",
+        "account_category": "Fixed",
+        "client_id": 275
+    },
+    {
+        "account_id": 118,
+        "account_no": "7821513142",
+        "routing_no": "454431539",
+        "balance_amount": 48911.218225417346,
+        "date_created": "2021-01-20",
+        "account_category": "Current",
+        "client_id": 410
+    },
+    {
+        "account_id": 119,
+        "account_no": "7679988077",
+        "routing_no": "587390890",
+        "balance_amount": 1882.4320681177583,
+        "date_created": "2025-08-12",
+        "account_category": "Savings",
+        "client_id": 307
+    },
+    {
+        "account_id": 120,
+        "account_no": "9925479193",
+        "routing_no": "926552792",
+        "balance_amount": 8461.193124512563,
+        "date_created": "2025-08-27",
+        "account_category": "Fixed",
+        "client_id": 167
+    },
+    {
+        "account_id": 121,
+        "account_no": "6449904755",
+        "routing_no": "590908341",
+        "balance_amount": 12895.38006129839,
+        "date_created": "2022-04-27",
+        "account_category": "Fixed",
+        "client_id": 102
+    },
+    {
+        "account_id": 122,
+        "account_no": "7764998621",
+        "routing_no": "195066233",
+        "balance_amount": 45871.317030067745,
+        "date_created": "2021-07-24",
+        "account_category": "Current",
+        "client_id": 420
+    },
+    {
+        "account_id": 123,
+        "account_no": "8617758631",
+        "routing_no": "100417023",
+        "balance_amount": 26822.073157399227,
+        "date_created": "2020-06-27",
+        "account_category": "Current",
+        "client_id": 164
+    },
+    {
+        "account_id": 124,
+        "account_no": "5932235341",
+        "routing_no": "774226960",
+        "balance_amount": 34620.82777626715,
+        "date_created": "2024-04-19",
+        "account_category": "Current",
+        "client_id": 341
+    },
+    {
+        "account_id": 125,
+        "account_no": "1767569943",
+        "routing_no": "613203643",
+        "balance_amount": 49430.327706520504,
+        "date_created": "2022-07-20",
+        "account_category": "Current",
+        "client_id": 217
+    },
+    {
+        "account_id": 126,
+        "account_no": "6135501877",
+        "routing_no": "231439472",
+        "balance_amount": 5790.201049843691,
+        "date_created": "2022-05-14",
+        "account_category": "Current",
+        "client_id": 460
+    },
+    {
+        "account_id": 127,
+        "account_no": "3320899011",
+        "routing_no": "887825472",
+        "balance_amount": 3953.6954333054978,
+        "date_created": "2020-12-05",
+        "account_category": "Current",
+        "client_id": 9
+    },
+    {
+        "account_id": 128,
+        "account_no": "348006424",
+        "routing_no": "104262509",
+        "balance_amount": 24751.588132343943,
+        "date_created": "2025-10-01",
+        "account_category": "Fixed",
+        "client_id": 132
+    },
+    {
+        "account_id": 129,
+        "account_no": "7279226668",
+        "routing_no": "344480452",
+        "balance_amount": 3249.220394756005,
+        "date_created": "2020-08-14",
+        "account_category": "Current",
+        "client_id": 293
+    },
+    {
+        "account_id": 130,
+        "account_no": "7182267633",
+        "routing_no": "563252022",
+        "balance_amount": 26290.552335909608,
+        "date_created": "2020-12-03",
+        "account_category": "Fixed",
+        "client_id": 195
+    },
+    {
+        "account_id": 131,
+        "account_no": "5097100894",
+        "routing_no": "79256218",
+        "balance_amount": 49420.95821400164,
+        "date_created": "2024-09-23",
+        "account_category": "Current",
+        "client_id": 121
+    },
+    {
+        "account_id": 132,
+        "account_no": "5247000407",
+        "routing_no": "253420101",
+        "balance_amount": 31533.89074525705,
+        "date_created": "2020-06-23",
+        "account_category": "Fixed",
+        "client_id": 105
+    },
+    {
+        "account_id": 133,
+        "account_no": "7398170924",
+        "routing_no": "292531367",
+        "balance_amount": 42463.77061922088,
+        "date_created": "2024-05-23",
+        "account_category": "Fixed",
+        "client_id": 138
+    },
+    {
+        "account_id": 134,
+        "account_no": "6625638613",
+        "routing_no": "235319745",
+        "balance_amount": 42973.3415826386,
+        "date_created": "2025-03-30",
+        "account_category": "Savings",
+        "client_id": 100
+    },
+    {
+        "account_id": 135,
+        "account_no": "3898958666",
+        "routing_no": "113933168",
+        "balance_amount": 41663.264473014,
+        "date_created": "2023-09-24",
+        "account_category": "Savings",
+        "client_id": 375
+    },
+    {
+        "account_id": 136,
+        "account_no": "6973479435",
+        "routing_no": "321673801",
+        "balance_amount": 48296.44103355315,
+        "date_created": "2024-12-19",
+        "account_category": "Fixed",
+        "client_id": 195
+    },
+    {
+        "account_id": 137,
+        "account_no": "7131728480",
+        "routing_no": "530370450",
+        "balance_amount": 25605.903151394054,
+        "date_created": "2021-02-02",
+        "account_category": "Savings",
+        "client_id": 324
+    },
+    {
+        "account_id": 138,
+        "account_no": "3174782956",
+        "routing_no": "46306944",
+        "balance_amount": 23626.15092797168,
+        "date_created": "2022-11-29",
+        "account_category": "Savings",
+        "client_id": 485
+    },
+    {
+        "account_id": 139,
+        "account_no": "5149484548",
+        "routing_no": "161508688",
+        "balance_amount": 5583.946503293685,
+        "date_created": "2022-08-23",
+        "account_category": "Fixed",
+        "client_id": 374
+    },
+    {
+        "account_id": 140,
+        "account_no": "6745634278",
+        "routing_no": "904917717",
+        "balance_amount": 15538.36133746268,
+        "date_created": "2025-04-21",
+        "account_category": "Current",
+        "client_id": 103
+    },
+    {
+        "account_id": 141,
+        "account_no": "9931311041",
+        "routing_no": "946829221",
+        "balance_amount": 43305.057696365235,
+        "date_created": "2020-12-19",
+        "account_category": "Current",
+        "client_id": 170
+    },
+    {
+        "account_id": 142,
+        "account_no": "3625655166",
+        "routing_no": "974831426",
+        "balance_amount": 17118.85215587768,
+        "date_created": "2022-01-15",
+        "account_category": "Current",
+        "client_id": 115
+    },
+    {
+        "account_id": 143,
+        "account_no": "1102079017",
+        "routing_no": "349220191",
+        "balance_amount": 35000.31968648841,
+        "date_created": "2023-11-13",
+        "account_category": "Savings",
+        "client_id": 182
+    },
+    {
+        "account_id": 144,
+        "account_no": "1858526466",
+        "routing_no": "279925991",
+        "balance_amount": 26314.931857721265,
+        "date_created": "2021-08-22",
+        "account_category": "Fixed",
+        "client_id": 487
+    },
+    {
+        "account_id": 145,
+        "account_no": "9098198897",
+        "routing_no": "727127756",
+        "balance_amount": 44434.93214648031,
+        "date_created": "2022-02-07",
+        "account_category": "Savings",
+        "client_id": 379
+    },
+    {
+        "account_id": 146,
+        "account_no": "2562669782",
+        "routing_no": "558789714",
+        "balance_amount": 44330.444604224656,
+        "date_created": "2023-10-09",
+        "account_category": "Current",
+        "client_id": 276
+    },
+    {
+        "account_id": 147,
+        "account_no": "4689773811",
+        "routing_no": "15935480",
+        "balance_amount": 33993.98695021408,
+        "date_created": "2023-05-17",
+        "account_category": "Savings",
+        "client_id": 445
+    },
+    {
+        "account_id": 148,
+        "account_no": "1083353391",
+        "routing_no": "549888347",
+        "balance_amount": 28027.86869548969,
+        "date_created": "2025-09-26",
+        "account_category": "Savings",
+        "client_id": 489
+    },
+    {
+        "account_id": 149,
+        "account_no": "8654696962",
+        "routing_no": "878387873",
+        "balance_amount": 4735.621779127283,
+        "date_created": "2023-04-16",
+        "account_category": "Fixed",
+        "client_id": 468
+    },
+    {
+        "account_id": 150,
+        "account_no": "9938461048",
+        "routing_no": "86519372",
+        "balance_amount": 18540.45282648359,
+        "date_created": "2023-08-28",
+        "account_category": "Fixed",
+        "client_id": 91
+    },
+    {
+        "account_id": 151,
+        "account_no": "4729107631",
+        "routing_no": "596101782",
+        "balance_amount": 34440.94942981673,
+        "date_created": "2023-04-11",
+        "account_category": "Fixed",
+        "client_id": 134
+    },
+    {
+        "account_id": 152,
+        "account_no": "4416908363",
+        "routing_no": "741709424",
+        "balance_amount": 5859.081201946099,
+        "date_created": "2020-07-02",
+        "account_category": "Fixed",
+        "client_id": 343
+    },
+    {
+        "account_id": 153,
+        "account_no": "9820794195",
+        "routing_no": "709668513",
+        "balance_amount": 19830.758867249195,
+        "date_created": "2024-01-07",
+        "account_category": "Current",
+        "client_id": 3
+    },
+    {
+        "account_id": 154,
+        "account_no": "3328037915",
+        "routing_no": "820500526",
+        "balance_amount": 27238.819159646086,
+        "date_created": "2021-10-29",
+        "account_category": "Savings",
+        "client_id": 151
+    },
+    {
+        "account_id": 155,
+        "account_no": "5341691865",
+        "routing_no": "290437586",
+        "balance_amount": 8476.98784275771,
+        "date_created": "2022-08-26",
+        "account_category": "Current",
+        "client_id": 382
+    },
+    {
+        "account_id": 156,
+        "account_no": "5376459761",
+        "routing_no": "643146504",
+        "balance_amount": 26378.429610539766,
+        "date_created": "2025-04-14",
+        "account_category": "Savings",
+        "client_id": 491
+    },
+    {
+        "account_id": 157,
+        "account_no": "3289539652",
+        "routing_no": "702172141",
+        "balance_amount": 11071.822389238305,
+        "date_created": "2023-11-06",
+        "account_category": "Current",
+        "client_id": 245
+    },
+    {
+        "account_id": 158,
+        "account_no": "3401790289",
+        "routing_no": "830418024",
+        "balance_amount": 40440.64976676917,
+        "date_created": "2021-04-11",
+        "account_category": "Fixed",
+        "client_id": 327
+    },
+    {
+        "account_id": 159,
+        "account_no": "5349180703",
+        "routing_no": "971114043",
+        "balance_amount": 25158.90866579293,
+        "date_created": "2021-11-22",
+        "account_category": "Fixed",
+        "client_id": 287
+    },
+    {
+        "account_id": 160,
+        "account_no": "5286998552",
+        "routing_no": "14362990",
+        "balance_amount": 10913.575636965925,
+        "date_created": "2023-10-23",
+        "account_category": "Savings",
+        "client_id": 204
+    },
+    {
+        "account_id": 161,
+        "account_no": "4192216758",
+        "routing_no": "933838508",
+        "balance_amount": 26947.637360462337,
+        "date_created": "2023-11-19",
+        "account_category": "Savings",
+        "client_id": 475
+    },
+    {
+        "account_id": 162,
+        "account_no": "9631339017",
+        "routing_no": "919150170",
+        "balance_amount": 46432.875418547366,
+        "date_created": "2021-11-18",
+        "account_category": "Savings",
+        "client_id": 342
+    },
+    {
+        "account_id": 163,
+        "account_no": "1575291501",
+        "routing_no": "117509126",
+        "balance_amount": 14427.41450080131,
+        "date_created": "2025-01-24",
+        "account_category": "Current",
+        "client_id": 107
+    },
+    {
+        "account_id": 164,
+        "account_no": "2572317866",
+        "routing_no": "78027177",
+        "balance_amount": 49281.28638935353,
+        "date_created": "2025-07-24",
+        "account_category": "Savings",
+        "client_id": 435
+    },
+    {
+        "account_id": 165,
+        "account_no": "5025605306",
+        "routing_no": "798802719",
+        "balance_amount": 47105.28320795974,
+        "date_created": "2020-12-28",
+        "account_category": "Savings",
+        "client_id": 417
+    },
+    {
+        "account_id": 166,
+        "account_no": "8920958983",
+        "routing_no": "39598352",
+        "balance_amount": 44254.42908176903,
+        "date_created": "2025-04-27",
+        "account_category": "Savings",
+        "client_id": 13
+    },
+    {
+        "account_id": 167,
+        "account_no": "1741775668",
+        "routing_no": "811064396",
+        "balance_amount": 10192.25986218098,
+        "date_created": "2021-08-06",
+        "account_category": "Fixed",
+        "client_id": 363
+    },
+    {
+        "account_id": 168,
+        "account_no": "3697042162",
+        "routing_no": "241329659",
+        "balance_amount": 16236.506254773112,
+        "date_created": "2023-11-10",
+        "account_category": "Fixed",
+        "client_id": 368
+    },
+    {
+        "account_id": 169,
+        "account_no": "2100945346",
+        "routing_no": "718130208",
+        "balance_amount": 12621.797525389828,
+        "date_created": "2020-12-26",
+        "account_category": "Fixed",
+        "client_id": 500
+    },
+    {
+        "account_id": 170,
+        "account_no": "7034496275",
+        "routing_no": "222757937",
+        "balance_amount": 3346.3563721392393,
+        "date_created": "2021-10-01",
+        "account_category": "Fixed",
+        "client_id": 46
+    },
+    {
+        "account_id": 171,
+        "account_no": "6098524084",
+        "routing_no": "592846461",
+        "balance_amount": 1053.9410599560345,
+        "date_created": "2021-04-15",
+        "account_category": "Fixed",
+        "client_id": 106
+    },
+    {
+        "account_id": 172,
+        "account_no": "152980102",
+        "routing_no": "735794869",
+        "balance_amount": 37161.72141924573,
+        "date_created": "2020-09-23",
+        "account_category": "Current",
+        "client_id": 98
+    },
+    {
+        "account_id": 173,
+        "account_no": "6651188404",
+        "routing_no": "735373278",
+        "balance_amount": 26987.216275133454,
+        "date_created": "2021-03-09",
+        "account_category": "Current",
+        "client_id": 424
+    },
+    {
+        "account_id": 174,
+        "account_no": "8249171720",
+        "routing_no": "787822894",
+        "balance_amount": 48002.485652889234,
+        "date_created": "2024-05-13",
+        "account_category": "Savings",
+        "client_id": 306
+    },
+    {
+        "account_id": 175,
+        "account_no": "9813551912",
+        "routing_no": "243581033",
+        "balance_amount": 5484.789693320125,
+        "date_created": "2025-06-29",
+        "account_category": "Fixed",
+        "client_id": 349
+    },
+    {
+        "account_id": 176,
+        "account_no": "7765688566",
+        "routing_no": "341051239",
+        "balance_amount": 14521.029361785084,
+        "date_created": "2022-06-06",
+        "account_category": "Savings",
+        "client_id": 285
+    },
+    {
+        "account_id": 177,
+        "account_no": "3063213816",
+        "routing_no": "141269872",
+        "balance_amount": 48738.49816790067,
+        "date_created": "2024-06-28",
+        "account_category": "Savings",
+        "client_id": 347
+    },
+    {
+        "account_id": 178,
+        "account_no": "7056198674",
+        "routing_no": "800323892",
+        "balance_amount": 24104.029677959414,
+        "date_created": "2024-09-02",
+        "account_category": "Fixed",
+        "client_id": 333
+    },
+    {
+        "account_id": 179,
+        "account_no": "8716400933",
+        "routing_no": "613123589",
+        "balance_amount": 30933.837627297213,
+        "date_created": "2025-10-11",
+        "account_category": "Fixed",
+        "client_id": 245
+    },
+    {
+        "account_id": 180,
+        "account_no": "2772438239",
+        "routing_no": "87037520",
+        "balance_amount": 29830.06922291073,
+        "date_created": "2025-06-28",
+        "account_category": "Fixed",
+        "client_id": 178
+    },
+    {
+        "account_id": 181,
+        "account_no": "8782918782",
+        "routing_no": "208434367",
+        "balance_amount": 27662.7157221136,
+        "date_created": "2022-10-24",
+        "account_category": "Current",
+        "client_id": 427
+    },
+    {
+        "account_id": 182,
+        "account_no": "3351951416",
+        "routing_no": "507981385",
+        "balance_amount": 48886.79349303906,
+        "date_created": "2025-06-06",
+        "account_category": "Savings",
+        "client_id": 500
+    },
+    {
+        "account_id": 183,
+        "account_no": "7487491797",
+        "routing_no": "470544611",
+        "balance_amount": 10851.697553721893,
+        "date_created": "2021-10-22",
+        "account_category": "Savings",
+        "client_id": 84
+    },
+    {
+        "account_id": 184,
+        "account_no": "5621770594",
+        "routing_no": "626090606",
+        "balance_amount": 19881.908020043236,
+        "date_created": "2022-04-09",
+        "account_category": "Current",
+        "client_id": 42
+    },
+    {
+        "account_id": 185,
+        "account_no": "7956993361",
+        "routing_no": "62190244",
+        "balance_amount": 13327.65396797567,
+        "date_created": "2020-12-20",
+        "account_category": "Fixed",
+        "client_id": 344
+    },
+    {
+        "account_id": 186,
+        "account_no": "1243342767",
+        "routing_no": "201925687",
+        "balance_amount": 4438.556874963704,
+        "date_created": "2021-11-21",
+        "account_category": "Current",
+        "client_id": 121
+    },
+    {
+        "account_id": 187,
+        "account_no": "4297644884",
+        "routing_no": "865203133",
+        "balance_amount": 47936.722653680816,
+        "date_created": "2020-01-14",
+        "account_category": "Savings",
+        "client_id": 117
+    },
+    {
+        "account_id": 188,
+        "account_no": "9840620537",
+        "routing_no": "888390716",
+        "balance_amount": 25619.89343540682,
+        "date_created": "2020-12-15",
+        "account_category": "Current",
+        "client_id": 392
+    },
+    {
+        "account_id": 189,
+        "account_no": "1065731933",
+        "routing_no": "792583816",
+        "balance_amount": 31902.80833154189,
+        "date_created": "2024-06-14",
+        "account_category": "Savings",
+        "client_id": 100
+    },
+    {
+        "account_id": 190,
+        "account_no": "3792940590",
+        "routing_no": "452226474",
+        "balance_amount": 2211.2292816445415,
+        "date_created": "2020-06-02",
+        "account_category": "Current",
+        "client_id": 139
+    },
+    {
+        "account_id": 191,
+        "account_no": "1354289632",
+        "routing_no": "365646490",
+        "balance_amount": 10595.227645741053,
+        "date_created": "2022-12-27",
+        "account_category": "Savings",
+        "client_id": 126
+    },
+    {
+        "account_id": 192,
+        "account_no": "6049802508",
+        "routing_no": "231468944",
+        "balance_amount": 39169.63842686439,
+        "date_created": "2024-10-10",
+        "account_category": "Savings",
+        "client_id": 347
+    },
+    {
+        "account_id": 193,
+        "account_no": "618109354",
+        "routing_no": "725986005",
+        "balance_amount": 39701.97665590204,
+        "date_created": "2021-06-22",
+        "account_category": "Savings",
+        "client_id": 247
+    },
+    {
+        "account_id": 194,
+        "account_no": "8921218602",
+        "routing_no": "263201718",
+        "balance_amount": 9458.02503937483,
+        "date_created": "2023-12-25",
+        "account_category": "Current",
+        "client_id": 498
+    },
+    {
+        "account_id": 195,
+        "account_no": "3745650659",
+        "routing_no": "737345451",
+        "balance_amount": 9048.572531987911,
+        "date_created": "2022-09-03",
+        "account_category": "Fixed",
+        "client_id": 30
+    },
+    {
+        "account_id": 196,
+        "account_no": "5937382457",
+        "routing_no": "177632168",
+        "balance_amount": 24953.660661263064,
+        "date_created": "2024-06-27",
+        "account_category": "Fixed",
+        "client_id": 241
+    },
+    {
+        "account_id": 197,
+        "account_no": "4041845053",
+        "routing_no": "929579854",
+        "balance_amount": 31178.97921899788,
+        "date_created": "2022-05-16",
+        "account_category": "Fixed",
+        "client_id": 338
+    },
+    {
+        "account_id": 198,
+        "account_no": "521838185",
+        "routing_no": "204538361",
+        "balance_amount": 30354.475147736655,
+        "date_created": "2021-11-12",
+        "account_category": "Savings",
+        "client_id": 500
+    },
+    {
+        "account_id": 199,
+        "account_no": "1507646893",
+        "routing_no": "876280016",
+        "balance_amount": 13638.23699386805,
+        "date_created": "2020-08-20",
+        "account_category": "Fixed",
+        "client_id": 309
+    },
+    {
+        "account_id": 200,
+        "account_no": "8092733810",
+        "routing_no": "107176325",
+        "balance_amount": 31873.33286456238,
+        "date_created": "2020-04-02",
+        "account_category": "Current",
+        "client_id": 261
+    },
+    {
+        "account_id": 201,
+        "account_no": "7492745748",
+        "routing_no": "323942766",
+        "balance_amount": 4394.5995542643495,
+        "date_created": "2020-10-24",
+        "account_category": "Savings",
+        "client_id": 478
+    },
+    {
+        "account_id": 202,
+        "account_no": "4185047889",
+        "routing_no": "818452128",
+        "balance_amount": 41182.04718160887,
+        "date_created": "2021-02-15",
+        "account_category": "Fixed",
+        "client_id": 12
+    },
+    {
+        "account_id": 203,
+        "account_no": "8615408050",
+        "routing_no": "38064207",
+        "balance_amount": 32796.82136528383,
+        "date_created": "2021-02-09",
+        "account_category": "Savings",
+        "client_id": 281
+    },
+    {
+        "account_id": 204,
+        "account_no": "1825423929",
+        "routing_no": "27081485",
+        "balance_amount": 24976.272870071163,
+        "date_created": "2021-05-31",
+        "account_category": "Savings",
+        "client_id": 209
+    },
+    {
+        "account_id": 205,
+        "account_no": "2005766989",
+        "routing_no": "367474384",
+        "balance_amount": 40059.770488998045,
+        "date_created": "2025-06-19",
+        "account_category": "Savings",
+        "client_id": 164
+    },
+    {
+        "account_id": 206,
+        "account_no": "3836420143",
+        "routing_no": "396503113",
+        "balance_amount": 39646.01162662238,
+        "date_created": "2023-12-06",
+        "account_category": "Fixed",
+        "client_id": 448
+    },
+    {
+        "account_id": 207,
+        "account_no": "8545394216",
+        "routing_no": "148283266",
+        "balance_amount": 43393.36423472191,
+        "date_created": "2021-11-18",
+        "account_category": "Current",
+        "client_id": 142
+    },
+    {
+        "account_id": 208,
+        "account_no": "8842492870",
+        "routing_no": "568521181",
+        "balance_amount": 38046.38687359086,
+        "date_created": "2023-11-09",
+        "account_category": "Fixed",
+        "client_id": 240
+    },
+    {
+        "account_id": 209,
+        "account_no": "4491602545",
+        "routing_no": "837013159",
+        "balance_amount": 16749.866763052887,
+        "date_created": "2020-04-14",
+        "account_category": "Current",
+        "client_id": 281
+    },
+    {
+        "account_id": 210,
+        "account_no": "1753240540",
+        "routing_no": "75991433",
+        "balance_amount": 8577.81934023336,
+        "date_created": "2021-09-08",
+        "account_category": "Savings",
+        "client_id": 424
+    },
+    {
+        "account_id": 211,
+        "account_no": "9674138232",
+        "routing_no": "598573078",
+        "balance_amount": 6062.555639901058,
+        "date_created": "2023-04-19",
+        "account_category": "Fixed",
+        "client_id": 250
+    },
+    {
+        "account_id": 212,
+        "account_no": "5066147085",
+        "routing_no": "773053521",
+        "balance_amount": 33806.01016449346,
+        "date_created": "2024-05-02",
+        "account_category": "Fixed",
+        "client_id": 71
+    },
+    {
+        "account_id": 213,
+        "account_no": "914749184",
+        "routing_no": "785899148",
+        "balance_amount": 39884.91543400198,
+        "date_created": "2023-06-15",
+        "account_category": "Current",
+        "client_id": 153
+    },
+    {
+        "account_id": 214,
+        "account_no": "2254104748",
+        "routing_no": "304573988",
+        "balance_amount": 13305.704197711992,
+        "date_created": "2024-08-22",
+        "account_category": "Fixed",
+        "client_id": 54
+    },
+    {
+        "account_id": 215,
+        "account_no": "7299325668",
+        "routing_no": "209863634",
+        "balance_amount": 32422.84686307083,
+        "date_created": "2025-09-13",
+        "account_category": "Fixed",
+        "client_id": 277
+    },
+    {
+        "account_id": 216,
+        "account_no": "1784727511",
+        "routing_no": "507856231",
+        "balance_amount": 47758.733913370444,
+        "date_created": "2021-02-24",
+        "account_category": "Savings",
+        "client_id": 1
+    },
+    {
+        "account_id": 217,
+        "account_no": "2542330414",
+        "routing_no": "483760028",
+        "balance_amount": 19874.862480110485,
+        "date_created": "2024-07-05",
+        "account_category": "Fixed",
+        "client_id": 98
+    },
+    {
+        "account_id": 218,
+        "account_no": "7522494633",
+        "routing_no": "830383182",
+        "balance_amount": 9529.051697643601,
+        "date_created": "2023-06-29",
+        "account_category": "Current",
+        "client_id": 140
+    },
+    {
+        "account_id": 219,
+        "account_no": "2138018454",
+        "routing_no": "721403206",
+        "balance_amount": 36042.39048919151,
+        "date_created": "2021-10-05",
+        "account_category": "Fixed",
+        "client_id": 281
+    },
+    {
+        "account_id": 220,
+        "account_no": "9156324370",
+        "routing_no": "589221191",
+        "balance_amount": 37003.75973250931,
+        "date_created": "2025-07-27",
+        "account_category": "Fixed",
+        "client_id": 202
+    },
+    {
+        "account_id": 221,
+        "account_no": "8710085114",
+        "routing_no": "498487218",
+        "balance_amount": 3256.9163935244105,
+        "date_created": "2024-05-27",
+        "account_category": "Savings",
+        "client_id": 21
+    },
+    {
+        "account_id": 222,
+        "account_no": "816268810",
+        "routing_no": "754485514",
+        "balance_amount": 18003.23831919604,
+        "date_created": "2021-06-03",
+        "account_category": "Savings",
+        "client_id": 228
+    },
+    {
+        "account_id": 223,
+        "account_no": "360451997",
+        "routing_no": "953063327",
+        "balance_amount": 11441.869458839908,
+        "date_created": "2020-03-09",
+        "account_category": "Current",
+        "client_id": 92
+    },
+    {
+        "account_id": 224,
+        "account_no": "7697658576",
+        "routing_no": "628362566",
+        "balance_amount": 6408.033382004091,
+        "date_created": "2024-08-09",
+        "account_category": "Fixed",
+        "client_id": 293
+    },
+    {
+        "account_id": 225,
+        "account_no": "8312348543",
+        "routing_no": "395979630",
+        "balance_amount": 39039.08420436815,
+        "date_created": "2022-07-23",
+        "account_category": "Current",
+        "client_id": 500
+    },
+    {
+        "account_id": 226,
+        "account_no": "4263300557",
+        "routing_no": "395926116",
+        "balance_amount": 35423.41437195871,
+        "date_created": "2020-11-19",
+        "account_category": "Current",
+        "client_id": 312
+    },
+    {
+        "account_id": 227,
+        "account_no": "3901974394",
+        "routing_no": "296382424",
+        "balance_amount": 21268.33507141417,
+        "date_created": "2020-09-29",
+        "account_category": "Fixed",
+        "client_id": 72
+    },
+    {
+        "account_id": 228,
+        "account_no": "1810044852",
+        "routing_no": "639585213",
+        "balance_amount": 11877.045708066313,
+        "date_created": "2024-09-04",
+        "account_category": "Fixed",
+        "client_id": 429
+    },
+    {
+        "account_id": 229,
+        "account_no": "3552665960",
+        "routing_no": "596206822",
+        "balance_amount": 32890.05161375413,
+        "date_created": "2024-09-30",
+        "account_category": "Savings",
+        "client_id": 130
+    },
+    {
+        "account_id": 230,
+        "account_no": "5688728375",
+        "routing_no": "332713491",
+        "balance_amount": 49273.29895081651,
+        "date_created": "2025-07-10",
+        "account_category": "Savings",
+        "client_id": 6
+    },
+    {
+        "account_id": 231,
+        "account_no": "9736379646",
+        "routing_no": "723082626",
+        "balance_amount": 17292.052011379456,
+        "date_created": "2024-11-04",
+        "account_category": "Current",
+        "client_id": 407
+    },
+    {
+        "account_id": 232,
+        "account_no": "5648860030",
+        "routing_no": "505343469",
+        "balance_amount": 14355.683463468105,
+        "date_created": "2025-02-22",
+        "account_category": "Current",
+        "client_id": 185
+    },
+    {
+        "account_id": 233,
+        "account_no": "6297512187",
+        "routing_no": "467763785",
+        "balance_amount": 22898.48902868927,
+        "date_created": "2021-07-26",
+        "account_category": "Fixed",
+        "client_id": 370
+    },
+    {
+        "account_id": 234,
+        "account_no": "8664232801",
+        "routing_no": "55844220",
+        "balance_amount": 36699.1805398688,
+        "date_created": "2022-09-10",
+        "account_category": "Savings",
+        "client_id": 499
+    },
+    {
+        "account_id": 235,
+        "account_no": "4177547691",
+        "routing_no": "537276513",
+        "balance_amount": 37640.145672158746,
+        "date_created": "2025-01-24",
+        "account_category": "Fixed",
+        "client_id": 75
+    },
+    {
+        "account_id": 236,
+        "account_no": "7939840371",
+        "routing_no": "770524019",
+        "balance_amount": 13649.961333195686,
+        "date_created": "2020-05-23",
+        "account_category": "Savings",
+        "client_id": 420
+    },
+    {
+        "account_id": 237,
+        "account_no": "1772578087",
+        "routing_no": "323711324",
+        "balance_amount": 40013.200860964855,
+        "date_created": "2022-09-28",
+        "account_category": "Current",
+        "client_id": 188
+    },
+    {
+        "account_id": 238,
+        "account_no": "6593880453",
+        "routing_no": "646865060",
+        "balance_amount": 2059.606353172105,
+        "date_created": "2021-01-04",
+        "account_category": "Savings",
+        "client_id": 124
+    },
+    {
+        "account_id": 239,
+        "account_no": "4170345356",
+        "routing_no": "850088722",
+        "balance_amount": 42497.22653604862,
+        "date_created": "2023-08-01",
+        "account_category": "Current",
+        "client_id": 352
+    },
+    {
+        "account_id": 240,
+        "account_no": "8480062016",
+        "routing_no": "525925096",
+        "balance_amount": 6398.566750365004,
+        "date_created": "2023-09-06",
+        "account_category": "Current",
+        "client_id": 219
+    },
+    {
+        "account_id": 241,
+        "account_no": "7311685937",
+        "routing_no": "490843310",
+        "balance_amount": 29523.392758085487,
+        "date_created": "2025-01-29",
+        "account_category": "Savings",
+        "client_id": 270
+    },
+    {
+        "account_id": 242,
+        "account_no": "9811522480",
+        "routing_no": "333251592",
+        "balance_amount": 41470.266235901625,
+        "date_created": "2021-04-08",
+        "account_category": "Current",
+        "client_id": 82
+    },
+    {
+        "account_id": 243,
+        "account_no": "9119868708",
+        "routing_no": "272492036",
+        "balance_amount": 4519.212640067114,
+        "date_created": "2025-06-22",
+        "account_category": "Fixed",
+        "client_id": 20
+    },
+    {
+        "account_id": 244,
+        "account_no": "4319779311",
+        "routing_no": "414734276",
+        "balance_amount": 11535.456184217383,
+        "date_created": "2023-10-30",
+        "account_category": "Current",
+        "client_id": 432
+    },
+    {
+        "account_id": 245,
+        "account_no": "1592905168",
+        "routing_no": "583972300",
+        "balance_amount": 14863.489582367394,
+        "date_created": "2025-07-30",
+        "account_category": "Fixed",
+        "client_id": 231
+    },
+    {
+        "account_id": 246,
+        "account_no": "2751296467",
+        "routing_no": "199171703",
+        "balance_amount": 12425.95265667079,
+        "date_created": "2020-07-19",
+        "account_category": "Current",
+        "client_id": 133
+    },
+    {
+        "account_id": 247,
+        "account_no": "6292299549",
+        "routing_no": "339146898",
+        "balance_amount": 49956.41439033013,
+        "date_created": "2024-06-09",
+        "account_category": "Current",
+        "client_id": 444
+    },
+    {
+        "account_id": 248,
+        "account_no": "3023734106",
+        "routing_no": "638551876",
+        "balance_amount": 8300.443179602638,
+        "date_created": "2020-10-08",
+        "account_category": "Savings",
+        "client_id": 84
+    },
+    {
+        "account_id": 249,
+        "account_no": "3389192588",
+        "routing_no": "269266627",
+        "balance_amount": 47202.16942107339,
+        "date_created": "2025-08-29",
+        "account_category": "Fixed",
+        "client_id": 198
+    },
+    {
+        "account_id": 250,
+        "account_no": "9452742027",
+        "routing_no": "655373002",
+        "balance_amount": 45335.34979084917,
+        "date_created": "2024-01-06",
+        "account_category": "Current",
+        "client_id": 113
+    },
+    {
+        "account_id": 251,
+        "account_no": "3262528321",
+        "routing_no": "615238538",
+        "balance_amount": 2590.606733729328,
+        "date_created": "2024-05-28",
+        "account_category": "Savings",
+        "client_id": 177
+    },
+    {
+        "account_id": 252,
+        "account_no": "6254366841",
+        "routing_no": "703169644",
+        "balance_amount": 3144.1206103291306,
+        "date_created": "2025-03-06",
+        "account_category": "Savings",
+        "client_id": 54
+    },
+    {
+        "account_id": 253,
+        "account_no": "9340409719",
+        "routing_no": "705796209",
+        "balance_amount": 29520.758610945053,
+        "date_created": "2020-07-07",
+        "account_category": "Fixed",
+        "client_id": 62
+    },
+    {
+        "account_id": 254,
+        "account_no": "9241001620",
+        "routing_no": "821103623",
+        "balance_amount": 44638.398796791414,
+        "date_created": "2022-10-28",
+        "account_category": "Current",
+        "client_id": 424
+    },
+    {
+        "account_id": 255,
+        "account_no": "5011335206",
+        "routing_no": "272732714",
+        "balance_amount": 13720.811569498492,
+        "date_created": "2020-09-01",
+        "account_category": "Fixed",
+        "client_id": 257
+    },
+    {
+        "account_id": 256,
+        "account_no": "8654219548",
+        "routing_no": "146791754",
+        "balance_amount": 46455.87663846893,
+        "date_created": "2020-06-04",
+        "account_category": "Fixed",
+        "client_id": 400
+    },
+    {
+        "account_id": 257,
+        "account_no": "2001289619",
+        "routing_no": "927818268",
+        "balance_amount": 27956.580974681954,
+        "date_created": "2022-02-16",
+        "account_category": "Fixed",
+        "client_id": 69
+    },
+    {
+        "account_id": 258,
+        "account_no": "470518289",
+        "routing_no": "334564506",
+        "balance_amount": 6542.356455945537,
+        "date_created": "2024-05-03",
+        "account_category": "Current",
+        "client_id": 87
+    },
+    {
+        "account_id": 259,
+        "account_no": "132036103",
+        "routing_no": "219889058",
+        "balance_amount": 34693.214583820605,
+        "date_created": "2025-09-11",
+        "account_category": "Savings",
+        "client_id": 16
+    },
+    {
+        "account_id": 260,
+        "account_no": "3861877461",
+        "routing_no": "535463064",
+        "balance_amount": 40685.25491511187,
+        "date_created": "2022-06-27",
+        "account_category": "Current",
+        "client_id": 486
+    },
+    {
+        "account_id": 261,
+        "account_no": "7239199710",
+        "routing_no": "267086237",
+        "balance_amount": 6842.395917813266,
+        "date_created": "2024-12-01",
+        "account_category": "Savings",
+        "client_id": 422
+    },
+    {
+        "account_id": 262,
+        "account_no": "9381531034",
+        "routing_no": "636411205",
+        "balance_amount": 19848.88643998886,
+        "date_created": "2021-03-16",
+        "account_category": "Fixed",
+        "client_id": 449
+    },
+    {
+        "account_id": 263,
+        "account_no": "9585298960",
+        "routing_no": "713419099",
+        "balance_amount": 11041.89999276566,
+        "date_created": "2021-03-12",
+        "account_category": "Savings",
+        "client_id": 462
+    },
+    {
+        "account_id": 264,
+        "account_no": "7493807769",
+        "routing_no": "866176741",
+        "balance_amount": 33459.469855543895,
+        "date_created": "2020-07-07",
+        "account_category": "Savings",
+        "client_id": 40
+    },
+    {
+        "account_id": 265,
+        "account_no": "2394304654",
+        "routing_no": "141994990",
+        "balance_amount": 41678.642498378664,
+        "date_created": "2021-04-17",
+        "account_category": "Fixed",
+        "client_id": 466
+    },
+    {
+        "account_id": 266,
+        "account_no": "2404614376",
+        "routing_no": "651395662",
+        "balance_amount": 25140.600412135867,
+        "date_created": "2022-03-09",
+        "account_category": "Current",
+        "client_id": 178
+    },
+    {
+        "account_id": 267,
+        "account_no": "8664677109",
+        "routing_no": "552805274",
+        "balance_amount": 33248.39692063159,
+        "date_created": "2023-06-16",
+        "account_category": "Fixed",
+        "client_id": 455
+    },
+    {
+        "account_id": 268,
+        "account_no": "1467631381",
+        "routing_no": "736181799",
+        "balance_amount": 43039.241116233214,
+        "date_created": "2023-04-06",
+        "account_category": "Savings",
+        "client_id": 85
+    },
+    {
+        "account_id": 269,
+        "account_no": "493568711",
+        "routing_no": "487632398",
+        "balance_amount": 36750.56037073394,
+        "date_created": "2025-08-25",
+        "account_category": "Savings",
+        "client_id": 278
+    },
+    {
+        "account_id": 270,
+        "account_no": "2984559578",
+        "routing_no": "730350786",
+        "balance_amount": 1460.9496924769321,
+        "date_created": "2025-07-21",
+        "account_category": "Current",
+        "client_id": 147
+    },
+    {
+        "account_id": 271,
+        "account_no": "8119201774",
+        "routing_no": "591063523",
+        "balance_amount": 32836.33944394189,
+        "date_created": "2024-09-11",
+        "account_category": "Current",
+        "client_id": 260
+    },
+    {
+        "account_id": 272,
+        "account_no": "4408001312",
+        "routing_no": "745673781",
+        "balance_amount": 40024.9625236956,
+        "date_created": "2021-11-25",
+        "account_category": "Current",
+        "client_id": 113
+    },
+    {
+        "account_id": 273,
+        "account_no": "1001023252",
+        "routing_no": "544955888",
+        "balance_amount": 1795.2537165912595,
+        "date_created": "2022-10-22",
+        "account_category": "Current",
+        "client_id": 242
+    },
+    {
+        "account_id": 274,
+        "account_no": "6541347033",
+        "routing_no": "846277105",
+        "balance_amount": 34302.61364461582,
+        "date_created": "2020-10-09",
+        "account_category": "Current",
+        "client_id": 186
+    },
+    {
+        "account_id": 275,
+        "account_no": "6838630134",
+        "routing_no": "208458765",
+        "balance_amount": 27237.796276582296,
+        "date_created": "2020-05-25",
+        "account_category": "Current",
+        "client_id": 148
+    },
+    {
+        "account_id": 276,
+        "account_no": "6812304999",
+        "routing_no": "882999649",
+        "balance_amount": 21290.54855955155,
+        "date_created": "2025-03-29",
+        "account_category": "Current",
+        "client_id": 307
+    },
+    {
+        "account_id": 277,
+        "account_no": "7086606563",
+        "routing_no": "753657505",
+        "balance_amount": 27241.443742649917,
+        "date_created": "2020-06-04",
+        "account_category": "Current",
+        "client_id": 407
+    },
+    {
+        "account_id": 278,
+        "account_no": "4565063183",
+        "routing_no": "438362508",
+        "balance_amount": 13500.376603857456,
+        "date_created": "2025-03-05",
+        "account_category": "Current",
+        "client_id": 148
+    },
+    {
+        "account_id": 279,
+        "account_no": "9823608103",
+        "routing_no": "55407556",
+        "balance_amount": 23852.31545952719,
+        "date_created": "2021-03-24",
+        "account_category": "Savings",
+        "client_id": 110
+    },
+    {
+        "account_id": 280,
+        "account_no": "5879080016",
+        "routing_no": "783261631",
+        "balance_amount": 41575.81032559171,
+        "date_created": "2023-07-18",
+        "account_category": "Current",
+        "client_id": 113
+    },
+    {
+        "account_id": 281,
+        "account_no": "3761053109",
+        "routing_no": "469490114",
+        "balance_amount": 46843.41778626227,
+        "date_created": "2025-09-19",
+        "account_category": "Savings",
+        "client_id": 233
+    },
+    {
+        "account_id": 282,
+        "account_no": "8637841539",
+        "routing_no": "810856920",
+        "balance_amount": 14081.813007396755,
+        "date_created": "2022-07-19",
+        "account_category": "Current",
+        "client_id": 482
+    },
+    {
+        "account_id": 283,
+        "account_no": "2722818793",
+        "routing_no": "946418113",
+        "balance_amount": 38545.069268908126,
+        "date_created": "2020-11-02",
+        "account_category": "Current",
+        "client_id": 157
+    },
+    {
+        "account_id": 284,
+        "account_no": "238788251",
+        "routing_no": "368117861",
+        "balance_amount": 27914.50913610796,
+        "date_created": "2025-05-14",
+        "account_category": "Savings",
+        "client_id": 52
+    },
+    {
+        "account_id": 285,
+        "account_no": "9093578481",
+        "routing_no": "874746429",
+        "balance_amount": 10389.729232505624,
+        "date_created": "2021-12-19",
+        "account_category": "Current",
+        "client_id": 18
+    },
+    {
+        "account_id": 286,
+        "account_no": "1933998187",
+        "routing_no": "768189743",
+        "balance_amount": 39550.70421251311,
+        "date_created": "2022-03-10",
+        "account_category": "Fixed",
+        "client_id": 99
+    },
+    {
+        "account_id": 287,
+        "account_no": "7153150264",
+        "routing_no": "245887307",
+        "balance_amount": 49361.02290840858,
+        "date_created": "2022-06-22",
+        "account_category": "Fixed",
+        "client_id": 218
+    },
+    {
+        "account_id": 288,
+        "account_no": "9222709723",
+        "routing_no": "495191406",
+        "balance_amount": 17733.60822818979,
+        "date_created": "2020-05-09",
+        "account_category": "Savings",
+        "client_id": 254
+    },
+    {
+        "account_id": 289,
+        "account_no": "4588877873",
+        "routing_no": "838172137",
+        "balance_amount": 29083.8793941055,
+        "date_created": "2022-04-10",
+        "account_category": "Current",
+        "client_id": 489
+    },
+    {
+        "account_id": 290,
+        "account_no": "3661268338",
+        "routing_no": "363285846",
+        "balance_amount": 44890.15766735111,
+        "date_created": "2022-04-27",
+        "account_category": "Fixed",
+        "client_id": 313
+    },
+    {
+        "account_id": 291,
+        "account_no": "7020560532",
+        "routing_no": "359463402",
+        "balance_amount": 24995.371229943325,
+        "date_created": "2020-08-19",
+        "account_category": "Savings",
+        "client_id": 334
+    },
+    {
+        "account_id": 292,
+        "account_no": "265927233",
+        "routing_no": "829945543",
+        "balance_amount": 44304.106411517074,
+        "date_created": "2023-11-18",
+        "account_category": "Savings",
+        "client_id": 345
+    },
+    {
+        "account_id": 293,
+        "account_no": "5593096130",
+        "routing_no": "229408748",
+        "balance_amount": 48973.00177813647,
+        "date_created": "2022-06-25",
+        "account_category": "Current",
+        "client_id": 416
+    },
+    {
+        "account_id": 294,
+        "account_no": "6688704444",
+        "routing_no": "685881731",
+        "balance_amount": 33000.59904633041,
+        "date_created": "2025-08-18",
+        "account_category": "Fixed",
+        "client_id": 346
+    },
+    {
+        "account_id": 295,
+        "account_no": "1866564866",
+        "routing_no": "688543961",
+        "balance_amount": 41123.89786835842,
+        "date_created": "2023-09-24",
+        "account_category": "Savings",
+        "client_id": 267
+    },
+    {
+        "account_id": 296,
+        "account_no": "8795417753",
+        "routing_no": "450208858",
+        "balance_amount": 33353.985285809744,
+        "date_created": "2023-12-23",
+        "account_category": "Current",
+        "client_id": 397
+    },
+    {
+        "account_id": 297,
+        "account_no": "3138794852",
+        "routing_no": "917386789",
+        "balance_amount": 22521.951433617807,
+        "date_created": "2022-07-03",
+        "account_category": "Current",
+        "client_id": 429
+    },
+    {
+        "account_id": 298,
+        "account_no": "9925986799",
+        "routing_no": "502640132",
+        "balance_amount": 40779.623906141154,
+        "date_created": "2020-10-19",
+        "account_category": "Savings",
+        "client_id": 341
+    },
+    {
+        "account_id": 299,
+        "account_no": "5388131205",
+        "routing_no": "744350293",
+        "balance_amount": 9300.69480035348,
+        "date_created": "2020-07-05",
+        "account_category": "Current",
+        "client_id": 433
+    },
+    {
+        "account_id": 300,
+        "account_no": "9754177316",
+        "routing_no": "481990894",
+        "balance_amount": 47807.970822648764,
+        "date_created": "2021-08-24",
+        "account_category": "Current",
+        "client_id": 157
+    },
+    {
+        "account_id": 301,
+        "account_no": "2857655127",
+        "routing_no": "919787358",
+        "balance_amount": 4346.896246603745,
+        "date_created": "2022-03-09",
+        "account_category": "Fixed",
+        "client_id": 245
+    },
+    {
+        "account_id": 302,
+        "account_no": "6525439738",
+        "routing_no": "953488493",
+        "balance_amount": 39938.365510450174,
+        "date_created": "2024-11-27",
+        "account_category": "Current",
+        "client_id": 253
+    },
+    {
+        "account_id": 303,
+        "account_no": "6489193161",
+        "routing_no": "801953210",
+        "balance_amount": 7608.371655255859,
+        "date_created": "2021-01-29",
+        "account_category": "Current",
+        "client_id": 315
+    },
+    {
+        "account_id": 304,
+        "account_no": "9796215460",
+        "routing_no": "875826602",
+        "balance_amount": 4305.291575223148,
+        "date_created": "2025-08-30",
+        "account_category": "Fixed",
+        "client_id": 440
+    },
+    {
+        "account_id": 305,
+        "account_no": "4565887648",
+        "routing_no": "277502194",
+        "balance_amount": 11519.432903310864,
+        "date_created": "2024-09-02",
+        "account_category": "Current",
+        "client_id": 127
+    },
+    {
+        "account_id": 306,
+        "account_no": "7527651233",
+        "routing_no": "261859688",
+        "balance_amount": 38777.50107479027,
+        "date_created": "2025-08-02",
+        "account_category": "Current",
+        "client_id": 266
+    },
+    {
+        "account_id": 307,
+        "account_no": "8605795457",
+        "routing_no": "20701914",
+        "balance_amount": 35779.170050902496,
+        "date_created": "2020-08-24",
+        "account_category": "Savings",
+        "client_id": 348
+    },
+    {
+        "account_id": 308,
+        "account_no": "2969889578",
+        "routing_no": "924604206",
+        "balance_amount": 7777.621047686784,
+        "date_created": "2020-04-16",
+        "account_category": "Fixed",
+        "client_id": 222
+    },
+    {
+        "account_id": 309,
+        "account_no": "2268269761",
+        "routing_no": "54295344",
+        "balance_amount": 46622.33885511759,
+        "date_created": "2023-03-20",
+        "account_category": "Current",
+        "client_id": 169
+    },
+    {
+        "account_id": 310,
+        "account_no": "4253705596",
+        "routing_no": "233058213",
+        "balance_amount": 25667.44321106093,
+        "date_created": "2021-01-05",
+        "account_category": "Current",
+        "client_id": 49
+    },
+    {
+        "account_id": 311,
+        "account_no": "3732786324",
+        "routing_no": "818617683",
+        "balance_amount": 41084.06331878172,
+        "date_created": "2020-10-15",
+        "account_category": "Current",
+        "client_id": 491
+    },
+    {
+        "account_id": 312,
+        "account_no": "4376949686",
+        "routing_no": "993619135",
+        "balance_amount": 22777.511516583818,
+        "date_created": "2023-11-20",
+        "account_category": "Savings",
+        "client_id": 431
+    },
+    {
+        "account_id": 313,
+        "account_no": "4316900098",
+        "routing_no": "545145681",
+        "balance_amount": 46717.35427799429,
+        "date_created": "2025-05-24",
+        "account_category": "Current",
+        "client_id": 279
+    },
+    {
+        "account_id": 314,
+        "account_no": "3274972738",
+        "routing_no": "876355641",
+        "balance_amount": 15127.951905032614,
+        "date_created": "2020-03-24",
+        "account_category": "Savings",
+        "client_id": 287
+    },
+    {
+        "account_id": 315,
+        "account_no": "6874647281",
+        "routing_no": "972004403",
+        "balance_amount": 20031.60431952628,
+        "date_created": "2021-01-13",
+        "account_category": "Fixed",
+        "client_id": 175
+    },
+    {
+        "account_id": 316,
+        "account_no": "7508790944",
+        "routing_no": "209896072",
+        "balance_amount": 26323.800162863936,
+        "date_created": "2023-09-25",
+        "account_category": "Current",
+        "client_id": 144
+    },
+    {
+        "account_id": 317,
+        "account_no": "9811229912",
+        "routing_no": "337930631",
+        "balance_amount": 11538.502530585767,
+        "date_created": "2025-09-07",
+        "account_category": "Fixed",
+        "client_id": 351
+    },
+    {
+        "account_id": 318,
+        "account_no": "2312643855",
+        "routing_no": "311111046",
+        "balance_amount": 40289.604948817534,
+        "date_created": "2024-06-22",
+        "account_category": "Fixed",
+        "client_id": 245
+    },
+    {
+        "account_id": 319,
+        "account_no": "4271953817",
+        "routing_no": "919426910",
+        "balance_amount": 34963.501083060706,
+        "date_created": "2020-08-17",
+        "account_category": "Fixed",
+        "client_id": 336
+    },
+    {
+        "account_id": 320,
+        "account_no": "1044378489",
+        "routing_no": "518439602",
+        "balance_amount": 21419.028090337655,
+        "date_created": "2020-11-23",
+        "account_category": "Savings",
+        "client_id": 392
+    },
+    {
+        "account_id": 321,
+        "account_no": "6685539433",
+        "routing_no": "631784899",
+        "balance_amount": 34980.0527055926,
+        "date_created": "2024-02-15",
+        "account_category": "Fixed",
+        "client_id": 115
+    },
+    {
+        "account_id": 322,
+        "account_no": "7178058509",
+        "routing_no": "540149560",
+        "balance_amount": 21904.667608618278,
+        "date_created": "2021-10-20",
+        "account_category": "Fixed",
+        "client_id": 55
+    },
+    {
+        "account_id": 323,
+        "account_no": "5785543157",
+        "routing_no": "996449273",
+        "balance_amount": 8647.9446904232,
+        "date_created": "2020-08-10",
+        "account_category": "Current",
+        "client_id": 47
+    },
+    {
+        "account_id": 324,
+        "account_no": "8232341857",
+        "routing_no": "957735173",
+        "balance_amount": 48155.31035575766,
+        "date_created": "2022-08-26",
+        "account_category": "Savings",
+        "client_id": 440
+    },
+    {
+        "account_id": 325,
+        "account_no": "350096393",
+        "routing_no": "708300854",
+        "balance_amount": 6352.260699588467,
+        "date_created": "2021-05-14",
+        "account_category": "Savings",
+        "client_id": 93
+    },
+    {
+        "account_id": 326,
+        "account_no": "5579664703",
+        "routing_no": "779378445",
+        "balance_amount": 2056.3758395781324,
+        "date_created": "2021-06-10",
+        "account_category": "Savings",
+        "client_id": 394
+    },
+    {
+        "account_id": 327,
+        "account_no": "4697313642",
+        "routing_no": "728567074",
+        "balance_amount": 27807.165659705883,
+        "date_created": "2021-09-19",
+        "account_category": "Fixed",
+        "client_id": 202
+    },
+    {
+        "account_id": 328,
+        "account_no": "279322725",
+        "routing_no": "825772016",
+        "balance_amount": 22262.845956957248,
+        "date_created": "2020-08-14",
+        "account_category": "Current",
+        "client_id": 101
+    },
+    {
+        "account_id": 329,
+        "account_no": "732569027",
+        "routing_no": "260173638",
+        "balance_amount": 19520.129015993196,
+        "date_created": "2022-03-09",
+        "account_category": "Savings",
+        "client_id": 430
+    },
+    {
+        "account_id": 330,
+        "account_no": "3881777951",
+        "routing_no": "64907557",
+        "balance_amount": 20432.67194621548,
+        "date_created": "2020-10-04",
+        "account_category": "Savings",
+        "client_id": 306
+    },
+    {
+        "account_id": 331,
+        "account_no": "3952150825",
+        "routing_no": "19806037",
+        "balance_amount": 42310.34736474327,
+        "date_created": "2022-04-13",
+        "account_category": "Fixed",
+        "client_id": 370
+    },
+    {
+        "account_id": 332,
+        "account_no": "23377443",
+        "routing_no": "717163773",
+        "balance_amount": 21372.15502817477,
+        "date_created": "2021-07-13",
+        "account_category": "Savings",
+        "client_id": 262
+    },
+    {
+        "account_id": 333,
+        "account_no": "9132106689",
+        "routing_no": "378693656",
+        "balance_amount": 24310.904609566198,
+        "date_created": "2022-04-26",
+        "account_category": "Current",
+        "client_id": 479
+    },
+    {
+        "account_id": 334,
+        "account_no": "9354483922",
+        "routing_no": "324613450",
+        "balance_amount": 1040.8535018201894,
+        "date_created": "2021-07-08",
+        "account_category": "Savings",
+        "client_id": 280
+    },
+    {
+        "account_id": 335,
+        "account_no": "4421856384",
+        "routing_no": "421501295",
+        "balance_amount": 19823.36622379446,
+        "date_created": "2023-03-11",
+        "account_category": "Savings",
+        "client_id": 482
+    },
+    {
+        "account_id": 336,
+        "account_no": "9707920019",
+        "routing_no": "113042087",
+        "balance_amount": 1679.4203303035088,
+        "date_created": "2024-11-03",
+        "account_category": "Current",
+        "client_id": 286
+    },
+    {
+        "account_id": 337,
+        "account_no": "2891411104",
+        "routing_no": "866236064",
+        "balance_amount": 13229.811665510242,
+        "date_created": "2023-07-17",
+        "account_category": "Fixed",
+        "client_id": 456
+    },
+    {
+        "account_id": 338,
+        "account_no": "5030054509",
+        "routing_no": "366024718",
+        "balance_amount": 35219.995965805814,
+        "date_created": "2022-02-08",
+        "account_category": "Fixed",
+        "client_id": 322
+    },
+    {
+        "account_id": 339,
+        "account_no": "5830437144",
+        "routing_no": "242269101",
+        "balance_amount": 19043.118896583273,
+        "date_created": "2021-09-23",
+        "account_category": "Current",
+        "client_id": 172
+    },
+    {
+        "account_id": 340,
+        "account_no": "4852046651",
+        "routing_no": "638949399",
+        "balance_amount": 13278.46409896252,
+        "date_created": "2024-01-30",
+        "account_category": "Fixed",
+        "client_id": 174
+    },
+    {
+        "account_id": 341,
+        "account_no": "303106662",
+        "routing_no": "144409620",
+        "balance_amount": 10824.71510176273,
+        "date_created": "2024-03-18",
+        "account_category": "Current",
+        "client_id": 261
+    },
+    {
+        "account_id": 342,
+        "account_no": "5195844625",
+        "routing_no": "49767537",
+        "balance_amount": 15808.51002000711,
+        "date_created": "2020-11-26",
+        "account_category": "Fixed",
+        "client_id": 228
+    },
+    {
+        "account_id": 343,
+        "account_no": "7641737474",
+        "routing_no": "652655789",
+        "balance_amount": 4272.824847358575,
+        "date_created": "2023-10-04",
+        "account_category": "Savings",
+        "client_id": 285
+    },
+    {
+        "account_id": 344,
+        "account_no": "9331084147",
+        "routing_no": "948658230",
+        "balance_amount": 2016.6531889046878,
+        "date_created": "2023-07-01",
+        "account_category": "Current",
+        "client_id": 163
+    },
+    {
+        "account_id": 345,
+        "account_no": "7905591500",
+        "routing_no": "94942252",
+        "balance_amount": 9221.03971838511,
+        "date_created": "2022-05-07",
+        "account_category": "Current",
+        "client_id": 298
+    },
+    {
+        "account_id": 346,
+        "account_no": "371415950",
+        "routing_no": "346548215",
+        "balance_amount": 22377.932937922775,
+        "date_created": "2022-01-02",
+        "account_category": "Savings",
+        "client_id": 326
+    },
+    {
+        "account_id": 347,
+        "account_no": "7444224736",
+        "routing_no": "248446185",
+        "balance_amount": 14345.701733799368,
+        "date_created": "2023-05-13",
+        "account_category": "Current",
+        "client_id": 164
+    },
+    {
+        "account_id": 348,
+        "account_no": "6845730519",
+        "routing_no": "619642242",
+        "balance_amount": 40347.74923934804,
+        "date_created": "2021-01-10",
+        "account_category": "Savings",
+        "client_id": 254
+    },
+    {
+        "account_id": 349,
+        "account_no": "8838802457",
+        "routing_no": "524833583",
+        "balance_amount": 4970.613054480332,
+        "date_created": "2024-06-14",
+        "account_category": "Fixed",
+        "client_id": 288
+    },
+    {
+        "account_id": 350,
+        "account_no": "1667617131",
+        "routing_no": "33566043",
+        "balance_amount": 34626.90111628149,
+        "date_created": "2020-05-22",
+        "account_category": "Fixed",
+        "client_id": 310
+    },
+    {
+        "account_id": 351,
+        "account_no": "1091038597",
+        "routing_no": "481395685",
+        "balance_amount": 12322.589087432303,
+        "date_created": "2021-08-19",
+        "account_category": "Fixed",
+        "client_id": 48
+    },
+    {
+        "account_id": 352,
+        "account_no": "9101972056",
+        "routing_no": "960606424",
+        "balance_amount": 2994.565575867036,
+        "date_created": "2022-05-20",
+        "account_category": "Current",
+        "client_id": 70
+    },
+    {
+        "account_id": 353,
+        "account_no": "7064215175",
+        "routing_no": "60947750",
+        "balance_amount": 37858.68480829007,
+        "date_created": "2025-09-02",
+        "account_category": "Fixed",
+        "client_id": 466
+    },
+    {
+        "account_id": 354,
+        "account_no": "9256090486",
+        "routing_no": "825343763",
+        "balance_amount": 32996.969933806904,
+        "date_created": "2022-03-28",
+        "account_category": "Fixed",
+        "client_id": 423
+    },
+    {
+        "account_id": 355,
+        "account_no": "6076163840",
+        "routing_no": "339525582",
+        "balance_amount": 5854.9805196147545,
+        "date_created": "2021-11-05",
+        "account_category": "Fixed",
+        "client_id": 454
+    },
+    {
+        "account_id": 356,
+        "account_no": "6504301363",
+        "routing_no": "280954080",
+        "balance_amount": 14206.22361064183,
+        "date_created": "2021-04-16",
+        "account_category": "Savings",
+        "client_id": 199
+    },
+    {
+        "account_id": 357,
+        "account_no": "7782524999",
+        "routing_no": "784704691",
+        "balance_amount": 24921.244048203433,
+        "date_created": "2022-10-16",
+        "account_category": "Savings",
+        "client_id": 290
+    },
+    {
+        "account_id": 358,
+        "account_no": "7462031402",
+        "routing_no": "265163867",
+        "balance_amount": 6014.453038481396,
+        "date_created": "2020-05-25",
+        "account_category": "Savings",
+        "client_id": 303
+    },
+    {
+        "account_id": 359,
+        "account_no": "4868741573",
+        "routing_no": "6723523",
+        "balance_amount": 30585.06941912295,
+        "date_created": "2025-09-24",
+        "account_category": "Fixed",
+        "client_id": 470
+    },
+    {
+        "account_id": 360,
+        "account_no": "61857744",
+        "routing_no": "835481230",
+        "balance_amount": 31118.544631425557,
+        "date_created": "2022-08-19",
+        "account_category": "Current",
+        "client_id": 474
+    },
+    {
+        "account_id": 361,
+        "account_no": "6193503614",
+        "routing_no": "424595345",
+        "balance_amount": 9577.560088943186,
+        "date_created": "2022-03-03",
+        "account_category": "Fixed",
+        "client_id": 256
+    },
+    {
+        "account_id": 362,
+        "account_no": "3655799544",
+        "routing_no": "739058920",
+        "balance_amount": 8321.729992503308,
+        "date_created": "2025-01-13",
+        "account_category": "Current",
+        "client_id": 357
+    },
+    {
+        "account_id": 363,
+        "account_no": "3055627025",
+        "routing_no": "97471787",
+        "balance_amount": 11291.462161490848,
+        "date_created": "2022-05-19",
+        "account_category": "Current",
+        "client_id": 133
+    },
+    {
+        "account_id": 364,
+        "account_no": "2463791205",
+        "routing_no": "980623385",
+        "balance_amount": 41256.60101226819,
+        "date_created": "2021-04-07",
+        "account_category": "Savings",
+        "client_id": 468
+    },
+    {
+        "account_id": 365,
+        "account_no": "4239175954",
+        "routing_no": "428326387",
+        "balance_amount": 44424.3545738546,
+        "date_created": "2024-06-09",
+        "account_category": "Fixed",
+        "client_id": 314
+    },
+    {
+        "account_id": 366,
+        "account_no": "2417767104",
+        "routing_no": "785615747",
+        "balance_amount": 49330.95387312201,
+        "date_created": "2024-05-05",
+        "account_category": "Current",
+        "client_id": 412
+    },
+    {
+        "account_id": 367,
+        "account_no": "4324929727",
+        "routing_no": "709227194",
+        "balance_amount": 3663.0102375309284,
+        "date_created": "2024-05-07",
+        "account_category": "Savings",
+        "client_id": 388
+    },
+    {
+        "account_id": 368,
+        "account_no": "121380422",
+        "routing_no": "281362309",
+        "balance_amount": 49289.71606567756,
+        "date_created": "2024-05-09",
+        "account_category": "Fixed",
+        "client_id": 263
+    },
+    {
+        "account_id": 369,
+        "account_no": "805113358",
+        "routing_no": "979673486",
+        "balance_amount": 9669.735960122183,
+        "date_created": "2020-01-12",
+        "account_category": "Current",
+        "client_id": 362
+    },
+    {
+        "account_id": 370,
+        "account_no": "7009707441",
+        "routing_no": "978622518",
+        "balance_amount": 42515.189263913184,
+        "date_created": "2022-02-02",
+        "account_category": "Savings",
+        "client_id": 90
+    },
+    {
+        "account_id": 371,
+        "account_no": "7076766140",
+        "routing_no": "591775865",
+        "balance_amount": 31440.770021631157,
+        "date_created": "2021-01-13",
+        "account_category": "Current",
+        "client_id": 238
+    },
+    {
+        "account_id": 372,
+        "account_no": "5802467830",
+        "routing_no": "303518847",
+        "balance_amount": 18719.48683349911,
+        "date_created": "2023-11-23",
+        "account_category": "Current",
+        "client_id": 263
+    },
+    {
+        "account_id": 373,
+        "account_no": "1393062988",
+        "routing_no": "979218111",
+        "balance_amount": 35401.3984072776,
+        "date_created": "2024-10-28",
+        "account_category": "Current",
+        "client_id": 425
+    },
+    {
+        "account_id": 374,
+        "account_no": "9388068207",
+        "routing_no": "566906814",
+        "balance_amount": 14657.989660197318,
+        "date_created": "2023-07-22",
+        "account_category": "Savings",
+        "client_id": 356
+    },
+    {
+        "account_id": 375,
+        "account_no": "2776435302",
+        "routing_no": "777532667",
+        "balance_amount": 36696.69234832818,
+        "date_created": "2025-01-13",
+        "account_category": "Current",
+        "client_id": 28
+    },
+    {
+        "account_id": 376,
+        "account_no": "3453117716",
+        "routing_no": "513635904",
+        "balance_amount": 23330.159335305434,
+        "date_created": "2020-02-18",
+        "account_category": "Savings",
+        "client_id": 403
+    },
+    {
+        "account_id": 377,
+        "account_no": "5597717008",
+        "routing_no": "847009640",
+        "balance_amount": 35042.70595120958,
+        "date_created": "2024-09-18",
+        "account_category": "Fixed",
+        "client_id": 426
+    },
+    {
+        "account_id": 378,
+        "account_no": "6851809434",
+        "routing_no": "45423016",
+        "balance_amount": 39570.386077308714,
+        "date_created": "2020-07-17",
+        "account_category": "Savings",
+        "client_id": 88
+    },
+    {
+        "account_id": 379,
+        "account_no": "9114804221",
+        "routing_no": "8114199",
+        "balance_amount": 47931.68540859517,
+        "date_created": "2020-10-11",
+        "account_category": "Current",
+        "client_id": 370
+    },
+    {
+        "account_id": 380,
+        "account_no": "3992197270",
+        "routing_no": "91364962",
+        "balance_amount": 47845.202326432394,
+        "date_created": "2025-08-11",
+        "account_category": "Fixed",
+        "client_id": 308
+    },
+    {
+        "account_id": 381,
+        "account_no": "6584085784",
+        "routing_no": "869539882",
+        "balance_amount": 45304.9561707311,
+        "date_created": "2020-11-28",
+        "account_category": "Current",
+        "client_id": 88
+    },
+    {
+        "account_id": 382,
+        "account_no": "9597562995",
+        "routing_no": "162063879",
+        "balance_amount": 14026.289007966703,
+        "date_created": "2025-01-27",
+        "account_category": "Savings",
+        "client_id": 414
+    },
+    {
+        "account_id": 383,
+        "account_no": "9310716847",
+        "routing_no": "665865021",
+        "balance_amount": 46810.159075825664,
+        "date_created": "2022-10-07",
+        "account_category": "Savings",
+        "client_id": 485
+    },
+    {
+        "account_id": 384,
+        "account_no": "8178037945",
+        "routing_no": "608891019",
+        "balance_amount": 4230.449156936504,
+        "date_created": "2024-12-17",
+        "account_category": "Current",
+        "client_id": 300
+    },
+    {
+        "account_id": 385,
+        "account_no": "7030336793",
+        "routing_no": "764605322",
+        "balance_amount": 12379.494036899643,
+        "date_created": "2020-10-02",
+        "account_category": "Current",
+        "client_id": 367
+    },
+    {
+        "account_id": 386,
+        "account_no": "5098609257",
+        "routing_no": "504230668",
+        "balance_amount": 15454.481329768882,
+        "date_created": "2024-01-09",
+        "account_category": "Fixed",
+        "client_id": 248
+    },
+    {
+        "account_id": 387,
+        "account_no": "9843687421",
+        "routing_no": "207413903",
+        "balance_amount": 34668.788673757736,
+        "date_created": "2020-05-18",
+        "account_category": "Savings",
+        "client_id": 357
+    },
+    {
+        "account_id": 388,
+        "account_no": "3884292977",
+        "routing_no": "907891244",
+        "balance_amount": 40935.8867628486,
+        "date_created": "2024-01-06",
+        "account_category": "Current",
+        "client_id": 465
+    },
+    {
+        "account_id": 389,
+        "account_no": "2738683962",
+        "routing_no": "272003331",
+        "balance_amount": 37218.96055923687,
+        "date_created": "2020-03-11",
+        "account_category": "Current",
+        "client_id": 150
+    },
+    {
+        "account_id": 390,
+        "account_no": "9598954674",
+        "routing_no": "299934182",
+        "balance_amount": 9710.903512203877,
+        "date_created": "2021-11-27",
+        "account_category": "Fixed",
+        "client_id": 491
+    },
+    {
+        "account_id": 391,
+        "account_no": "706348477",
+        "routing_no": "555564935",
+        "balance_amount": 17596.51743439848,
+        "date_created": "2024-11-26",
+        "account_category": "Savings",
+        "client_id": 316
+    },
+    {
+        "account_id": 392,
+        "account_no": "2278092703",
+        "routing_no": "12132833",
+        "balance_amount": 4681.2767627946805,
+        "date_created": "2022-12-09",
+        "account_category": "Current",
+        "client_id": 192
+    },
+    {
+        "account_id": 393,
+        "account_no": "1216875079",
+        "routing_no": "766979097",
+        "balance_amount": 33518.41835943698,
+        "date_created": "2025-01-06",
+        "account_category": "Current",
+        "client_id": 118
+    },
+    {
+        "account_id": 394,
+        "account_no": "3528386280",
+        "routing_no": "719073422",
+        "balance_amount": 41991.451344161935,
+        "date_created": "2025-02-08",
+        "account_category": "Savings",
+        "client_id": 101
+    },
+    {
+        "account_id": 395,
+        "account_no": "7051615333",
+        "routing_no": "21462458",
+        "balance_amount": 11721.833783292996,
+        "date_created": "2022-01-03",
+        "account_category": "Current",
+        "client_id": 132
+    },
+    {
+        "account_id": 396,
+        "account_no": "1603637758",
+        "routing_no": "24063415",
+        "balance_amount": 46389.93402198788,
+        "date_created": "2020-02-25",
+        "account_category": "Current",
+        "client_id": 450
+    },
+    {
+        "account_id": 397,
+        "account_no": "332777605",
+        "routing_no": "922309738",
+        "balance_amount": 46014.086342286224,
+        "date_created": "2023-11-28",
+        "account_category": "Savings",
+        "client_id": 136
+    },
+    {
+        "account_id": 398,
+        "account_no": "6350176530",
+        "routing_no": "220886169",
+        "balance_amount": 40394.17460835222,
+        "date_created": "2024-04-28",
+        "account_category": "Fixed",
+        "client_id": 216
+    },
+    {
+        "account_id": 399,
+        "account_no": "1481173850",
+        "routing_no": "539333369",
+        "balance_amount": 18726.798940507724,
+        "date_created": "2020-02-01",
+        "account_category": "Fixed",
+        "client_id": 461
+    },
+    {
+        "account_id": 400,
+        "account_no": "9418204220",
+        "routing_no": "857365279",
+        "balance_amount": 29928.162975936197,
+        "date_created": "2025-09-23",
+        "account_category": "Current",
+        "client_id": 466
+    },
+    {
+        "account_id": 401,
+        "account_no": "8765963707",
+        "routing_no": "346473547",
+        "balance_amount": 35077.324476712165,
+        "date_created": "2023-06-06",
+        "account_category": "Savings",
+        "client_id": 321
+    },
+    {
+        "account_id": 402,
+        "account_no": "8103195167",
+        "routing_no": "727002962",
+        "balance_amount": 35565.09501832794,
+        "date_created": "2024-07-23",
+        "account_category": "Savings",
+        "client_id": 362
+    },
+    {
+        "account_id": 403,
+        "account_no": "4240453045",
+        "routing_no": "610883174",
+        "balance_amount": 37134.5069221072,
+        "date_created": "2021-08-25",
+        "account_category": "Savings",
+        "client_id": 250
+    },
+    {
+        "account_id": 404,
+        "account_no": "2702519729",
+        "routing_no": "82266849",
+        "balance_amount": 21561.461177184192,
+        "date_created": "2021-02-24",
+        "account_category": "Fixed",
+        "client_id": 418
+    },
+    {
+        "account_id": 405,
+        "account_no": "2260120821",
+        "routing_no": "929841670",
+        "balance_amount": 42737.51548748917,
+        "date_created": "2023-09-20",
+        "account_category": "Fixed",
+        "client_id": 184
+    },
+    {
+        "account_id": 406,
+        "account_no": "3240025596",
+        "routing_no": "249758766",
+        "balance_amount": 24708.15750504375,
+        "date_created": "2022-05-29",
+        "account_category": "Current",
+        "client_id": 349
+    },
+    {
+        "account_id": 407,
+        "account_no": "3001709572",
+        "routing_no": "322120757",
+        "balance_amount": 37975.34378344972,
+        "date_created": "2022-11-08",
+        "account_category": "Current",
+        "client_id": 46
+    },
+    {
+        "account_id": 408,
+        "account_no": "2775712216",
+        "routing_no": "292297634",
+        "balance_amount": 42296.97948094979,
+        "date_created": "2023-04-28",
+        "account_category": "Current",
+        "client_id": 58
+    },
+    {
+        "account_id": 409,
+        "account_no": "1260106406",
+        "routing_no": "208076882",
+        "balance_amount": 33748.53943752853,
+        "date_created": "2020-08-12",
+        "account_category": "Fixed",
+        "client_id": 481
+    },
+    {
+        "account_id": 410,
+        "account_no": "963281633",
+        "routing_no": "303722801",
+        "balance_amount": 20874.678530441,
+        "date_created": "2021-08-06",
+        "account_category": "Savings",
+        "client_id": 373
+    },
+    {
+        "account_id": 411,
+        "account_no": "2799994168",
+        "routing_no": "589439119",
+        "balance_amount": 14492.786138417901,
+        "date_created": "2022-10-04",
+        "account_category": "Current",
+        "client_id": 432
+    },
+    {
+        "account_id": 412,
+        "account_no": "6340502346",
+        "routing_no": "217691341",
+        "balance_amount": 38839.39262702262,
+        "date_created": "2022-03-08",
+        "account_category": "Current",
+        "client_id": 123
+    },
+    {
+        "account_id": 413,
+        "account_no": "672811489",
+        "routing_no": "128086992",
+        "balance_amount": 11410.962571163322,
+        "date_created": "2022-03-12",
+        "account_category": "Current",
+        "client_id": 399
+    },
+    {
+        "account_id": 414,
+        "account_no": "5784459507",
+        "routing_no": "264098984",
+        "balance_amount": 41453.26992321829,
+        "date_created": "2025-04-14",
+        "account_category": "Savings",
+        "client_id": 301
+    },
+    {
+        "account_id": 415,
+        "account_no": "400368209",
+        "routing_no": "379875978",
+        "balance_amount": 42856.897424191804,
+        "date_created": "2022-03-24",
+        "account_category": "Savings",
+        "client_id": 16
+    },
+    {
+        "account_id": 416,
+        "account_no": "3853477208",
+        "routing_no": "422140216",
+        "balance_amount": 44645.69588754156,
+        "date_created": "2024-08-21",
+        "account_category": "Current",
+        "client_id": 45
+    },
+    {
+        "account_id": 417,
+        "account_no": "8635453245",
+        "routing_no": "207562668",
+        "balance_amount": 24753.961885701723,
+        "date_created": "2024-07-08",
+        "account_category": "Fixed",
+        "client_id": 32
+    },
+    {
+        "account_id": 418,
+        "account_no": "5667172600",
+        "routing_no": "801177931",
+        "balance_amount": 43934.67298645364,
+        "date_created": "2023-08-30",
+        "account_category": "Fixed",
+        "client_id": 285
+    },
+    {
+        "account_id": 419,
+        "account_no": "9826574805",
+        "routing_no": "118999037",
+        "balance_amount": 26145.121724317472,
+        "date_created": "2020-08-30",
+        "account_category": "Savings",
+        "client_id": 203
+    },
+    {
+        "account_id": 420,
+        "account_no": "4854821921",
+        "routing_no": "815289438",
+        "balance_amount": 13757.65591624772,
+        "date_created": "2023-07-06",
+        "account_category": "Savings",
+        "client_id": 338
+    },
+    {
+        "account_id": 421,
+        "account_no": "6197492571",
+        "routing_no": "439864043",
+        "balance_amount": 23134.43385215193,
+        "date_created": "2020-12-23",
+        "account_category": "Savings",
+        "client_id": 376
+    },
+    {
+        "account_id": 422,
+        "account_no": "2397694202",
+        "routing_no": "48616291",
+        "balance_amount": 32986.832785389444,
+        "date_created": "2021-12-28",
+        "account_category": "Fixed",
+        "client_id": 48
+    },
+    {
+        "account_id": 423,
+        "account_no": "6949265516",
+        "routing_no": "160660476",
+        "balance_amount": 40330.19072013525,
+        "date_created": "2022-11-30",
+        "account_category": "Current",
+        "client_id": 271
+    },
+    {
+        "account_id": 424,
+        "account_no": "7326933531",
+        "routing_no": "54323613",
+        "balance_amount": 22857.120315448366,
+        "date_created": "2025-08-08",
+        "account_category": "Current",
+        "client_id": 271
+    },
+    {
+        "account_id": 425,
+        "account_no": "3049827699",
+        "routing_no": "245853663",
+        "balance_amount": 23735.73687030253,
+        "date_created": "2025-01-04",
+        "account_category": "Current",
+        "client_id": 310
+    },
+    {
+        "account_id": 426,
+        "account_no": "3773472545",
+        "routing_no": "79886199",
+        "balance_amount": 17933.008526686895,
+        "date_created": "2023-06-08",
+        "account_category": "Fixed",
+        "client_id": 43
+    },
+    {
+        "account_id": 427,
+        "account_no": "3093122940",
+        "routing_no": "390039491",
+        "balance_amount": 27408.856734594352,
+        "date_created": "2020-01-13",
+        "account_category": "Fixed",
+        "client_id": 228
+    },
+    {
+        "account_id": 428,
+        "account_no": "5629994467",
+        "routing_no": "928052015",
+        "balance_amount": 38945.954713190295,
+        "date_created": "2023-07-20",
+        "account_category": "Fixed",
+        "client_id": 284
+    },
+    {
+        "account_id": 429,
+        "account_no": "7863645319",
+        "routing_no": "477834670",
+        "balance_amount": 6730.011130032352,
+        "date_created": "2021-11-22",
+        "account_category": "Current",
+        "client_id": 386
+    },
+    {
+        "account_id": 430,
+        "account_no": "7047380145",
+        "routing_no": "432456091",
+        "balance_amount": 12921.883903931906,
+        "date_created": "2022-06-03",
+        "account_category": "Fixed",
+        "client_id": 303
+    },
+    {
+        "account_id": 431,
+        "account_no": "3547038593",
+        "routing_no": "947753840",
+        "balance_amount": 34056.37904182497,
+        "date_created": "2024-01-11",
+        "account_category": "Savings",
+        "client_id": 457
+    },
+    {
+        "account_id": 432,
+        "account_no": "2276101754",
+        "routing_no": "515814692",
+        "balance_amount": 27148.5425005549,
+        "date_created": "2020-03-01",
+        "account_category": "Current",
+        "client_id": 416
+    },
+    {
+        "account_id": 433,
+        "account_no": "6513634336",
+        "routing_no": "398498642",
+        "balance_amount": 24858.903848290607,
+        "date_created": "2021-02-15",
+        "account_category": "Savings",
+        "client_id": 52
+    },
+    {
+        "account_id": 434,
+        "account_no": "3069900098",
+        "routing_no": "914507966",
+        "balance_amount": 15885.482643312875,
+        "date_created": "2020-12-23",
+        "account_category": "Current",
+        "client_id": 308
+    },
+    {
+        "account_id": 435,
+        "account_no": "6219179564",
+        "routing_no": "420155507",
+        "balance_amount": 24741.81342825927,
+        "date_created": "2024-10-25",
+        "account_category": "Savings",
+        "client_id": 499
+    },
+    {
+        "account_id": 436,
+        "account_no": "6344727341",
+        "routing_no": "644174622",
+        "balance_amount": 25779.914456011596,
+        "date_created": "2021-09-15",
+        "account_category": "Current",
+        "client_id": 47
+    },
+    {
+        "account_id": 437,
+        "account_no": "7174791140",
+        "routing_no": "924360847",
+        "balance_amount": 6272.167332839994,
+        "date_created": "2023-12-03",
+        "account_category": "Savings",
+        "client_id": 2
+    },
+    {
+        "account_id": 438,
+        "account_no": "1985708103",
+        "routing_no": "418247428",
+        "balance_amount": 43593.58419888182,
+        "date_created": "2023-02-17",
+        "account_category": "Savings",
+        "client_id": 166
+    },
+    {
+        "account_id": 439,
+        "account_no": "1447078036",
+        "routing_no": "319212055",
+        "balance_amount": 7530.469495607628,
+        "date_created": "2021-01-25",
+        "account_category": "Current",
+        "client_id": 31
+    },
+    {
+        "account_id": 440,
+        "account_no": "7283846346",
+        "routing_no": "982700300",
+        "balance_amount": 16246.632952283273,
+        "date_created": "2020-05-05",
+        "account_category": "Fixed",
+        "client_id": 453
+    },
+    {
+        "account_id": 441,
+        "account_no": "7393017457",
+        "routing_no": "812934174",
+        "balance_amount": 28455.512272942924,
+        "date_created": "2020-06-16",
+        "account_category": "Current",
+        "client_id": 277
+    },
+    {
+        "account_id": 442,
+        "account_no": "259436606",
+        "routing_no": "438868202",
+        "balance_amount": 5168.854581787388,
+        "date_created": "2020-05-25",
+        "account_category": "Fixed",
+        "client_id": 152
+    },
+    {
+        "account_id": 443,
+        "account_no": "4209435615",
+        "routing_no": "390307399",
+        "balance_amount": 38943.32134181527,
+        "date_created": "2024-11-16",
+        "account_category": "Savings",
+        "client_id": 6
+    },
+    {
+        "account_id": 444,
+        "account_no": "9823206693",
+        "routing_no": "652343242",
+        "balance_amount": 49274.81842048324,
+        "date_created": "2023-01-14",
+        "account_category": "Savings",
+        "client_id": 131
+    },
+    {
+        "account_id": 445,
+        "account_no": "8603215028",
+        "routing_no": "627494429",
+        "balance_amount": 21811.991329338594,
+        "date_created": "2021-10-23",
+        "account_category": "Savings",
+        "client_id": 334
+    },
+    {
+        "account_id": 446,
+        "account_no": "5262408098",
+        "routing_no": "530027557",
+        "balance_amount": 13952.090944150723,
+        "date_created": "2022-11-16",
+        "account_category": "Savings",
+        "client_id": 209
+    },
+    {
+        "account_id": 447,
+        "account_no": "97790066",
+        "routing_no": "35689913",
+        "balance_amount": 25901.274772646884,
+        "date_created": "2025-07-13",
+        "account_category": "Savings",
+        "client_id": 177
+    },
+    {
+        "account_id": 448,
+        "account_no": "6569204787",
+        "routing_no": "740747867",
+        "balance_amount": 37666.6096335782,
+        "date_created": "2021-12-27",
+        "account_category": "Fixed",
+        "client_id": 73
+    },
+    {
+        "account_id": 449,
+        "account_no": "4820700134",
+        "routing_no": "612645850",
+        "balance_amount": 45247.92244065106,
+        "date_created": "2021-01-24",
+        "account_category": "Savings",
+        "client_id": 334
+    },
+    {
+        "account_id": 450,
+        "account_no": "5274292390",
+        "routing_no": "919381840",
+        "balance_amount": 25586.124148819556,
+        "date_created": "2025-10-08",
+        "account_category": "Savings",
+        "client_id": 125
+    },
+    {
+        "account_id": 451,
+        "account_no": "1558512383",
+        "routing_no": "240326625",
+        "balance_amount": 14018.289961905406,
+        "date_created": "2023-07-02",
+        "account_category": "Savings",
+        "client_id": 198
+    },
+    {
+        "account_id": 452,
+        "account_no": "5070993139",
+        "routing_no": "531511920",
+        "balance_amount": 46009.49104685277,
+        "date_created": "2025-01-27",
+        "account_category": "Savings",
+        "client_id": 335
+    },
+    {
+        "account_id": 453,
+        "account_no": "1699275035",
+        "routing_no": "916393905",
+        "balance_amount": 4034.4956487159448,
+        "date_created": "2022-09-01",
+        "account_category": "Fixed",
+        "client_id": 71
+    },
+    {
+        "account_id": 454,
+        "account_no": "230401113",
+        "routing_no": "334539513",
+        "balance_amount": 19988.677472313342,
+        "date_created": "2023-11-23",
+        "account_category": "Fixed",
+        "client_id": 123
+    },
+    {
+        "account_id": 455,
+        "account_no": "4414570146",
+        "routing_no": "986439139",
+        "balance_amount": 43084.112783972916,
+        "date_created": "2025-08-18",
+        "account_category": "Current",
+        "client_id": 410
+    },
+    {
+        "account_id": 456,
+        "account_no": "1084127162",
+        "routing_no": "145964285",
+        "balance_amount": 28974.93445306953,
+        "date_created": "2020-08-12",
+        "account_category": "Savings",
+        "client_id": 244
+    },
+    {
+        "account_id": 457,
+        "account_no": "8845573771",
+        "routing_no": "394507214",
+        "balance_amount": 1709.6799590020669,
+        "date_created": "2025-04-22",
+        "account_category": "Fixed",
+        "client_id": 230
+    },
+    {
+        "account_id": 458,
+        "account_no": "7809846772",
+        "routing_no": "491771742",
+        "balance_amount": 19273.089144233276,
+        "date_created": "2023-10-27",
+        "account_category": "Current",
+        "client_id": 72
+    },
+    {
+        "account_id": 459,
+        "account_no": "6314474737",
+        "routing_no": "517144320",
+        "balance_amount": 24716.709100161617,
+        "date_created": "2020-04-27",
+        "account_category": "Current",
+        "client_id": 478
+    },
+    {
+        "account_id": 460,
+        "account_no": "5846009527",
+        "routing_no": "966845105",
+        "balance_amount": 18895.82271410604,
+        "date_created": "2024-03-21",
+        "account_category": "Fixed",
+        "client_id": 189
+    },
+    {
+        "account_id": 461,
+        "account_no": "2821305294",
+        "routing_no": "597028693",
+        "balance_amount": 18510.240173448066,
+        "date_created": "2021-04-19",
+        "account_category": "Savings",
+        "client_id": 215
+    },
+    {
+        "account_id": 462,
+        "account_no": "5143549364",
+        "routing_no": "117636405",
+        "balance_amount": 39813.89162952448,
+        "date_created": "2021-08-20",
+        "account_category": "Fixed",
+        "client_id": 425
+    },
+    {
+        "account_id": 463,
+        "account_no": "9382520201",
+        "routing_no": "650369507",
+        "balance_amount": 44645.45766947007,
+        "date_created": "2023-01-18",
+        "account_category": "Fixed",
+        "client_id": 57
+    },
+    {
+        "account_id": 464,
+        "account_no": "2672842154",
+        "routing_no": "131502953",
+        "balance_amount": 29404.53863775482,
+        "date_created": "2025-07-14",
+        "account_category": "Current",
+        "client_id": 3
+    },
+    {
+        "account_id": 465,
+        "account_no": "6796616552",
+        "routing_no": "11509634",
+        "balance_amount": 39873.78736201228,
+        "date_created": "2020-02-07",
+        "account_category": "Current",
+        "client_id": 381
+    },
+    {
+        "account_id": 466,
+        "account_no": "4386547561",
+        "routing_no": "970762333",
+        "balance_amount": 41485.04781361191,
+        "date_created": "2023-01-30",
+        "account_category": "Current",
+        "client_id": 82
+    },
+    {
+        "account_id": 467,
+        "account_no": "784949051",
+        "routing_no": "779794089",
+        "balance_amount": 43308.41020305946,
+        "date_created": "2020-12-16",
+        "account_category": "Fixed",
+        "client_id": 289
+    },
+    {
+        "account_id": 468,
+        "account_no": "4355217653",
+        "routing_no": "409069008",
+        "balance_amount": 43302.52804539274,
+        "date_created": "2025-07-03",
+        "account_category": "Savings",
+        "client_id": 409
+    },
+    {
+        "account_id": 469,
+        "account_no": "6130522090",
+        "routing_no": "954301913",
+        "balance_amount": 21562.375271279237,
+        "date_created": "2021-08-15",
+        "account_category": "Current",
+        "client_id": 218
+    },
+    {
+        "account_id": 470,
+        "account_no": "7710579321",
+        "routing_no": "376415742",
+        "balance_amount": 32911.37897399558,
+        "date_created": "2024-03-01",
+        "account_category": "Savings",
+        "client_id": 360
+    },
+    {
+        "account_id": 471,
+        "account_no": "7825108668",
+        "routing_no": "891419863",
+        "balance_amount": 17618.3599024977,
+        "date_created": "2025-01-03",
+        "account_category": "Fixed",
+        "client_id": 159
+    },
+    {
+        "account_id": 472,
+        "account_no": "9874806524",
+        "routing_no": "558752315",
+        "balance_amount": 1289.0651869777776,
+        "date_created": "2025-06-12",
+        "account_category": "Savings",
+        "client_id": 373
+    },
+    {
+        "account_id": 473,
+        "account_no": "2969857939",
+        "routing_no": "826226251",
+        "balance_amount": 10933.941791308382,
+        "date_created": "2025-04-13",
+        "account_category": "Fixed",
+        "client_id": 185
+    },
+    {
+        "account_id": 474,
+        "account_no": "861893652",
+        "routing_no": "736802052",
+        "balance_amount": 43993.91573057857,
+        "date_created": "2021-03-07",
+        "account_category": "Fixed",
+        "client_id": 449
+    },
+    {
+        "account_id": 475,
+        "account_no": "6174919166",
+        "routing_no": "136777098",
+        "balance_amount": 39408.78765680788,
+        "date_created": "2022-10-19",
+        "account_category": "Savings",
+        "client_id": 325
+    },
+    {
+        "account_id": 476,
+        "account_no": "3114691608",
+        "routing_no": "279068007",
+        "balance_amount": 37569.73764130299,
+        "date_created": "2022-05-04",
+        "account_category": "Savings",
+        "client_id": 7
+    },
+    {
+        "account_id": 477,
+        "account_no": "5059409049",
+        "routing_no": "731224739",
+        "balance_amount": 40916.33110461235,
+        "date_created": "2021-09-01",
+        "account_category": "Savings",
+        "client_id": 194
+    },
+    {
+        "account_id": 478,
+        "account_no": "5450335449",
+        "routing_no": "682690101",
+        "balance_amount": 49230.96639805575,
+        "date_created": "2025-01-06",
+        "account_category": "Fixed",
+        "client_id": 161
+    },
+    {
+        "account_id": 479,
+        "account_no": "6497689888",
+        "routing_no": "621696589",
+        "balance_amount": 26992.409769712103,
+        "date_created": "2024-01-07",
+        "account_category": "Fixed",
+        "client_id": 480
+    },
+    {
+        "account_id": 480,
+        "account_no": "7694589650",
+        "routing_no": "910160351",
+        "balance_amount": 40634.05561284271,
+        "date_created": "2020-05-27",
+        "account_category": "Savings",
+        "client_id": 495
+    },
+    {
+        "account_id": 481,
+        "account_no": "9937765958",
+        "routing_no": "47728474",
+        "balance_amount": 44190.596712354316,
+        "date_created": "2022-09-03",
+        "account_category": "Current",
+        "client_id": 245
+    },
+    {
+        "account_id": 482,
+        "account_no": "776708565",
+        "routing_no": "176328684",
+        "balance_amount": 33205.62387271432,
+        "date_created": "2022-01-26",
+        "account_category": "Current",
+        "client_id": 58
+    },
+    {
+        "account_id": 483,
+        "account_no": "4153335264",
+        "routing_no": "859945783",
+        "balance_amount": 9217.385669778094,
+        "date_created": "2025-06-30",
+        "account_category": "Savings",
+        "client_id": 169
+    },
+    {
+        "account_id": 484,
+        "account_no": "9674338429",
+        "routing_no": "950270982",
+        "balance_amount": 8338.271062305004,
+        "date_created": "2022-04-24",
+        "account_category": "Savings",
+        "client_id": 334
+    },
+    {
+        "account_id": 485,
+        "account_no": "9051476684",
+        "routing_no": "66725706",
+        "balance_amount": 41593.48112035653,
+        "date_created": "2025-07-25",
+        "account_category": "Current",
+        "client_id": 362
+    },
+    {
+        "account_id": 486,
+        "account_no": "3695598694",
+        "routing_no": "873416791",
+        "balance_amount": 9069.5657261661,
+        "date_created": "2022-07-11",
+        "account_category": "Current",
+        "client_id": 451
+    },
+    {
+        "account_id": 487,
+        "account_no": "7915302003",
+        "routing_no": "703054091",
+        "balance_amount": 42954.50162071924,
+        "date_created": "2021-04-06",
+        "account_category": "Fixed",
+        "client_id": 29
+    },
+    {
+        "account_id": 488,
+        "account_no": "6305309290",
+        "routing_no": "710015445",
+        "balance_amount": 6999.901884151889,
+        "date_created": "2022-08-03",
+        "account_category": "Savings",
+        "client_id": 349
+    },
+    {
+        "account_id": 489,
+        "account_no": "7517827191",
+        "routing_no": "478801781",
+        "balance_amount": 35480.615994494685,
+        "date_created": "2023-08-22",
+        "account_category": "Current",
+        "client_id": 297
+    },
+    {
+        "account_id": 490,
+        "account_no": "7141170311",
+        "routing_no": "649304777",
+        "balance_amount": 36890.23099848739,
+        "date_created": "2025-07-10",
+        "account_category": "Savings",
+        "client_id": 443
+    },
+    {
+        "account_id": 491,
+        "account_no": "5544633006",
+        "routing_no": "608702227",
+        "balance_amount": 7864.1845995946005,
+        "date_created": "2022-02-27",
+        "account_category": "Fixed",
+        "client_id": 297
+    },
+    {
+        "account_id": 492,
+        "account_no": "298044244",
+        "routing_no": "732501335",
+        "balance_amount": 46899.32717068276,
+        "date_created": "2020-11-26",
+        "account_category": "Savings",
+        "client_id": 223
+    },
+    {
+        "account_id": 493,
+        "account_no": "6587942206",
+        "routing_no": "596448588",
+        "balance_amount": 38970.93486695412,
+        "date_created": "2022-05-24",
+        "account_category": "Savings",
+        "client_id": 461
+    },
+    {
+        "account_id": 494,
+        "account_no": "1506155425",
+        "routing_no": "481713633",
+        "balance_amount": 17157.48045936752,
+        "date_created": "2023-04-22",
+        "account_category": "Fixed",
+        "client_id": 317
+    },
+    {
+        "account_id": 495,
+        "account_no": "6042952571",
+        "routing_no": "218554567",
+        "balance_amount": 33970.66928984618,
+        "date_created": "2024-11-15",
+        "account_category": "Fixed",
+        "client_id": 15
+    },
+    {
+        "account_id": 496,
+        "account_no": "5890664190",
+        "routing_no": "789938771",
+        "balance_amount": 1643.9384629308129,
+        "date_created": "2021-08-02",
+        "account_category": "Fixed",
+        "client_id": 122
+    },
+    {
+        "account_id": 497,
+        "account_no": "1343540435",
+        "routing_no": "580123156",
+        "balance_amount": 6676.551933518288,
+        "date_created": "2022-12-09",
+        "account_category": "Fixed",
+        "client_id": 151
+    },
+    {
+        "account_id": 498,
+        "account_no": "9719852541",
+        "routing_no": "196961019",
+        "balance_amount": 3105.455792452762,
+        "date_created": "2025-06-24",
+        "account_category": "Current",
+        "client_id": 328
+    },
+    {
+        "account_id": 499,
+        "account_no": "7238287514",
+        "routing_no": "243436984",
+        "balance_amount": 4078.4265944988338,
+        "date_created": "2025-09-18",
+        "account_category": "Savings",
+        "client_id": 457
+    },
+    {
+        "account_id": 500,
+        "account_no": "41330889",
+        "routing_no": "592219127",
+        "balance_amount": 37515.16267850113,
+        "date_created": "2020-02-17",
+        "account_category": "Current",
+        "client_id": 218
+    }
+]

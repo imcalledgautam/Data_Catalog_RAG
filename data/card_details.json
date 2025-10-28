@@ -1,0 +1,4502 @@
+[
+    {
+        "card_id": 1,
+        "card_number": "4381974943904",
+        "expiry_date": "2026-10-22",
+        "limit_amount": 85162.04655994358,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 273
+    },
+    {
+        "card_id": 2,
+        "card_number": "4521843870743",
+        "expiry_date": "2027-12-17",
+        "limit_amount": 42299.16532768892,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 492
+    },
+    {
+        "card_id": 3,
+        "card_number": "377507934597989",
+        "expiry_date": "2028-06-11",
+        "limit_amount": 31175.362338356943,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 488
+    },
+    {
+        "card_id": 4,
+        "card_number": "2360928929139337",
+        "expiry_date": "2028-04-24",
+        "limit_amount": 73098.04123410606,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 426
+    },
+    {
+        "card_id": 5,
+        "card_number": "30578322525436",
+        "expiry_date": "2027-02-17",
+        "limit_amount": 58823.49881446403,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 455
+    },
+    {
+        "card_id": 6,
+        "card_number": "4652053339053821",
+        "expiry_date": "2030-06-17",
+        "limit_amount": 89404.16891559998,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 55
+    },
+    {
+        "card_id": 7,
+        "card_number": "4936802225038",
+        "expiry_date": "2030-02-26",
+        "limit_amount": 50736.33495525136,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 291
+    },
+    {
+        "card_id": 8,
+        "card_number": "6556331853137085",
+        "expiry_date": "2028-08-23",
+        "limit_amount": 54951.73978585778,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 225
+    },
+    {
+        "card_id": 9,
+        "card_number": "4355562793951629298",
+        "expiry_date": "2029-02-05",
+        "limit_amount": 50318.52399488021,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 385
+    },
+    {
+        "card_id": 10,
+        "card_number": "2232213316123186",
+        "expiry_date": "2029-01-05",
+        "limit_amount": 72525.36843740144,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 9
+    },
+    {
+        "card_id": 11,
+        "card_number": "180048312185342",
+        "expiry_date": "2027-06-06",
+        "limit_amount": 85099.58999647321,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 55
+    },
+    {
+        "card_id": 12,
+        "card_number": "4197676650583",
+        "expiry_date": "2028-05-07",
+        "limit_amount": 25247.655995292218,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 59
+    },
+    {
+        "card_id": 13,
+        "card_number": "676291455449",
+        "expiry_date": "2029-03-13",
+        "limit_amount": 92776.81302609529,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 94
+    },
+    {
+        "card_id": 14,
+        "card_number": "213157009351546",
+        "expiry_date": "2027-07-08",
+        "limit_amount": 86711.13961647297,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 441
+    },
+    {
+        "card_id": 15,
+        "card_number": "3535184916749567",
+        "expiry_date": "2030-06-24",
+        "limit_amount": 32441.310530227856,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 351
+    },
+    {
+        "card_id": 16,
+        "card_number": "4254728246958558",
+        "expiry_date": "2027-01-17",
+        "limit_amount": 7952.853149156417,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 263
+    },
+    {
+        "card_id": 17,
+        "card_number": "5161889142553015",
+        "expiry_date": "2030-03-01",
+        "limit_amount": 46140.748485121905,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 403
+    },
+    {
+        "card_id": 18,
+        "card_number": "3520918623091657",
+        "expiry_date": "2028-01-27",
+        "limit_amount": 53026.92326545076,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 211
+    },
+    {
+        "card_id": 19,
+        "card_number": "567013318371",
+        "expiry_date": "2027-11-01",
+        "limit_amount": 68544.48691673469,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 245
+    },
+    {
+        "card_id": 20,
+        "card_number": "342081936726220",
+        "expiry_date": "2029-06-30",
+        "limit_amount": 82286.29817330308,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 463
+    },
+    {
+        "card_id": 21,
+        "card_number": "348108155737457",
+        "expiry_date": "2028-10-22",
+        "limit_amount": 74437.70240602194,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 455
+    },
+    {
+        "card_id": 22,
+        "card_number": "3550555718305486",
+        "expiry_date": "2028-09-20",
+        "limit_amount": 63051.50858536889,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 453
+    },
+    {
+        "card_id": 23,
+        "card_number": "347256994702959",
+        "expiry_date": "2027-10-17",
+        "limit_amount": 49792.353842369084,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 294
+    },
+    {
+        "card_id": 24,
+        "card_number": "4427528259381371",
+        "expiry_date": "2029-04-29",
+        "limit_amount": 99848.638411071,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 111
+    },
+    {
+        "card_id": 25,
+        "card_number": "4025828826573575",
+        "expiry_date": "2029-05-12",
+        "limit_amount": 12446.75727506572,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 144
+    },
+    {
+        "card_id": 26,
+        "card_number": "2593219934612297",
+        "expiry_date": "2028-08-26",
+        "limit_amount": 90832.70963985933,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 228
+    },
+    {
+        "card_id": 27,
+        "card_number": "6011785560259822",
+        "expiry_date": "2030-09-30",
+        "limit_amount": 51701.78605956168,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 172
+    },
+    {
+        "card_id": 28,
+        "card_number": "4990058529714901",
+        "expiry_date": "2029-11-09",
+        "limit_amount": 13914.749230460806,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 369
+    },
+    {
+        "card_id": 29,
+        "card_number": "2349570918648179",
+        "expiry_date": "2027-10-29",
+        "limit_amount": 71895.51051695552,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 433
+    },
+    {
+        "card_id": 30,
+        "card_number": "2231971899646029",
+        "expiry_date": "2028-11-17",
+        "limit_amount": 64178.81517516494,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 287
+    },
+    {
+        "card_id": 31,
+        "card_number": "2704139142090787",
+        "expiry_date": "2030-07-16",
+        "limit_amount": 16091.205215777209,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 113
+    },
+    {
+        "card_id": 32,
+        "card_number": "213132293621268",
+        "expiry_date": "2029-04-08",
+        "limit_amount": 59555.923498842385,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 362
+    },
+    {
+        "card_id": 33,
+        "card_number": "379817388625444",
+        "expiry_date": "2028-07-01",
+        "limit_amount": 56618.00172935623,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 343
+    },
+    {
+        "card_id": 34,
+        "card_number": "213188784211506",
+        "expiry_date": "2028-02-28",
+        "limit_amount": 20941.56657250884,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 175
+    },
+    {
+        "card_id": 35,
+        "card_number": "346423142076220",
+        "expiry_date": "2030-09-18",
+        "limit_amount": 91707.31012736948,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 412
+    },
+    {
+        "card_id": 36,
+        "card_number": "4440651387780927",
+        "expiry_date": "2029-04-24",
+        "limit_amount": 8457.483129093278,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 453
+    },
+    {
+        "card_id": 37,
+        "card_number": "4569508368180",
+        "expiry_date": "2026-12-25",
+        "limit_amount": 41882.02025530561,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 35
+    },
+    {
+        "card_id": 38,
+        "card_number": "676166709508",
+        "expiry_date": "2027-01-06",
+        "limit_amount": 86753.01491088519,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 368
+    },
+    {
+        "card_id": 39,
+        "card_number": "6501081097591151",
+        "expiry_date": "2026-12-19",
+        "limit_amount": 45299.711664997645,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 484
+    },
+    {
+        "card_id": 40,
+        "card_number": "180004117871370",
+        "expiry_date": "2030-08-14",
+        "limit_amount": 35546.517638515696,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 50
+    },
+    {
+        "card_id": 41,
+        "card_number": "213130202373187",
+        "expiry_date": "2028-06-12",
+        "limit_amount": 8002.983969045159,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 181
+    },
+    {
+        "card_id": 42,
+        "card_number": "676228190036",
+        "expiry_date": "2029-01-15",
+        "limit_amount": 49711.33060371684,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 145
+    },
+    {
+        "card_id": 43,
+        "card_number": "3504150134380995",
+        "expiry_date": "2028-11-16",
+        "limit_amount": 68519.5300801744,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 24
+    },
+    {
+        "card_id": 44,
+        "card_number": "3592906593906114",
+        "expiry_date": "2028-03-23",
+        "limit_amount": 96687.27151709938,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 38
+    },
+    {
+        "card_id": 45,
+        "card_number": "3578866521051276",
+        "expiry_date": "2027-04-11",
+        "limit_amount": 69119.09072971636,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 220
+    },
+    {
+        "card_id": 46,
+        "card_number": "577330210797",
+        "expiry_date": "2028-08-23",
+        "limit_amount": 64332.78683298608,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 243
+    },
+    {
+        "card_id": 47,
+        "card_number": "2301250042716004",
+        "expiry_date": "2027-12-21",
+        "limit_amount": 92381.06756916083,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 266
+    },
+    {
+        "card_id": 48,
+        "card_number": "3506315105510338",
+        "expiry_date": "2030-03-11",
+        "limit_amount": 16423.480780418322,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 76
+    },
+    {
+        "card_id": 49,
+        "card_number": "2278783346637459",
+        "expiry_date": "2028-09-17",
+        "limit_amount": 6728.348502639497,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 224
+    },
+    {
+        "card_id": 50,
+        "card_number": "6011276148215742",
+        "expiry_date": "2030-09-13",
+        "limit_amount": 72320.91210446965,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 167
+    },
+    {
+        "card_id": 51,
+        "card_number": "676387874784",
+        "expiry_date": "2027-03-22",
+        "limit_amount": 36627.342578159994,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 145
+    },
+    {
+        "card_id": 52,
+        "card_number": "4394623247815074",
+        "expiry_date": "2029-08-16",
+        "limit_amount": 23363.906329180863,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 86
+    },
+    {
+        "card_id": 53,
+        "card_number": "6577464500642192",
+        "expiry_date": "2029-12-07",
+        "limit_amount": 33261.747190773305,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 476
+    },
+    {
+        "card_id": 54,
+        "card_number": "180092077897790",
+        "expiry_date": "2027-08-02",
+        "limit_amount": 94377.43505599839,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 378
+    },
+    {
+        "card_id": 55,
+        "card_number": "6011910784596581",
+        "expiry_date": "2027-01-02",
+        "limit_amount": 40482.53293081284,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 411
+    },
+    {
+        "card_id": 56,
+        "card_number": "180022162487066",
+        "expiry_date": "2029-10-12",
+        "limit_amount": 13396.158155290086,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 91
+    },
+    {
+        "card_id": 57,
+        "card_number": "4076152081106677463",
+        "expiry_date": "2027-04-26",
+        "limit_amount": 57877.88013541259,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 372
+    },
+    {
+        "card_id": 58,
+        "card_number": "2631713571849703",
+        "expiry_date": "2027-11-12",
+        "limit_amount": 92462.0700391109,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 299
+    },
+    {
+        "card_id": 59,
+        "card_number": "4179743405757455507",
+        "expiry_date": "2027-01-10",
+        "limit_amount": 29660.278613488892,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 436
+    },
+    {
+        "card_id": 60,
+        "card_number": "3517458818991457",
+        "expiry_date": "2029-06-06",
+        "limit_amount": 21257.45086131415,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 114
+    },
+    {
+        "card_id": 61,
+        "card_number": "4454330677835294",
+        "expiry_date": "2028-08-05",
+        "limit_amount": 75798.36705788475,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 370
+    },
+    {
+        "card_id": 62,
+        "card_number": "4508936317822827",
+        "expiry_date": "2028-03-26",
+        "limit_amount": 83404.09420924235,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 230
+    },
+    {
+        "card_id": 63,
+        "card_number": "30009340306229",
+        "expiry_date": "2028-04-13",
+        "limit_amount": 89622.00670605683,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 236
+    },
+    {
+        "card_id": 64,
+        "card_number": "30212396308400",
+        "expiry_date": "2029-04-17",
+        "limit_amount": 42659.92439137553,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 126
+    },
+    {
+        "card_id": 65,
+        "card_number": "3588903923584238",
+        "expiry_date": "2028-08-15",
+        "limit_amount": 78197.43448045864,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 470
+    },
+    {
+        "card_id": 66,
+        "card_number": "4992665662815887",
+        "expiry_date": "2029-03-05",
+        "limit_amount": 24867.734888215422,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 196
+    },
+    {
+        "card_id": 67,
+        "card_number": "4347659745179",
+        "expiry_date": "2030-06-17",
+        "limit_amount": 27794.46990742066,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 270
+    },
+    {
+        "card_id": 68,
+        "card_number": "3536462841218174",
+        "expiry_date": "2029-06-16",
+        "limit_amount": 40976.53947618048,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 297
+    },
+    {
+        "card_id": 69,
+        "card_number": "676157622728",
+        "expiry_date": "2029-01-02",
+        "limit_amount": 10287.511255122063,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 306
+    },
+    {
+        "card_id": 70,
+        "card_number": "4949285048224511385",
+        "expiry_date": "2027-12-07",
+        "limit_amount": 94887.52942880071,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 327
+    },
+    {
+        "card_id": 71,
+        "card_number": "639039818138",
+        "expiry_date": "2028-10-26",
+        "limit_amount": 87786.62839025709,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 213
+    },
+    {
+        "card_id": 72,
+        "card_number": "6526962041425995",
+        "expiry_date": "2027-10-14",
+        "limit_amount": 98526.30852404708,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 495
+    },
+    {
+        "card_id": 73,
+        "card_number": "3526975079852382",
+        "expiry_date": "2028-11-30",
+        "limit_amount": 9052.3765902579,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 493
+    },
+    {
+        "card_id": 74,
+        "card_number": "4272491389012041764",
+        "expiry_date": "2030-04-12",
+        "limit_amount": 76964.23250185457,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 426
+    },
+    {
+        "card_id": 75,
+        "card_number": "4522594558356653384",
+        "expiry_date": "2028-08-18",
+        "limit_amount": 80308.81283297407,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 372
+    },
+    {
+        "card_id": 76,
+        "card_number": "4826212669131299",
+        "expiry_date": "2027-02-11",
+        "limit_amount": 44533.76118200509,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 460
+    },
+    {
+        "card_id": 77,
+        "card_number": "3598614028873826",
+        "expiry_date": "2029-03-18",
+        "limit_amount": 80698.51031619763,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 353
+    },
+    {
+        "card_id": 78,
+        "card_number": "213167871730115",
+        "expiry_date": "2027-03-09",
+        "limit_amount": 15625.367063300266,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 219
+    },
+    {
+        "card_id": 79,
+        "card_number": "4087761535459965",
+        "expiry_date": "2028-07-15",
+        "limit_amount": 54397.88406445653,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 334
+    },
+    {
+        "card_id": 80,
+        "card_number": "4647143959819",
+        "expiry_date": "2027-01-10",
+        "limit_amount": 54837.47242693895,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 349
+    },
+    {
+        "card_id": 81,
+        "card_number": "340142854191045",
+        "expiry_date": "2030-08-13",
+        "limit_amount": 76736.53305177795,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 482
+    },
+    {
+        "card_id": 82,
+        "card_number": "3544912355902076",
+        "expiry_date": "2029-04-10",
+        "limit_amount": 45152.00630710044,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 263
+    },
+    {
+        "card_id": 83,
+        "card_number": "341306008174806",
+        "expiry_date": "2027-07-29",
+        "limit_amount": 10625.874564384048,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 152
+    },
+    {
+        "card_id": 84,
+        "card_number": "502094378242",
+        "expiry_date": "2029-03-26",
+        "limit_amount": 82586.55167051883,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 372
+    },
+    {
+        "card_id": 85,
+        "card_number": "3524047376702397",
+        "expiry_date": "2029-11-19",
+        "limit_amount": 12350.838886501091,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 472
+    },
+    {
+        "card_id": 86,
+        "card_number": "3547324478865783",
+        "expiry_date": "2029-08-18",
+        "limit_amount": 6444.236082439156,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 406
+    },
+    {
+        "card_id": 87,
+        "card_number": "4500965784874",
+        "expiry_date": "2027-12-09",
+        "limit_amount": 70073.59996291265,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 211
+    },
+    {
+        "card_id": 88,
+        "card_number": "213172816340418",
+        "expiry_date": "2027-05-23",
+        "limit_amount": 35038.2731567667,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 456
+    },
+    {
+        "card_id": 89,
+        "card_number": "378596196812664",
+        "expiry_date": "2028-06-08",
+        "limit_amount": 84043.8782461912,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 417
+    },
+    {
+        "card_id": 90,
+        "card_number": "4120122818482811",
+        "expiry_date": "2029-08-21",
+        "limit_amount": 71271.7665079842,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 457
+    },
+    {
+        "card_id": 91,
+        "card_number": "3530310111832917",
+        "expiry_date": "2027-11-19",
+        "limit_amount": 57711.50103114146,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 233
+    },
+    {
+        "card_id": 92,
+        "card_number": "213142094955112",
+        "expiry_date": "2027-04-25",
+        "limit_amount": 26263.23582317076,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 111
+    },
+    {
+        "card_id": 93,
+        "card_number": "2580348224445079",
+        "expiry_date": "2027-05-12",
+        "limit_amount": 72054.77034609017,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 335
+    },
+    {
+        "card_id": 94,
+        "card_number": "4279133591156091",
+        "expiry_date": "2029-07-24",
+        "limit_amount": 39008.95351085197,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 176
+    },
+    {
+        "card_id": 95,
+        "card_number": "4359755086928650",
+        "expiry_date": "2027-09-02",
+        "limit_amount": 54829.82713155733,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 228
+    },
+    {
+        "card_id": 96,
+        "card_number": "4876012912746",
+        "expiry_date": "2028-08-22",
+        "limit_amount": 74249.33220593444,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 53
+    },
+    {
+        "card_id": 97,
+        "card_number": "574056599727",
+        "expiry_date": "2029-11-01",
+        "limit_amount": 89513.83351522253,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 315
+    },
+    {
+        "card_id": 98,
+        "card_number": "2231918203364989",
+        "expiry_date": "2029-07-21",
+        "limit_amount": 36830.60553926177,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 380
+    },
+    {
+        "card_id": 99,
+        "card_number": "4380314873745894",
+        "expiry_date": "2028-08-13",
+        "limit_amount": 99472.16543090816,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 19
+    },
+    {
+        "card_id": 100,
+        "card_number": "6011021084864776",
+        "expiry_date": "2028-09-23",
+        "limit_amount": 57281.805556697196,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 27
+    },
+    {
+        "card_id": 101,
+        "card_number": "4551412281308231",
+        "expiry_date": "2028-01-12",
+        "limit_amount": 51270.100903414765,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 469
+    },
+    {
+        "card_id": 102,
+        "card_number": "060470158324",
+        "expiry_date": "2029-12-18",
+        "limit_amount": 63482.658082178576,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 161
+    },
+    {
+        "card_id": 103,
+        "card_number": "345094478815134",
+        "expiry_date": "2028-02-11",
+        "limit_amount": 84435.48059927995,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 212
+    },
+    {
+        "card_id": 104,
+        "card_number": "4621204604242320",
+        "expiry_date": "2027-04-23",
+        "limit_amount": 91749.22570715642,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 454
+    },
+    {
+        "card_id": 105,
+        "card_number": "4801464546062838477",
+        "expiry_date": "2027-10-29",
+        "limit_amount": 31472.521772866912,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 479
+    },
+    {
+        "card_id": 106,
+        "card_number": "3525581158930122",
+        "expiry_date": "2028-08-23",
+        "limit_amount": 85082.0060196817,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 30
+    },
+    {
+        "card_id": 107,
+        "card_number": "4532530759132903160",
+        "expiry_date": "2029-10-12",
+        "limit_amount": 8406.376664909054,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 15
+    },
+    {
+        "card_id": 108,
+        "card_number": "3533825756933487",
+        "expiry_date": "2030-07-26",
+        "limit_amount": 82095.98346347327,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 41
+    },
+    {
+        "card_id": 109,
+        "card_number": "4697196126545496",
+        "expiry_date": "2029-03-13",
+        "limit_amount": 65207.239310926,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 277
+    },
+    {
+        "card_id": 110,
+        "card_number": "180018186464800",
+        "expiry_date": "2028-02-25",
+        "limit_amount": 16971.550540891076,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 56
+    },
+    {
+        "card_id": 111,
+        "card_number": "2271703268684872",
+        "expiry_date": "2029-01-30",
+        "limit_amount": 78614.2159422249,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 61
+    },
+    {
+        "card_id": 112,
+        "card_number": "3591894855295460",
+        "expiry_date": "2029-04-06",
+        "limit_amount": 80797.89462423151,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 354
+    },
+    {
+        "card_id": 113,
+        "card_number": "2272010598733679",
+        "expiry_date": "2028-11-25",
+        "limit_amount": 75141.65152386473,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 435
+    },
+    {
+        "card_id": 114,
+        "card_number": "3553382523435862",
+        "expiry_date": "2027-10-21",
+        "limit_amount": 53437.062392634354,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 494
+    },
+    {
+        "card_id": 115,
+        "card_number": "4131006527231857",
+        "expiry_date": "2027-02-25",
+        "limit_amount": 54863.91265383895,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 302
+    },
+    {
+        "card_id": 116,
+        "card_number": "180072968242132",
+        "expiry_date": "2027-08-29",
+        "limit_amount": 32436.21323041952,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 415
+    },
+    {
+        "card_id": 117,
+        "card_number": "4070696323046535617",
+        "expiry_date": "2029-03-09",
+        "limit_amount": 96016.6635578848,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 51
+    },
+    {
+        "card_id": 118,
+        "card_number": "574226513905",
+        "expiry_date": "2028-02-16",
+        "limit_amount": 32248.985636215177,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 24
+    },
+    {
+        "card_id": 119,
+        "card_number": "6576060819989869",
+        "expiry_date": "2026-11-12",
+        "limit_amount": 62308.18493368892,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 143
+    },
+    {
+        "card_id": 120,
+        "card_number": "3533477365266246",
+        "expiry_date": "2030-07-08",
+        "limit_amount": 53341.41731379979,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 483
+    },
+    {
+        "card_id": 121,
+        "card_number": "3556261833761695",
+        "expiry_date": "2030-08-23",
+        "limit_amount": 21341.092687673256,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 125
+    },
+    {
+        "card_id": 122,
+        "card_number": "4354089878956850",
+        "expiry_date": "2029-12-02",
+        "limit_amount": 57517.733792460545,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 227
+    },
+    {
+        "card_id": 123,
+        "card_number": "4441383962588827",
+        "expiry_date": "2030-09-25",
+        "limit_amount": 5504.655172666784,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 341
+    },
+    {
+        "card_id": 124,
+        "card_number": "374992404160075",
+        "expiry_date": "2028-06-16",
+        "limit_amount": 63741.852152187515,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 61
+    },
+    {
+        "card_id": 125,
+        "card_number": "30517202794001",
+        "expiry_date": "2027-06-26",
+        "limit_amount": 17128.082524995792,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 91
+    },
+    {
+        "card_id": 126,
+        "card_number": "4348597562219061",
+        "expiry_date": "2030-09-19",
+        "limit_amount": 40835.29081800895,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 126
+    },
+    {
+        "card_id": 127,
+        "card_number": "213174651328748",
+        "expiry_date": "2029-09-30",
+        "limit_amount": 14164.054311046102,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 64
+    },
+    {
+        "card_id": 128,
+        "card_number": "375562622549893",
+        "expiry_date": "2029-03-30",
+        "limit_amount": 20351.27099794546,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 261
+    },
+    {
+        "card_id": 129,
+        "card_number": "3574029895338050",
+        "expiry_date": "2027-12-22",
+        "limit_amount": 76930.58383271657,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 463
+    },
+    {
+        "card_id": 130,
+        "card_number": "3580749466175381",
+        "expiry_date": "2028-03-14",
+        "limit_amount": 42848.415524292446,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 438
+    },
+    {
+        "card_id": 131,
+        "card_number": "30206429414144",
+        "expiry_date": "2030-05-20",
+        "limit_amount": 95230.44161910519,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 276
+    },
+    {
+        "card_id": 132,
+        "card_number": "2419733773703779",
+        "expiry_date": "2027-02-05",
+        "limit_amount": 19093.65641777929,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 376
+    },
+    {
+        "card_id": 133,
+        "card_number": "4860114787289",
+        "expiry_date": "2027-10-27",
+        "limit_amount": 62030.03675451894,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 489
+    },
+    {
+        "card_id": 134,
+        "card_number": "585519899207",
+        "expiry_date": "2029-09-01",
+        "limit_amount": 44430.27589931544,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 439
+    },
+    {
+        "card_id": 135,
+        "card_number": "213142216548597",
+        "expiry_date": "2028-04-11",
+        "limit_amount": 20943.3937098828,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 498
+    },
+    {
+        "card_id": 136,
+        "card_number": "4985840814394",
+        "expiry_date": "2027-06-12",
+        "limit_amount": 42045.45743770447,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 330
+    },
+    {
+        "card_id": 137,
+        "card_number": "4952342732312810",
+        "expiry_date": "2030-05-13",
+        "limit_amount": 52422.00738832435,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 476
+    },
+    {
+        "card_id": 138,
+        "card_number": "4360975533740941575",
+        "expiry_date": "2030-05-23",
+        "limit_amount": 7714.066099605339,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 251
+    },
+    {
+        "card_id": 139,
+        "card_number": "180080244335828",
+        "expiry_date": "2028-10-31",
+        "limit_amount": 7742.166967901322,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 278
+    },
+    {
+        "card_id": 140,
+        "card_number": "180069699956949",
+        "expiry_date": "2028-02-26",
+        "limit_amount": 65328.92531973514,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 212
+    },
+    {
+        "card_id": 141,
+        "card_number": "4004208731180",
+        "expiry_date": "2030-03-08",
+        "limit_amount": 85698.58994197915,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 76
+    },
+    {
+        "card_id": 142,
+        "card_number": "3569861615040328",
+        "expiry_date": "2029-06-28",
+        "limit_amount": 74609.0576557359,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 175
+    },
+    {
+        "card_id": 143,
+        "card_number": "347359006042594",
+        "expiry_date": "2028-03-13",
+        "limit_amount": 19800.329518171646,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 162
+    },
+    {
+        "card_id": 144,
+        "card_number": "4325950505501318",
+        "expiry_date": "2028-07-15",
+        "limit_amount": 65193.41935189028,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 108
+    },
+    {
+        "card_id": 145,
+        "card_number": "3571231152929570",
+        "expiry_date": "2028-10-25",
+        "limit_amount": 15930.101748118694,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 488
+    },
+    {
+        "card_id": 146,
+        "card_number": "3506847593671107",
+        "expiry_date": "2029-03-18",
+        "limit_amount": 82193.73335371724,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 343
+    },
+    {
+        "card_id": 147,
+        "card_number": "2349080811979457",
+        "expiry_date": "2029-09-13",
+        "limit_amount": 99948.05033077564,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 207
+    },
+    {
+        "card_id": 148,
+        "card_number": "4048503165388",
+        "expiry_date": "2030-06-04",
+        "limit_amount": 99237.23556274202,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 51
+    },
+    {
+        "card_id": 149,
+        "card_number": "213101525427513",
+        "expiry_date": "2028-06-12",
+        "limit_amount": 48282.5810807045,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 369
+    },
+    {
+        "card_id": 150,
+        "card_number": "4794975596961248",
+        "expiry_date": "2028-03-05",
+        "limit_amount": 8809.508070756478,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 388
+    },
+    {
+        "card_id": 151,
+        "card_number": "4906001813080327",
+        "expiry_date": "2030-04-02",
+        "limit_amount": 79391.93356232924,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 303
+    },
+    {
+        "card_id": 152,
+        "card_number": "4109317256804964",
+        "expiry_date": "2030-08-15",
+        "limit_amount": 31376.491495073966,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 286
+    },
+    {
+        "card_id": 153,
+        "card_number": "2267272467772561",
+        "expiry_date": "2027-08-14",
+        "limit_amount": 65793.85521872526,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 315
+    },
+    {
+        "card_id": 154,
+        "card_number": "4822009559413",
+        "expiry_date": "2028-09-30",
+        "limit_amount": 56451.559072280346,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 196
+    },
+    {
+        "card_id": 155,
+        "card_number": "4417257338204",
+        "expiry_date": "2028-03-08",
+        "limit_amount": 91304.30580235236,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 94
+    },
+    {
+        "card_id": 156,
+        "card_number": "6507433457186870",
+        "expiry_date": "2028-11-13",
+        "limit_amount": 19457.53147745558,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 285
+    },
+    {
+        "card_id": 157,
+        "card_number": "4925760268966085",
+        "expiry_date": "2027-03-10",
+        "limit_amount": 92769.40460440861,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 218
+    },
+    {
+        "card_id": 158,
+        "card_number": "2715739219845513",
+        "expiry_date": "2026-12-20",
+        "limit_amount": 26142.181140253484,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 208
+    },
+    {
+        "card_id": 159,
+        "card_number": "213130035631959",
+        "expiry_date": "2029-08-26",
+        "limit_amount": 59126.262038448185,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 276
+    },
+    {
+        "card_id": 160,
+        "card_number": "4529673945832",
+        "expiry_date": "2028-04-02",
+        "limit_amount": 26664.74856413037,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 437
+    },
+    {
+        "card_id": 161,
+        "card_number": "676392934029",
+        "expiry_date": "2030-04-27",
+        "limit_amount": 94996.41933586096,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 443
+    },
+    {
+        "card_id": 162,
+        "card_number": "5380996196216277",
+        "expiry_date": "2026-12-11",
+        "limit_amount": 77874.06155460727,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 251
+    },
+    {
+        "card_id": 163,
+        "card_number": "4094976659628131411",
+        "expiry_date": "2027-12-27",
+        "limit_amount": 96934.78909564756,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 154
+    },
+    {
+        "card_id": 164,
+        "card_number": "374121275415307",
+        "expiry_date": "2028-09-21",
+        "limit_amount": 72769.64922046685,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 496
+    },
+    {
+        "card_id": 165,
+        "card_number": "30181500860384",
+        "expiry_date": "2028-03-16",
+        "limit_amount": 70261.27851317776,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 194
+    },
+    {
+        "card_id": 166,
+        "card_number": "577239140301",
+        "expiry_date": "2028-09-05",
+        "limit_amount": 92743.4446037967,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 135
+    },
+    {
+        "card_id": 167,
+        "card_number": "348536718398807",
+        "expiry_date": "2030-03-04",
+        "limit_amount": 79540.842802984,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 1
+    },
+    {
+        "card_id": 168,
+        "card_number": "4583731119096",
+        "expiry_date": "2028-10-05",
+        "limit_amount": 58526.05814637271,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 416
+    },
+    {
+        "card_id": 169,
+        "card_number": "4573173529295614",
+        "expiry_date": "2029-08-10",
+        "limit_amount": 53442.03897304542,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 271
+    },
+    {
+        "card_id": 170,
+        "card_number": "342229150914770",
+        "expiry_date": "2027-10-14",
+        "limit_amount": 48539.93202711817,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 86
+    },
+    {
+        "card_id": 171,
+        "card_number": "3545085222868876",
+        "expiry_date": "2029-08-18",
+        "limit_amount": 55342.29086328255,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 24
+    },
+    {
+        "card_id": 172,
+        "card_number": "2242155614434765",
+        "expiry_date": "2027-08-24",
+        "limit_amount": 82851.94286827787,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 182
+    },
+    {
+        "card_id": 173,
+        "card_number": "3567030843519485",
+        "expiry_date": "2030-02-07",
+        "limit_amount": 54616.795918757634,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 265
+    },
+    {
+        "card_id": 174,
+        "card_number": "4766562960239",
+        "expiry_date": "2028-10-28",
+        "limit_amount": 50505.865891624926,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 458
+    },
+    {
+        "card_id": 175,
+        "card_number": "180011991305284",
+        "expiry_date": "2029-05-09",
+        "limit_amount": 95620.16031937563,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 57
+    },
+    {
+        "card_id": 176,
+        "card_number": "4379047020023400",
+        "expiry_date": "2027-03-21",
+        "limit_amount": 35255.059132871,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 194
+    },
+    {
+        "card_id": 177,
+        "card_number": "180037394827855",
+        "expiry_date": "2027-05-10",
+        "limit_amount": 18678.669942739423,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 272
+    },
+    {
+        "card_id": 178,
+        "card_number": "4379659030278426",
+        "expiry_date": "2028-07-24",
+        "limit_amount": 20433.74883491738,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 71
+    },
+    {
+        "card_id": 179,
+        "card_number": "3530274576907970",
+        "expiry_date": "2027-07-27",
+        "limit_amount": 19611.990603691505,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 187
+    },
+    {
+        "card_id": 180,
+        "card_number": "4492247844292551",
+        "expiry_date": "2029-08-19",
+        "limit_amount": 62053.2490699807,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 85
+    },
+    {
+        "card_id": 181,
+        "card_number": "4536369579902937",
+        "expiry_date": "2028-02-16",
+        "limit_amount": 65700.20390954774,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 64
+    },
+    {
+        "card_id": 182,
+        "card_number": "6526831216340851",
+        "expiry_date": "2029-05-29",
+        "limit_amount": 90529.97303005494,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 295
+    },
+    {
+        "card_id": 183,
+        "card_number": "6011386550683178",
+        "expiry_date": "2030-01-29",
+        "limit_amount": 87634.83791174363,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 20
+    },
+    {
+        "card_id": 184,
+        "card_number": "4249247593462690",
+        "expiry_date": "2028-05-09",
+        "limit_amount": 80894.19960837727,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 16
+    },
+    {
+        "card_id": 185,
+        "card_number": "4315697552155868",
+        "expiry_date": "2026-12-30",
+        "limit_amount": 72784.20396721778,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 301
+    },
+    {
+        "card_id": 186,
+        "card_number": "4730849933708",
+        "expiry_date": "2030-03-02",
+        "limit_amount": 19551.769927185596,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 333
+    },
+    {
+        "card_id": 187,
+        "card_number": "4950232246066917320",
+        "expiry_date": "2030-09-03",
+        "limit_amount": 36573.13482216521,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 239
+    },
+    {
+        "card_id": 188,
+        "card_number": "3516043122103956",
+        "expiry_date": "2027-03-14",
+        "limit_amount": 98056.92408151554,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 213
+    },
+    {
+        "card_id": 189,
+        "card_number": "3578342575758364",
+        "expiry_date": "2026-12-26",
+        "limit_amount": 82372.66130132147,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 269
+    },
+    {
+        "card_id": 190,
+        "card_number": "6011147530000713",
+        "expiry_date": "2026-10-31",
+        "limit_amount": 82401.59867695405,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 449
+    },
+    {
+        "card_id": 191,
+        "card_number": "6530422299109159",
+        "expiry_date": "2026-11-11",
+        "limit_amount": 12138.488266135213,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 377
+    },
+    {
+        "card_id": 192,
+        "card_number": "4628305089301946",
+        "expiry_date": "2028-02-15",
+        "limit_amount": 54008.76562298746,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 14
+    },
+    {
+        "card_id": 193,
+        "card_number": "4329952409454434",
+        "expiry_date": "2028-11-23",
+        "limit_amount": 34950.639999548555,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 59
+    },
+    {
+        "card_id": 194,
+        "card_number": "4811174662838972",
+        "expiry_date": "2029-10-06",
+        "limit_amount": 72059.0056757963,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 234
+    },
+    {
+        "card_id": 195,
+        "card_number": "561713223528",
+        "expiry_date": "2029-11-15",
+        "limit_amount": 6721.8289628943,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 291
+    },
+    {
+        "card_id": 196,
+        "card_number": "4459918939334919",
+        "expiry_date": "2026-11-28",
+        "limit_amount": 28611.682335599155,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 437
+    },
+    {
+        "card_id": 197,
+        "card_number": "4031893810527336",
+        "expiry_date": "2028-06-16",
+        "limit_amount": 87413.23750528022,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 325
+    },
+    {
+        "card_id": 198,
+        "card_number": "30272042541804",
+        "expiry_date": "2029-10-31",
+        "limit_amount": 98753.26911285569,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 6
+    },
+    {
+        "card_id": 199,
+        "card_number": "3568457905585378",
+        "expiry_date": "2028-05-30",
+        "limit_amount": 70627.01164976635,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 328
+    },
+    {
+        "card_id": 200,
+        "card_number": "213103976525068",
+        "expiry_date": "2029-01-29",
+        "limit_amount": 91600.77357655257,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 295
+    },
+    {
+        "card_id": 201,
+        "card_number": "348087401526809",
+        "expiry_date": "2030-03-13",
+        "limit_amount": 41134.98901751702,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 294
+    },
+    {
+        "card_id": 202,
+        "card_number": "6011760302995215",
+        "expiry_date": "2028-08-01",
+        "limit_amount": 6707.731596810642,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 247
+    },
+    {
+        "card_id": 203,
+        "card_number": "4149984928775542684",
+        "expiry_date": "2028-01-26",
+        "limit_amount": 27441.095885561957,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 349
+    },
+    {
+        "card_id": 204,
+        "card_number": "4030097755628486",
+        "expiry_date": "2028-11-02",
+        "limit_amount": 32723.154079148324,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 337
+    },
+    {
+        "card_id": 205,
+        "card_number": "342535112318094",
+        "expiry_date": "2029-10-30",
+        "limit_amount": 36579.762353746635,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 232
+    },
+    {
+        "card_id": 206,
+        "card_number": "4892897881334857955",
+        "expiry_date": "2029-04-11",
+        "limit_amount": 39480.148908800234,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 125
+    },
+    {
+        "card_id": 207,
+        "card_number": "3572963978041177",
+        "expiry_date": "2027-04-22",
+        "limit_amount": 29156.387010231705,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 16
+    },
+    {
+        "card_id": 208,
+        "card_number": "4884910004572288",
+        "expiry_date": "2027-09-06",
+        "limit_amount": 62519.48146129698,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 280
+    },
+    {
+        "card_id": 209,
+        "card_number": "4759994279430996632",
+        "expiry_date": "2029-07-19",
+        "limit_amount": 48226.560069913656,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 51
+    },
+    {
+        "card_id": 210,
+        "card_number": "5272591408950721",
+        "expiry_date": "2028-04-18",
+        "limit_amount": 10313.765124606958,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 394
+    },
+    {
+        "card_id": 211,
+        "card_number": "4527274186812654",
+        "expiry_date": "2029-10-11",
+        "limit_amount": 81790.94253674815,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 428
+    },
+    {
+        "card_id": 212,
+        "card_number": "3561969484817458",
+        "expiry_date": "2027-09-21",
+        "limit_amount": 87019.27718712251,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 213
+    },
+    {
+        "card_id": 213,
+        "card_number": "3555947733751908",
+        "expiry_date": "2028-01-21",
+        "limit_amount": 92892.84112900148,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 249
+    },
+    {
+        "card_id": 214,
+        "card_number": "4418125091429988",
+        "expiry_date": "2029-08-20",
+        "limit_amount": 75536.88648462096,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 57
+    },
+    {
+        "card_id": 215,
+        "card_number": "4171247017648",
+        "expiry_date": "2030-01-11",
+        "limit_amount": 74390.62468350831,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 50
+    },
+    {
+        "card_id": 216,
+        "card_number": "349917700636645",
+        "expiry_date": "2029-06-02",
+        "limit_amount": 55835.81764631256,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 424
+    },
+    {
+        "card_id": 217,
+        "card_number": "6011178158282895",
+        "expiry_date": "2030-03-10",
+        "limit_amount": 54257.57267427614,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 44
+    },
+    {
+        "card_id": 218,
+        "card_number": "4419020731970",
+        "expiry_date": "2027-10-29",
+        "limit_amount": 43312.85197260821,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 240
+    },
+    {
+        "card_id": 219,
+        "card_number": "4992377262768439",
+        "expiry_date": "2030-06-15",
+        "limit_amount": 58311.11358270176,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 304
+    },
+    {
+        "card_id": 220,
+        "card_number": "4768001127022332835",
+        "expiry_date": "2028-12-22",
+        "limit_amount": 98193.69674024406,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 392
+    },
+    {
+        "card_id": 221,
+        "card_number": "5106116888612633",
+        "expiry_date": "2028-12-09",
+        "limit_amount": 73960.18871644477,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 180
+    },
+    {
+        "card_id": 222,
+        "card_number": "341612451501332",
+        "expiry_date": "2027-03-25",
+        "limit_amount": 44447.85975370355,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 302
+    },
+    {
+        "card_id": 223,
+        "card_number": "4986169360678734642",
+        "expiry_date": "2029-02-15",
+        "limit_amount": 36705.51365212333,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 265
+    },
+    {
+        "card_id": 224,
+        "card_number": "4586897650796",
+        "expiry_date": "2028-01-20",
+        "limit_amount": 36412.84951644543,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 190
+    },
+    {
+        "card_id": 225,
+        "card_number": "4246706312829",
+        "expiry_date": "2028-03-11",
+        "limit_amount": 57041.26028010694,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 169
+    },
+    {
+        "card_id": 226,
+        "card_number": "6583694996463701",
+        "expiry_date": "2027-08-19",
+        "limit_amount": 73629.38631333862,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 310
+    },
+    {
+        "card_id": 227,
+        "card_number": "6011187941588468",
+        "expiry_date": "2029-03-05",
+        "limit_amount": 31762.076639394716,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 496
+    },
+    {
+        "card_id": 228,
+        "card_number": "375085711253623",
+        "expiry_date": "2027-07-12",
+        "limit_amount": 54616.76153123721,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 33
+    },
+    {
+        "card_id": 229,
+        "card_number": "4208117788294",
+        "expiry_date": "2028-12-14",
+        "limit_amount": 41160.410210424176,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 250
+    },
+    {
+        "card_id": 230,
+        "card_number": "3591053118250495",
+        "expiry_date": "2028-07-27",
+        "limit_amount": 64244.55943347027,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 57
+    },
+    {
+        "card_id": 231,
+        "card_number": "3509376931909513",
+        "expiry_date": "2027-06-30",
+        "limit_amount": 99139.31986098412,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 167
+    },
+    {
+        "card_id": 232,
+        "card_number": "2716860166757961",
+        "expiry_date": "2027-12-18",
+        "limit_amount": 6283.64491186141,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 485
+    },
+    {
+        "card_id": 233,
+        "card_number": "3556037197780509",
+        "expiry_date": "2030-05-05",
+        "limit_amount": 98019.80417706558,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 26
+    },
+    {
+        "card_id": 234,
+        "card_number": "3514780341563294",
+        "expiry_date": "2028-04-26",
+        "limit_amount": 44644.25363483589,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 412
+    },
+    {
+        "card_id": 235,
+        "card_number": "6011420586327250",
+        "expiry_date": "2028-01-19",
+        "limit_amount": 88056.14715525314,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 259
+    },
+    {
+        "card_id": 236,
+        "card_number": "570835514086",
+        "expiry_date": "2030-09-15",
+        "limit_amount": 17023.446417778465,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 171
+    },
+    {
+        "card_id": 237,
+        "card_number": "2280427902684747",
+        "expiry_date": "2027-08-21",
+        "limit_amount": 59131.02981683079,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 64
+    },
+    {
+        "card_id": 238,
+        "card_number": "4612217259165759282",
+        "expiry_date": "2028-03-04",
+        "limit_amount": 96901.04114077767,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 145
+    },
+    {
+        "card_id": 239,
+        "card_number": "675983433409",
+        "expiry_date": "2027-12-25",
+        "limit_amount": 94913.37032387545,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 248
+    },
+    {
+        "card_id": 240,
+        "card_number": "6596204360423805",
+        "expiry_date": "2029-07-01",
+        "limit_amount": 77536.51843323027,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 432
+    },
+    {
+        "card_id": 241,
+        "card_number": "2292854029177584",
+        "expiry_date": "2030-01-26",
+        "limit_amount": 85497.31210618922,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 472
+    },
+    {
+        "card_id": 242,
+        "card_number": "4577488436596946",
+        "expiry_date": "2027-04-14",
+        "limit_amount": 71785.10588318061,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 432
+    },
+    {
+        "card_id": 243,
+        "card_number": "4843936695422087",
+        "expiry_date": "2028-10-05",
+        "limit_amount": 16825.197875481987,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 274
+    },
+    {
+        "card_id": 244,
+        "card_number": "3580555593016426",
+        "expiry_date": "2028-03-31",
+        "limit_amount": 56488.696282063895,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 299
+    },
+    {
+        "card_id": 245,
+        "card_number": "180094920635781",
+        "expiry_date": "2029-04-12",
+        "limit_amount": 24136.60804362466,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 317
+    },
+    {
+        "card_id": 246,
+        "card_number": "5298620578214806",
+        "expiry_date": "2030-03-04",
+        "limit_amount": 70722.25324318706,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 308
+    },
+    {
+        "card_id": 247,
+        "card_number": "379054426112975",
+        "expiry_date": "2027-05-30",
+        "limit_amount": 26282.8114234678,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 252
+    },
+    {
+        "card_id": 248,
+        "card_number": "213199113646510",
+        "expiry_date": "2027-07-09",
+        "limit_amount": 68173.19086496677,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 298
+    },
+    {
+        "card_id": 249,
+        "card_number": "4421722362617682",
+        "expiry_date": "2030-05-14",
+        "limit_amount": 20905.005701104776,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 400
+    },
+    {
+        "card_id": 250,
+        "card_number": "4245675542288080122",
+        "expiry_date": "2030-06-09",
+        "limit_amount": 12565.931604843374,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 23
+    },
+    {
+        "card_id": 251,
+        "card_number": "30317009487457",
+        "expiry_date": "2027-06-28",
+        "limit_amount": 41386.81793282379,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 185
+    },
+    {
+        "card_id": 252,
+        "card_number": "3548919840072585",
+        "expiry_date": "2030-10-08",
+        "limit_amount": 51121.058635855705,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 259
+    },
+    {
+        "card_id": 253,
+        "card_number": "676217169629",
+        "expiry_date": "2028-09-30",
+        "limit_amount": 12242.67267045729,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 497
+    },
+    {
+        "card_id": 254,
+        "card_number": "3592367731210820",
+        "expiry_date": "2028-01-23",
+        "limit_amount": 68837.79330259646,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 143
+    },
+    {
+        "card_id": 255,
+        "card_number": "2264763373306869",
+        "expiry_date": "2027-09-16",
+        "limit_amount": 51581.40522756864,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 237
+    },
+    {
+        "card_id": 256,
+        "card_number": "3569703594956746",
+        "expiry_date": "2027-03-02",
+        "limit_amount": 70785.84606295897,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 44
+    },
+    {
+        "card_id": 257,
+        "card_number": "342999090659897",
+        "expiry_date": "2030-06-19",
+        "limit_amount": 36599.08400549534,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 420
+    },
+    {
+        "card_id": 258,
+        "card_number": "4739155823009992600",
+        "expiry_date": "2029-11-11",
+        "limit_amount": 29032.220732352267,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 408
+    },
+    {
+        "card_id": 259,
+        "card_number": "2244271071820350",
+        "expiry_date": "2028-05-05",
+        "limit_amount": 87730.0527158391,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 480
+    },
+    {
+        "card_id": 260,
+        "card_number": "6535241899667399",
+        "expiry_date": "2027-01-19",
+        "limit_amount": 27715.966286867428,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 23
+    },
+    {
+        "card_id": 261,
+        "card_number": "3521611373359742",
+        "expiry_date": "2029-07-31",
+        "limit_amount": 60593.74955814281,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 444
+    },
+    {
+        "card_id": 262,
+        "card_number": "213183395991299",
+        "expiry_date": "2028-03-25",
+        "limit_amount": 81512.56485546585,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 282
+    },
+    {
+        "card_id": 263,
+        "card_number": "6587684190741040",
+        "expiry_date": "2028-10-22",
+        "limit_amount": 26964.3212562827,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 424
+    },
+    {
+        "card_id": 264,
+        "card_number": "4181075737415393",
+        "expiry_date": "2026-11-21",
+        "limit_amount": 86028.98395928614,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 151
+    },
+    {
+        "card_id": 265,
+        "card_number": "4135807658232",
+        "expiry_date": "2027-11-05",
+        "limit_amount": 18266.660720242486,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 269
+    },
+    {
+        "card_id": 266,
+        "card_number": "3526321989373229",
+        "expiry_date": "2028-01-17",
+        "limit_amount": 99330.0479683991,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 329
+    },
+    {
+        "card_id": 267,
+        "card_number": "3521447086342380",
+        "expiry_date": "2029-11-15",
+        "limit_amount": 81036.92080924695,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 353
+    },
+    {
+        "card_id": 268,
+        "card_number": "6531029228059162",
+        "expiry_date": "2029-12-04",
+        "limit_amount": 14697.022669654212,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 323
+    },
+    {
+        "card_id": 269,
+        "card_number": "3570532451432765",
+        "expiry_date": "2029-05-05",
+        "limit_amount": 61359.83414393659,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 91
+    },
+    {
+        "card_id": 270,
+        "card_number": "373325809563604",
+        "expiry_date": "2030-04-18",
+        "limit_amount": 53553.5546016332,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 66
+    },
+    {
+        "card_id": 271,
+        "card_number": "4858949678251",
+        "expiry_date": "2027-11-18",
+        "limit_amount": 24930.696763390897,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 10
+    },
+    {
+        "card_id": 272,
+        "card_number": "3520805741785718",
+        "expiry_date": "2029-02-27",
+        "limit_amount": 11651.877059190352,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 95
+    },
+    {
+        "card_id": 273,
+        "card_number": "342776569749197",
+        "expiry_date": "2029-05-03",
+        "limit_amount": 13997.62219876902,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 471
+    },
+    {
+        "card_id": 274,
+        "card_number": "4248003147999",
+        "expiry_date": "2030-01-19",
+        "limit_amount": 55993.66373381352,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 44
+    },
+    {
+        "card_id": 275,
+        "card_number": "3549982296206031",
+        "expiry_date": "2030-02-26",
+        "limit_amount": 93834.54741853445,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 409
+    },
+    {
+        "card_id": 276,
+        "card_number": "5296502130692236",
+        "expiry_date": "2029-08-23",
+        "limit_amount": 68616.57268050539,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 20
+    },
+    {
+        "card_id": 277,
+        "card_number": "213164464353785",
+        "expiry_date": "2027-08-20",
+        "limit_amount": 86189.12727269906,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 55
+    },
+    {
+        "card_id": 278,
+        "card_number": "3503948047645128",
+        "expiry_date": "2029-12-09",
+        "limit_amount": 92577.0609743662,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 93
+    },
+    {
+        "card_id": 279,
+        "card_number": "3590566154518567",
+        "expiry_date": "2029-03-26",
+        "limit_amount": 59114.46939300846,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 135
+    },
+    {
+        "card_id": 280,
+        "card_number": "2243333704395274",
+        "expiry_date": "2029-01-22",
+        "limit_amount": 18807.254912885663,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 69
+    },
+    {
+        "card_id": 281,
+        "card_number": "4680602891044648",
+        "expiry_date": "2027-05-01",
+        "limit_amount": 94737.66358943058,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 241
+    },
+    {
+        "card_id": 282,
+        "card_number": "2236689145127595",
+        "expiry_date": "2028-05-14",
+        "limit_amount": 39519.84499051156,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 26
+    },
+    {
+        "card_id": 283,
+        "card_number": "6507832541869914",
+        "expiry_date": "2029-09-18",
+        "limit_amount": 44729.6191978651,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 331
+    },
+    {
+        "card_id": 284,
+        "card_number": "571896528171",
+        "expiry_date": "2027-06-30",
+        "limit_amount": 33717.242838592705,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 248
+    },
+    {
+        "card_id": 285,
+        "card_number": "3590036788553976",
+        "expiry_date": "2026-12-30",
+        "limit_amount": 69625.92394042425,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 53
+    },
+    {
+        "card_id": 286,
+        "card_number": "3522699525120491",
+        "expiry_date": "2028-07-10",
+        "limit_amount": 34420.561780315555,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 319
+    },
+    {
+        "card_id": 287,
+        "card_number": "3563174553607884",
+        "expiry_date": "2028-07-30",
+        "limit_amount": 86512.34434919129,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 72
+    },
+    {
+        "card_id": 288,
+        "card_number": "4374990706522366",
+        "expiry_date": "2026-12-23",
+        "limit_amount": 39173.74329705515,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 285
+    },
+    {
+        "card_id": 289,
+        "card_number": "3538665136209306",
+        "expiry_date": "2030-01-01",
+        "limit_amount": 33345.985242597635,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 411
+    },
+    {
+        "card_id": 290,
+        "card_number": "4614047973767",
+        "expiry_date": "2030-02-18",
+        "limit_amount": 45782.13812692291,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 254
+    },
+    {
+        "card_id": 291,
+        "card_number": "2270632774738628",
+        "expiry_date": "2030-09-20",
+        "limit_amount": 38246.02381864263,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 420
+    },
+    {
+        "card_id": 292,
+        "card_number": "341245785346825",
+        "expiry_date": "2028-02-19",
+        "limit_amount": 47618.553714977315,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 283
+    },
+    {
+        "card_id": 293,
+        "card_number": "180036794569844",
+        "expiry_date": "2029-08-31",
+        "limit_amount": 36148.850279029255,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 217
+    },
+    {
+        "card_id": 294,
+        "card_number": "3595623507604621",
+        "expiry_date": "2027-08-10",
+        "limit_amount": 35548.62636557806,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 257
+    },
+    {
+        "card_id": 295,
+        "card_number": "6011039010046383",
+        "expiry_date": "2029-07-26",
+        "limit_amount": 37528.221034531976,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 81
+    },
+    {
+        "card_id": 296,
+        "card_number": "4959037474086043",
+        "expiry_date": "2027-03-30",
+        "limit_amount": 51547.54056977158,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 151
+    },
+    {
+        "card_id": 297,
+        "card_number": "3550052478690455",
+        "expiry_date": "2028-10-28",
+        "limit_amount": 6856.507472618954,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 158
+    },
+    {
+        "card_id": 298,
+        "card_number": "060460825411",
+        "expiry_date": "2027-07-31",
+        "limit_amount": 40168.32341755682,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 86
+    },
+    {
+        "card_id": 299,
+        "card_number": "4740361558429000",
+        "expiry_date": "2029-02-09",
+        "limit_amount": 45146.420593856885,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 450
+    },
+    {
+        "card_id": 300,
+        "card_number": "3577470215089790",
+        "expiry_date": "2029-12-18",
+        "limit_amount": 81063.73000246755,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 196
+    },
+    {
+        "card_id": 301,
+        "card_number": "372454367457909",
+        "expiry_date": "2027-12-20",
+        "limit_amount": 88343.93544361115,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 93
+    },
+    {
+        "card_id": 302,
+        "card_number": "2720672734941868",
+        "expiry_date": "2029-02-13",
+        "limit_amount": 52905.4862269472,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 239
+    },
+    {
+        "card_id": 303,
+        "card_number": "4257612325547857139",
+        "expiry_date": "2026-12-26",
+        "limit_amount": 21144.371721123505,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 310
+    },
+    {
+        "card_id": 304,
+        "card_number": "2228509518815313",
+        "expiry_date": "2028-04-23",
+        "limit_amount": 70305.78322140884,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 29
+    },
+    {
+        "card_id": 305,
+        "card_number": "38114478152452",
+        "expiry_date": "2030-07-28",
+        "limit_amount": 9626.870761884413,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 87
+    },
+    {
+        "card_id": 306,
+        "card_number": "3590274371301061",
+        "expiry_date": "2027-05-28",
+        "limit_amount": 41835.837269154326,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 88
+    },
+    {
+        "card_id": 307,
+        "card_number": "4603603298869433",
+        "expiry_date": "2027-09-13",
+        "limit_amount": 69055.15053888503,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 233
+    },
+    {
+        "card_id": 308,
+        "card_number": "3521655585971349",
+        "expiry_date": "2029-05-24",
+        "limit_amount": 11768.244668291343,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 340
+    },
+    {
+        "card_id": 309,
+        "card_number": "38308048539764",
+        "expiry_date": "2029-05-24",
+        "limit_amount": 72759.20792291778,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 347
+    },
+    {
+        "card_id": 310,
+        "card_number": "36092430221916",
+        "expiry_date": "2029-07-13",
+        "limit_amount": 89500.17110787447,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 395
+    },
+    {
+        "card_id": 311,
+        "card_number": "573194902397",
+        "expiry_date": "2028-02-03",
+        "limit_amount": 62012.703315266175,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 50
+    },
+    {
+        "card_id": 312,
+        "card_number": "4100394054853687536",
+        "expiry_date": "2029-09-11",
+        "limit_amount": 32986.55230955167,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 445
+    },
+    {
+        "card_id": 313,
+        "card_number": "4482243265629001423",
+        "expiry_date": "2029-10-21",
+        "limit_amount": 32824.84492504437,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 30
+    },
+    {
+        "card_id": 314,
+        "card_number": "060421132857",
+        "expiry_date": "2030-09-10",
+        "limit_amount": 71055.68387684276,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 353
+    },
+    {
+        "card_id": 315,
+        "card_number": "6534825574213619",
+        "expiry_date": "2027-12-17",
+        "limit_amount": 89243.93645644085,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 437
+    },
+    {
+        "card_id": 316,
+        "card_number": "2255277167785767",
+        "expiry_date": "2030-05-26",
+        "limit_amount": 21668.14806208632,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 4
+    },
+    {
+        "card_id": 317,
+        "card_number": "501823686115",
+        "expiry_date": "2027-09-21",
+        "limit_amount": 43396.64915728106,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 299
+    },
+    {
+        "card_id": 318,
+        "card_number": "379618540359538",
+        "expiry_date": "2026-11-04",
+        "limit_amount": 16870.421992563457,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 30
+    },
+    {
+        "card_id": 319,
+        "card_number": "4713242355907747075",
+        "expiry_date": "2028-10-06",
+        "limit_amount": 48843.53078104821,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 442
+    },
+    {
+        "card_id": 320,
+        "card_number": "6011482950375232",
+        "expiry_date": "2030-03-10",
+        "limit_amount": 26203.621357921536,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 285
+    },
+    {
+        "card_id": 321,
+        "card_number": "372988395050541",
+        "expiry_date": "2028-08-29",
+        "limit_amount": 58699.666992915605,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 158
+    },
+    {
+        "card_id": 322,
+        "card_number": "2223181540699076",
+        "expiry_date": "2027-04-22",
+        "limit_amount": 76666.22803036797,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 144
+    },
+    {
+        "card_id": 323,
+        "card_number": "4536381485458813",
+        "expiry_date": "2029-12-09",
+        "limit_amount": 33898.28189039277,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 351
+    },
+    {
+        "card_id": 324,
+        "card_number": "4904833336620",
+        "expiry_date": "2028-03-28",
+        "limit_amount": 73238.3249894118,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 249
+    },
+    {
+        "card_id": 325,
+        "card_number": "2240786379413305",
+        "expiry_date": "2030-01-10",
+        "limit_amount": 13590.598873354,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 321
+    },
+    {
+        "card_id": 326,
+        "card_number": "213177295723208",
+        "expiry_date": "2027-12-03",
+        "limit_amount": 56273.184685259905,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 311
+    },
+    {
+        "card_id": 327,
+        "card_number": "6011037724171604",
+        "expiry_date": "2030-07-17",
+        "limit_amount": 82562.60121787614,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 210
+    },
+    {
+        "card_id": 328,
+        "card_number": "4204703781995845111",
+        "expiry_date": "2028-09-10",
+        "limit_amount": 99411.72136378106,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 74
+    },
+    {
+        "card_id": 329,
+        "card_number": "4113201305890568",
+        "expiry_date": "2029-03-25",
+        "limit_amount": 41158.6139698982,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 373
+    },
+    {
+        "card_id": 330,
+        "card_number": "3550649491282325",
+        "expiry_date": "2027-02-12",
+        "limit_amount": 24494.843605270282,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 451
+    },
+    {
+        "card_id": 331,
+        "card_number": "30323592951966",
+        "expiry_date": "2028-02-23",
+        "limit_amount": 27937.81155572374,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 118
+    },
+    {
+        "card_id": 332,
+        "card_number": "2287147784753799",
+        "expiry_date": "2028-03-07",
+        "limit_amount": 28397.217497769165,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 443
+    },
+    {
+        "card_id": 333,
+        "card_number": "675954965694",
+        "expiry_date": "2028-02-08",
+        "limit_amount": 17648.00399876364,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 442
+    },
+    {
+        "card_id": 334,
+        "card_number": "4541160651507436",
+        "expiry_date": "2028-05-26",
+        "limit_amount": 84005.75763423296,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 135
+    },
+    {
+        "card_id": 335,
+        "card_number": "379978659111017",
+        "expiry_date": "2028-03-25",
+        "limit_amount": 47555.308204839035,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 52
+    },
+    {
+        "card_id": 336,
+        "card_number": "6011687990851683",
+        "expiry_date": "2030-02-13",
+        "limit_amount": 59464.85706660607,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 157
+    },
+    {
+        "card_id": 337,
+        "card_number": "347195760594804",
+        "expiry_date": "2028-09-01",
+        "limit_amount": 20142.969226309924,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 414
+    },
+    {
+        "card_id": 338,
+        "card_number": "4658491868064",
+        "expiry_date": "2027-09-13",
+        "limit_amount": 49632.06305983588,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 109
+    },
+    {
+        "card_id": 339,
+        "card_number": "4989151644754150789",
+        "expiry_date": "2028-07-19",
+        "limit_amount": 81267.43847241136,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 136
+    },
+    {
+        "card_id": 340,
+        "card_number": "38501619808564",
+        "expiry_date": "2030-02-21",
+        "limit_amount": 40058.90372765305,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 122
+    },
+    {
+        "card_id": 341,
+        "card_number": "4162427614925957",
+        "expiry_date": "2027-11-02",
+        "limit_amount": 62510.351328896206,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 46
+    },
+    {
+        "card_id": 342,
+        "card_number": "3558796917241088",
+        "expiry_date": "2027-08-15",
+        "limit_amount": 87803.06861782742,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 272
+    },
+    {
+        "card_id": 343,
+        "card_number": "30079014168338",
+        "expiry_date": "2027-08-23",
+        "limit_amount": 81672.41205866402,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 155
+    },
+    {
+        "card_id": 344,
+        "card_number": "3503371575483954",
+        "expiry_date": "2030-02-12",
+        "limit_amount": 23621.50748942003,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 112
+    },
+    {
+        "card_id": 345,
+        "card_number": "4072303402197795",
+        "expiry_date": "2027-06-03",
+        "limit_amount": 80278.05714289861,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 342
+    },
+    {
+        "card_id": 346,
+        "card_number": "4429119300430876",
+        "expiry_date": "2030-01-13",
+        "limit_amount": 34005.524598513526,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 97
+    },
+    {
+        "card_id": 347,
+        "card_number": "4852226114579746154",
+        "expiry_date": "2028-06-20",
+        "limit_amount": 82764.7302997275,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 192
+    },
+    {
+        "card_id": 348,
+        "card_number": "213110352413132",
+        "expiry_date": "2027-01-05",
+        "limit_amount": 45061.49053508645,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 265
+    },
+    {
+        "card_id": 349,
+        "card_number": "4416872738424698",
+        "expiry_date": "2028-02-14",
+        "limit_amount": 11735.129321471559,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 148
+    },
+    {
+        "card_id": 350,
+        "card_number": "4432954116449214",
+        "expiry_date": "2029-06-19",
+        "limit_amount": 9499.752510283004,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 423
+    },
+    {
+        "card_id": 351,
+        "card_number": "4565553945013818",
+        "expiry_date": "2026-11-04",
+        "limit_amount": 71639.23789975196,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 188
+    },
+    {
+        "card_id": 352,
+        "card_number": "4217071620935843",
+        "expiry_date": "2027-04-11",
+        "limit_amount": 73404.7334577904,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 220
+    },
+    {
+        "card_id": 353,
+        "card_number": "2335614775367816",
+        "expiry_date": "2028-08-04",
+        "limit_amount": 5430.7447282151825,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 54
+    },
+    {
+        "card_id": 354,
+        "card_number": "4884937706774698",
+        "expiry_date": "2030-08-20",
+        "limit_amount": 33933.19201284305,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 79
+    },
+    {
+        "card_id": 355,
+        "card_number": "3548485218722409",
+        "expiry_date": "2030-08-06",
+        "limit_amount": 18409.944923556686,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 146
+    },
+    {
+        "card_id": 356,
+        "card_number": "675934223461",
+        "expiry_date": "2029-11-30",
+        "limit_amount": 54786.157850843076,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 124
+    },
+    {
+        "card_id": 357,
+        "card_number": "4988535240479",
+        "expiry_date": "2029-10-04",
+        "limit_amount": 56791.668715159256,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 446
+    },
+    {
+        "card_id": 358,
+        "card_number": "3523764235567776",
+        "expiry_date": "2028-11-23",
+        "limit_amount": 13790.68911332354,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 240
+    },
+    {
+        "card_id": 359,
+        "card_number": "3501150162667589",
+        "expiry_date": "2027-07-21",
+        "limit_amount": 9818.793251336261,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 132
+    },
+    {
+        "card_id": 360,
+        "card_number": "30332890062095",
+        "expiry_date": "2029-01-01",
+        "limit_amount": 71005.70453042747,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 265
+    },
+    {
+        "card_id": 361,
+        "card_number": "502035507826",
+        "expiry_date": "2028-05-11",
+        "limit_amount": 62581.06485416452,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 187
+    },
+    {
+        "card_id": 362,
+        "card_number": "30192867637570",
+        "expiry_date": "2027-08-18",
+        "limit_amount": 52397.52201424367,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 158
+    },
+    {
+        "card_id": 363,
+        "card_number": "30568685687212",
+        "expiry_date": "2027-12-26",
+        "limit_amount": 56068.83341447043,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 54
+    },
+    {
+        "card_id": 364,
+        "card_number": "2720685154416716",
+        "expiry_date": "2030-05-18",
+        "limit_amount": 20234.165850179248,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 333
+    },
+    {
+        "card_id": 365,
+        "card_number": "3575712237593271",
+        "expiry_date": "2030-03-08",
+        "limit_amount": 90914.08397939175,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 5
+    },
+    {
+        "card_id": 366,
+        "card_number": "4586879332362064528",
+        "expiry_date": "2027-02-14",
+        "limit_amount": 37045.129524609394,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 395
+    },
+    {
+        "card_id": 367,
+        "card_number": "180004856258136",
+        "expiry_date": "2028-05-03",
+        "limit_amount": 74910.15214268737,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 372
+    },
+    {
+        "card_id": 368,
+        "card_number": "3520297615090914",
+        "expiry_date": "2030-10-18",
+        "limit_amount": 27723.91693095805,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 459
+    },
+    {
+        "card_id": 369,
+        "card_number": "213169992351227",
+        "expiry_date": "2029-01-16",
+        "limit_amount": 97272.88787680113,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 225
+    },
+    {
+        "card_id": 370,
+        "card_number": "30580600892298",
+        "expiry_date": "2030-05-31",
+        "limit_amount": 69966.27228209034,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 460
+    },
+    {
+        "card_id": 371,
+        "card_number": "213126208449351",
+        "expiry_date": "2029-02-10",
+        "limit_amount": 82306.91216746296,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 63
+    },
+    {
+        "card_id": 372,
+        "card_number": "180092739137353",
+        "expiry_date": "2027-04-13",
+        "limit_amount": 60794.78163523349,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 153
+    },
+    {
+        "card_id": 373,
+        "card_number": "3556395502547876",
+        "expiry_date": "2030-02-04",
+        "limit_amount": 55225.843526590266,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 271
+    },
+    {
+        "card_id": 374,
+        "card_number": "4127098540126830",
+        "expiry_date": "2030-10-07",
+        "limit_amount": 19406.944984451897,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 215
+    },
+    {
+        "card_id": 375,
+        "card_number": "3554974075728790",
+        "expiry_date": "2030-03-13",
+        "limit_amount": 58241.72836397251,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 156
+    },
+    {
+        "card_id": 376,
+        "card_number": "4146139261713695210",
+        "expiry_date": "2030-01-27",
+        "limit_amount": 14314.091455809858,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 134
+    },
+    {
+        "card_id": 377,
+        "card_number": "180075144095316",
+        "expiry_date": "2030-08-15",
+        "limit_amount": 82763.3742330988,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 200
+    },
+    {
+        "card_id": 378,
+        "card_number": "4767359115182850183",
+        "expiry_date": "2028-11-04",
+        "limit_amount": 52506.03228245439,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 281
+    },
+    {
+        "card_id": 379,
+        "card_number": "4985566286695516",
+        "expiry_date": "2029-01-07",
+        "limit_amount": 59945.8367820662,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 167
+    },
+    {
+        "card_id": 380,
+        "card_number": "6532119745102279",
+        "expiry_date": "2030-06-06",
+        "limit_amount": 47957.87122259689,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 99
+    },
+    {
+        "card_id": 381,
+        "card_number": "3555189596522635",
+        "expiry_date": "2029-05-15",
+        "limit_amount": 80799.7680233629,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 277
+    },
+    {
+        "card_id": 382,
+        "card_number": "6522302131313419",
+        "expiry_date": "2027-10-15",
+        "limit_amount": 59167.32277785148,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 494
+    },
+    {
+        "card_id": 383,
+        "card_number": "4054690491472358",
+        "expiry_date": "2030-10-06",
+        "limit_amount": 55478.98696427063,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 414
+    },
+    {
+        "card_id": 384,
+        "card_number": "3532402221381527",
+        "expiry_date": "2027-06-02",
+        "limit_amount": 38340.746560602835,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 383
+    },
+    {
+        "card_id": 385,
+        "card_number": "30477714869819",
+        "expiry_date": "2027-07-18",
+        "limit_amount": 93213.18495241785,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 86
+    },
+    {
+        "card_id": 386,
+        "card_number": "30489308021590",
+        "expiry_date": "2028-11-07",
+        "limit_amount": 25250.070531349324,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 472
+    },
+    {
+        "card_id": 387,
+        "card_number": "3583983669541050",
+        "expiry_date": "2027-09-29",
+        "limit_amount": 25902.971225564022,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 443
+    },
+    {
+        "card_id": 388,
+        "card_number": "4807064978781246",
+        "expiry_date": "2030-03-02",
+        "limit_amount": 24716.586891128598,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 178
+    },
+    {
+        "card_id": 389,
+        "card_number": "2703713878755747",
+        "expiry_date": "2029-02-11",
+        "limit_amount": 56401.32202030507,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 442
+    },
+    {
+        "card_id": 390,
+        "card_number": "4470088396528570",
+        "expiry_date": "2030-07-17",
+        "limit_amount": 47352.057835807136,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 191
+    },
+    {
+        "card_id": 391,
+        "card_number": "6572548524135533",
+        "expiry_date": "2029-05-04",
+        "limit_amount": 95450.52423300144,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 375
+    },
+    {
+        "card_id": 392,
+        "card_number": "2272864945928212",
+        "expiry_date": "2029-01-02",
+        "limit_amount": 39981.982812787544,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 35
+    },
+    {
+        "card_id": 393,
+        "card_number": "3595548958075593",
+        "expiry_date": "2030-07-02",
+        "limit_amount": 15471.511841482064,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 336
+    },
+    {
+        "card_id": 394,
+        "card_number": "4169509470587147",
+        "expiry_date": "2026-11-23",
+        "limit_amount": 31177.422121650336,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 204
+    },
+    {
+        "card_id": 395,
+        "card_number": "4257430882682429603",
+        "expiry_date": "2028-03-24",
+        "limit_amount": 53874.4357887622,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 186
+    },
+    {
+        "card_id": 396,
+        "card_number": "4907668878582",
+        "expiry_date": "2027-05-22",
+        "limit_amount": 33817.86781364055,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 222
+    },
+    {
+        "card_id": 397,
+        "card_number": "675902863652",
+        "expiry_date": "2027-06-29",
+        "limit_amount": 62049.255472362296,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 208
+    },
+    {
+        "card_id": 398,
+        "card_number": "6011664434724461",
+        "expiry_date": "2027-01-25",
+        "limit_amount": 34642.765223159986,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 301
+    },
+    {
+        "card_id": 399,
+        "card_number": "4742321354865",
+        "expiry_date": "2027-03-03",
+        "limit_amount": 56901.71249942685,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 34
+    },
+    {
+        "card_id": 400,
+        "card_number": "372643483462872",
+        "expiry_date": "2027-08-31",
+        "limit_amount": 71912.34116578559,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 40
+    },
+    {
+        "card_id": 401,
+        "card_number": "5559337321422370",
+        "expiry_date": "2027-07-11",
+        "limit_amount": 26406.57780744258,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 194
+    },
+    {
+        "card_id": 402,
+        "card_number": "4004671749604092",
+        "expiry_date": "2026-12-25",
+        "limit_amount": 58761.47927349899,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 189
+    },
+    {
+        "card_id": 403,
+        "card_number": "4493341380122",
+        "expiry_date": "2027-03-03",
+        "limit_amount": 30132.713881491243,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 122
+    },
+    {
+        "card_id": 404,
+        "card_number": "501895333562",
+        "expiry_date": "2030-09-03",
+        "limit_amount": 74515.86543162297,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 38
+    },
+    {
+        "card_id": 405,
+        "card_number": "213184435637587",
+        "expiry_date": "2029-11-28",
+        "limit_amount": 81962.27571058171,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 134
+    },
+    {
+        "card_id": 406,
+        "card_number": "3534784808403164",
+        "expiry_date": "2030-05-06",
+        "limit_amount": 48411.65464104296,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 260
+    },
+    {
+        "card_id": 407,
+        "card_number": "4107847682307762535",
+        "expiry_date": "2030-09-09",
+        "limit_amount": 24572.554425262104,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 326
+    },
+    {
+        "card_id": 408,
+        "card_number": "060486617206",
+        "expiry_date": "2029-05-20",
+        "limit_amount": 76868.28639389531,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 173
+    },
+    {
+        "card_id": 409,
+        "card_number": "3500232875818377",
+        "expiry_date": "2028-05-14",
+        "limit_amount": 90747.05454356098,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 3
+    },
+    {
+        "card_id": 410,
+        "card_number": "4650867452916644670",
+        "expiry_date": "2028-02-02",
+        "limit_amount": 95840.6260032273,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 445
+    },
+    {
+        "card_id": 411,
+        "card_number": "4448193080235398",
+        "expiry_date": "2030-01-22",
+        "limit_amount": 55620.363879415265,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 445
+    },
+    {
+        "card_id": 412,
+        "card_number": "375210585005541",
+        "expiry_date": "2028-10-11",
+        "limit_amount": 50863.15463225985,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 245
+    },
+    {
+        "card_id": 413,
+        "card_number": "4692766456685",
+        "expiry_date": "2029-12-18",
+        "limit_amount": 62664.52180907837,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 217
+    },
+    {
+        "card_id": 414,
+        "card_number": "2269726256374473",
+        "expiry_date": "2029-11-07",
+        "limit_amount": 71640.391733756,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 364
+    },
+    {
+        "card_id": 415,
+        "card_number": "213140165964484",
+        "expiry_date": "2028-04-02",
+        "limit_amount": 84256.81234228818,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 27
+    },
+    {
+        "card_id": 416,
+        "card_number": "3523033524371146",
+        "expiry_date": "2028-08-01",
+        "limit_amount": 41310.142247280535,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 316
+    },
+    {
+        "card_id": 417,
+        "card_number": "30132181652632",
+        "expiry_date": "2028-07-18",
+        "limit_amount": 46705.02104952953,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 264
+    },
+    {
+        "card_id": 418,
+        "card_number": "180045448954690",
+        "expiry_date": "2028-08-20",
+        "limit_amount": 29889.59029401241,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 338
+    },
+    {
+        "card_id": 419,
+        "card_number": "38279449680707",
+        "expiry_date": "2030-03-13",
+        "limit_amount": 26327.691632491526,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 138
+    },
+    {
+        "card_id": 420,
+        "card_number": "6011605561735036",
+        "expiry_date": "2027-09-19",
+        "limit_amount": 25179.281369450317,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 10
+    },
+    {
+        "card_id": 421,
+        "card_number": "4371510726193890",
+        "expiry_date": "2028-03-31",
+        "limit_amount": 5831.306399018387,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 489
+    },
+    {
+        "card_id": 422,
+        "card_number": "060435000769",
+        "expiry_date": "2029-12-22",
+        "limit_amount": 47717.090426346374,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 435
+    },
+    {
+        "card_id": 423,
+        "card_number": "5349175304563025",
+        "expiry_date": "2027-11-19",
+        "limit_amount": 19281.214233969862,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 23
+    },
+    {
+        "card_id": 424,
+        "card_number": "4691682075436304",
+        "expiry_date": "2029-09-08",
+        "limit_amount": 7630.442176004466,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 80
+    },
+    {
+        "card_id": 425,
+        "card_number": "213152191383084",
+        "expiry_date": "2029-08-18",
+        "limit_amount": 73877.55017604888,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 17
+    },
+    {
+        "card_id": 426,
+        "card_number": "213154793607977",
+        "expiry_date": "2027-09-23",
+        "limit_amount": 22668.625695100538,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 327
+    },
+    {
+        "card_id": 427,
+        "card_number": "373583548476153",
+        "expiry_date": "2027-09-07",
+        "limit_amount": 53005.83765729461,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 88
+    },
+    {
+        "card_id": 428,
+        "card_number": "4367756711357059",
+        "expiry_date": "2030-01-19",
+        "limit_amount": 77003.69444694485,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 307
+    },
+    {
+        "card_id": 429,
+        "card_number": "180052303375615",
+        "expiry_date": "2029-04-03",
+        "limit_amount": 83344.747463338,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 312
+    },
+    {
+        "card_id": 430,
+        "card_number": "2294859285538419",
+        "expiry_date": "2028-10-09",
+        "limit_amount": 71993.68765486583,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 405
+    },
+    {
+        "card_id": 431,
+        "card_number": "213147465728097",
+        "expiry_date": "2028-08-03",
+        "limit_amount": 90240.92107336395,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 82
+    },
+    {
+        "card_id": 432,
+        "card_number": "6544925110418405",
+        "expiry_date": "2028-08-17",
+        "limit_amount": 10727.297227649573,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 85
+    },
+    {
+        "card_id": 433,
+        "card_number": "6558411249517220",
+        "expiry_date": "2029-05-21",
+        "limit_amount": 7263.4508818161175,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 20
+    },
+    {
+        "card_id": 434,
+        "card_number": "3582622561007155",
+        "expiry_date": "2028-08-12",
+        "limit_amount": 73101.10089090327,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 13
+    },
+    {
+        "card_id": 435,
+        "card_number": "676188296237",
+        "expiry_date": "2030-08-25",
+        "limit_amount": 79826.78121419263,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 106
+    },
+    {
+        "card_id": 436,
+        "card_number": "6551060956072460",
+        "expiry_date": "2028-12-21",
+        "limit_amount": 74584.61611189989,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 101
+    },
+    {
+        "card_id": 437,
+        "card_number": "213115882067985",
+        "expiry_date": "2027-04-15",
+        "limit_amount": 87253.4419806055,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 456
+    },
+    {
+        "card_id": 438,
+        "card_number": "349014649155778",
+        "expiry_date": "2029-05-19",
+        "limit_amount": 33704.497658188615,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 278
+    },
+    {
+        "card_id": 439,
+        "card_number": "586307442069",
+        "expiry_date": "2030-02-17",
+        "limit_amount": 76327.31783186123,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 212
+    },
+    {
+        "card_id": 440,
+        "card_number": "30244755116934",
+        "expiry_date": "2027-04-27",
+        "limit_amount": 97683.84979681174,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 339
+    },
+    {
+        "card_id": 441,
+        "card_number": "4389990128409278",
+        "expiry_date": "2030-03-20",
+        "limit_amount": 27534.54748973731,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 47
+    },
+    {
+        "card_id": 442,
+        "card_number": "4911361815110255",
+        "expiry_date": "2027-11-09",
+        "limit_amount": 46704.59981590362,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 35
+    },
+    {
+        "card_id": 443,
+        "card_number": "582330102747",
+        "expiry_date": "2029-10-13",
+        "limit_amount": 20273.871429972853,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 242
+    },
+    {
+        "card_id": 444,
+        "card_number": "4544613524833717",
+        "expiry_date": "2027-10-18",
+        "limit_amount": 95440.47844895582,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 426
+    },
+    {
+        "card_id": 445,
+        "card_number": "180072570394305",
+        "expiry_date": "2028-08-17",
+        "limit_amount": 90261.99538978269,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 440
+    },
+    {
+        "card_id": 446,
+        "card_number": "4181974407061547",
+        "expiry_date": "2026-11-26",
+        "limit_amount": 96918.72957779998,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 412
+    },
+    {
+        "card_id": 447,
+        "card_number": "676189432898",
+        "expiry_date": "2028-12-19",
+        "limit_amount": 13253.610246268243,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 370
+    },
+    {
+        "card_id": 448,
+        "card_number": "346984998735151",
+        "expiry_date": "2028-09-27",
+        "limit_amount": 10688.564662183086,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 112
+    },
+    {
+        "card_id": 449,
+        "card_number": "4571333064600576",
+        "expiry_date": "2029-11-16",
+        "limit_amount": 11477.51121032799,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 466
+    },
+    {
+        "card_id": 450,
+        "card_number": "3566760249566596",
+        "expiry_date": "2027-10-08",
+        "limit_amount": 66574.9928869839,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 498
+    },
+    {
+        "card_id": 451,
+        "card_number": "6547212400041081",
+        "expiry_date": "2028-06-27",
+        "limit_amount": 83860.95957734418,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 15
+    },
+    {
+        "card_id": 452,
+        "card_number": "4136134268848164430",
+        "expiry_date": "2028-08-10",
+        "limit_amount": 99270.66654251094,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 337
+    },
+    {
+        "card_id": 453,
+        "card_number": "30531197385493",
+        "expiry_date": "2028-07-08",
+        "limit_amount": 86596.60603810367,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 239
+    },
+    {
+        "card_id": 454,
+        "card_number": "3574701865358470",
+        "expiry_date": "2027-06-22",
+        "limit_amount": 38462.512863329364,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 333
+    },
+    {
+        "card_id": 455,
+        "card_number": "4217286669748705",
+        "expiry_date": "2027-09-01",
+        "limit_amount": 34805.7105624727,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 306
+    },
+    {
+        "card_id": 456,
+        "card_number": "4144702347594",
+        "expiry_date": "2028-08-05",
+        "limit_amount": 74286.28213416628,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 256
+    },
+    {
+        "card_id": 457,
+        "card_number": "4287008556188835609",
+        "expiry_date": "2029-07-19",
+        "limit_amount": 34491.59892891113,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 378
+    },
+    {
+        "card_id": 458,
+        "card_number": "4615375047478794174",
+        "expiry_date": "2028-11-01",
+        "limit_amount": 87480.46280375171,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 378
+    },
+    {
+        "card_id": 459,
+        "card_number": "4833844503860179",
+        "expiry_date": "2029-01-04",
+        "limit_amount": 67365.26834898267,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 335
+    },
+    {
+        "card_id": 460,
+        "card_number": "213130811749017",
+        "expiry_date": "2026-11-13",
+        "limit_amount": 45734.94969745878,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 341
+    },
+    {
+        "card_id": 461,
+        "card_number": "2444868557192309",
+        "expiry_date": "2029-09-04",
+        "limit_amount": 81955.17509623837,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 39
+    },
+    {
+        "card_id": 462,
+        "card_number": "4043905349004458",
+        "expiry_date": "2028-07-15",
+        "limit_amount": 67704.36534738414,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 457
+    },
+    {
+        "card_id": 463,
+        "card_number": "4765446641775",
+        "expiry_date": "2028-01-25",
+        "limit_amount": 66756.64413471654,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 220
+    },
+    {
+        "card_id": 464,
+        "card_number": "3540736332451038",
+        "expiry_date": "2028-04-10",
+        "limit_amount": 88442.01068367003,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 341
+    },
+    {
+        "card_id": 465,
+        "card_number": "30356332135045",
+        "expiry_date": "2030-02-08",
+        "limit_amount": 81091.97343641747,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 170
+    },
+    {
+        "card_id": 466,
+        "card_number": "213134519270789",
+        "expiry_date": "2030-06-18",
+        "limit_amount": 82154.8441097359,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 199
+    },
+    {
+        "card_id": 467,
+        "card_number": "5347377325231986",
+        "expiry_date": "2027-02-13",
+        "limit_amount": 58694.15594189151,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 321
+    },
+    {
+        "card_id": 468,
+        "card_number": "4164245715314857",
+        "expiry_date": "2029-08-07",
+        "limit_amount": 41515.47251180782,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 186
+    },
+    {
+        "card_id": 469,
+        "card_number": "6513625487853872",
+        "expiry_date": "2026-11-06",
+        "limit_amount": 93965.07076690129,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 238
+    },
+    {
+        "card_id": 470,
+        "card_number": "6011556980939263",
+        "expiry_date": "2028-05-03",
+        "limit_amount": 42958.826727686326,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 222
+    },
+    {
+        "card_id": 471,
+        "card_number": "4077173634297076",
+        "expiry_date": "2028-08-11",
+        "limit_amount": 63455.76318104555,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 318
+    },
+    {
+        "card_id": 472,
+        "card_number": "4037343767846184",
+        "expiry_date": "2028-06-14",
+        "limit_amount": 54520.81904728417,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 245
+    },
+    {
+        "card_id": 473,
+        "card_number": "4692502149163990",
+        "expiry_date": "2026-11-26",
+        "limit_amount": 69029.90256654736,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 31
+    },
+    {
+        "card_id": 474,
+        "card_number": "4365216848526383",
+        "expiry_date": "2030-01-16",
+        "limit_amount": 24791.07866664437,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 111
+    },
+    {
+        "card_id": 475,
+        "card_number": "3535515783384527",
+        "expiry_date": "2027-08-28",
+        "limit_amount": 16452.132344388825,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 406
+    },
+    {
+        "card_id": 476,
+        "card_number": "4923789919466406433",
+        "expiry_date": "2028-11-27",
+        "limit_amount": 28467.088387929947,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 139
+    },
+    {
+        "card_id": 477,
+        "card_number": "30526098939315",
+        "expiry_date": "2027-09-02",
+        "limit_amount": 25689.514367248077,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 61
+    },
+    {
+        "card_id": 478,
+        "card_number": "180096351873971",
+        "expiry_date": "2028-04-04",
+        "limit_amount": 94940.88173592855,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 344
+    },
+    {
+        "card_id": 479,
+        "card_number": "2246621959645741",
+        "expiry_date": "2030-09-16",
+        "limit_amount": 73949.26397073425,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 298
+    },
+    {
+        "card_id": 480,
+        "card_number": "2278995343624211",
+        "expiry_date": "2029-04-09",
+        "limit_amount": 26720.059670573275,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 387
+    },
+    {
+        "card_id": 481,
+        "card_number": "4013657099411",
+        "expiry_date": "2028-02-05",
+        "limit_amount": 89993.68471554812,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 205
+    },
+    {
+        "card_id": 482,
+        "card_number": "4446945537350415",
+        "expiry_date": "2030-06-29",
+        "limit_amount": 52413.36101377695,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 69
+    },
+    {
+        "card_id": 483,
+        "card_number": "340159354092846",
+        "expiry_date": "2029-07-17",
+        "limit_amount": 12426.053204608343,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 267
+    },
+    {
+        "card_id": 484,
+        "card_number": "372775953788574",
+        "expiry_date": "2030-05-30",
+        "limit_amount": 54537.05132146891,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 341
+    },
+    {
+        "card_id": 485,
+        "card_number": "371095826849953",
+        "expiry_date": "2028-04-09",
+        "limit_amount": 60793.164905493686,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 373
+    },
+    {
+        "card_id": 486,
+        "card_number": "6011220100272796",
+        "expiry_date": "2030-03-18",
+        "limit_amount": 69929.56197008677,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 216
+    },
+    {
+        "card_id": 487,
+        "card_number": "4058143508736023",
+        "expiry_date": "2029-10-06",
+        "limit_amount": 91476.85186799167,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 109
+    },
+    {
+        "card_id": 488,
+        "card_number": "4835451552818419",
+        "expiry_date": "2030-08-06",
+        "limit_amount": 90003.64844111176,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 143
+    },
+    {
+        "card_id": 489,
+        "card_number": "213140293506215",
+        "expiry_date": "2030-08-16",
+        "limit_amount": 35085.259385820566,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 257
+    },
+    {
+        "card_id": 490,
+        "card_number": "30592108898339",
+        "expiry_date": "2030-02-13",
+        "limit_amount": 24396.59128516908,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 174
+    },
+    {
+        "card_id": 491,
+        "card_number": "676397733343",
+        "expiry_date": "2027-07-03",
+        "limit_amount": 51888.807754521156,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 486
+    },
+    {
+        "card_id": 492,
+        "card_number": "3536429457129235",
+        "expiry_date": "2027-08-27",
+        "limit_amount": 46403.10310039536,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 340
+    },
+    {
+        "card_id": 493,
+        "card_number": "3575296272654073",
+        "expiry_date": "2029-04-28",
+        "limit_amount": 53189.47169991537,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 404
+    },
+    {
+        "card_id": 494,
+        "card_number": "6011592481432250",
+        "expiry_date": "2027-01-29",
+        "limit_amount": 87591.61629861864,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 420
+    },
+    {
+        "card_id": 495,
+        "card_number": "3581806437695951",
+        "expiry_date": "2028-01-24",
+        "limit_amount": 39133.13608675558,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 319
+    },
+    {
+        "card_id": 496,
+        "card_number": "4831965900322901",
+        "expiry_date": "2029-06-30",
+        "limit_amount": 80393.01471138485,
+        "card_type": "Credit",
+        "card_status": "Blocked",
+        "client_id": 270
+    },
+    {
+        "card_id": 497,
+        "card_number": "4900099092123314748",
+        "expiry_date": "2029-11-20",
+        "limit_amount": 80842.1568904168,
+        "card_type": "Debit",
+        "card_status": "Blocked",
+        "client_id": 199
+    },
+    {
+        "card_id": 498,
+        "card_number": "213107120221482",
+        "expiry_date": "2028-07-23",
+        "limit_amount": 22072.661091748017,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 135
+    },
+    {
+        "card_id": 499,
+        "card_number": "4677111799237978",
+        "expiry_date": "2030-08-18",
+        "limit_amount": 36661.696416587496,
+        "card_type": "Debit",
+        "card_status": "Active",
+        "client_id": 244
+    },
+    {
+        "card_id": 500,
+        "card_number": "639039115956",
+        "expiry_date": "2027-06-12",
+        "limit_amount": 99650.3604719661,
+        "card_type": "Credit",
+        "card_status": "Active",
+        "client_id": 464
+    }
+]

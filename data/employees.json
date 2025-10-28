@@ -1,0 +1,4502 @@
+[
+    {
+        "employee_id": 1,
+        "emp_first_name": "Dominique",
+        "emp_last_name": "Mason",
+        "emp_role": "Clerk",
+        "phone_ext": "4447",
+        "branch_id": 368,
+        "supervisor_id": 391
+    },
+    {
+        "employee_id": 2,
+        "emp_first_name": "Rebecca",
+        "emp_last_name": "Hall",
+        "emp_role": "Manager",
+        "phone_ext": "7394",
+        "branch_id": 178,
+        "supervisor_id": 187
+    },
+    {
+        "employee_id": 3,
+        "emp_first_name": "Christopher",
+        "emp_last_name": "Moran",
+        "emp_role": "Support",
+        "phone_ext": "7319",
+        "branch_id": 464,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 4,
+        "emp_first_name": "Danny",
+        "emp_last_name": "Solis",
+        "emp_role": "Clerk",
+        "phone_ext": "3402",
+        "branch_id": 287,
+        "supervisor_id": 106
+    },
+    {
+        "employee_id": 5,
+        "emp_first_name": "Hunter",
+        "emp_last_name": "Walsh",
+        "emp_role": "Analyst",
+        "phone_ext": "3156",
+        "branch_id": 10,
+        "supervisor_id": 332
+    },
+    {
+        "employee_id": 6,
+        "emp_first_name": "Jose",
+        "emp_last_name": "Rogers",
+        "emp_role": "Teller",
+        "phone_ext": "6241",
+        "branch_id": 191,
+        "supervisor_id": 189
+    },
+    {
+        "employee_id": 7,
+        "emp_first_name": "Marvin",
+        "emp_last_name": "Ortiz",
+        "emp_role": "Analyst",
+        "phone_ext": "1720",
+        "branch_id": 161,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 8,
+        "emp_first_name": "Martha",
+        "emp_last_name": "Mcgee",
+        "emp_role": "Clerk",
+        "phone_ext": "7752",
+        "branch_id": 327,
+        "supervisor_id": 183
+    },
+    {
+        "employee_id": 9,
+        "emp_first_name": "David",
+        "emp_last_name": "Wallace",
+        "emp_role": "Teller",
+        "phone_ext": "3210",
+        "branch_id": 418,
+        "supervisor_id": 395
+    },
+    {
+        "employee_id": 10,
+        "emp_first_name": "Michelle",
+        "emp_last_name": "Brady",
+        "emp_role": "Clerk",
+        "phone_ext": "5592",
+        "branch_id": 91,
+        "supervisor_id": 113
+    },
+    {
+        "employee_id": 11,
+        "emp_first_name": "Kathryn",
+        "emp_last_name": "Boone",
+        "emp_role": "Teller",
+        "phone_ext": "1956",
+        "branch_id": 303,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 12,
+        "emp_first_name": "Angelica",
+        "emp_last_name": "Ramsey",
+        "emp_role": "Clerk",
+        "phone_ext": "4543",
+        "branch_id": 418,
+        "supervisor_id": 177
+    },
+    {
+        "employee_id": 13,
+        "emp_first_name": "Sheila",
+        "emp_last_name": "Gonzalez",
+        "emp_role": "Manager",
+        "phone_ext": "2204",
+        "branch_id": 320,
+        "supervisor_id": 397
+    },
+    {
+        "employee_id": 14,
+        "emp_first_name": "Robert",
+        "emp_last_name": "Mcguire",
+        "emp_role": "Support",
+        "phone_ext": "5783",
+        "branch_id": 451,
+        "supervisor_id": 405
+    },
+    {
+        "employee_id": 15,
+        "emp_first_name": "Pamela",
+        "emp_last_name": "Jordan",
+        "emp_role": "Teller",
+        "phone_ext": "7396",
+        "branch_id": 479,
+        "supervisor_id": 402
+    },
+    {
+        "employee_id": 16,
+        "emp_first_name": "Anna",
+        "emp_last_name": "Walker",
+        "emp_role": "Clerk",
+        "phone_ext": "3339",
+        "branch_id": 484,
+        "supervisor_id": 269
+    },
+    {
+        "employee_id": 17,
+        "emp_first_name": "Bradley",
+        "emp_last_name": "Salazar",
+        "emp_role": "Clerk",
+        "phone_ext": "9233",
+        "branch_id": 242,
+        "supervisor_id": 182
+    },
+    {
+        "employee_id": 18,
+        "emp_first_name": "Michele",
+        "emp_last_name": "Jones",
+        "emp_role": "Manager",
+        "phone_ext": "8333",
+        "branch_id": 307,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 19,
+        "emp_first_name": "Dawn",
+        "emp_last_name": "Bryant",
+        "emp_role": "Manager",
+        "phone_ext": "8771",
+        "branch_id": 193,
+        "supervisor_id": 371
+    },
+    {
+        "employee_id": 20,
+        "emp_first_name": "Amber",
+        "emp_last_name": "Williams",
+        "emp_role": "Manager",
+        "phone_ext": "6287",
+        "branch_id": 462,
+        "supervisor_id": 318
+    },
+    {
+        "employee_id": 21,
+        "emp_first_name": "Anne",
+        "emp_last_name": "Mathews",
+        "emp_role": "Support",
+        "phone_ext": "9878",
+        "branch_id": 107,
+        "supervisor_id": 223
+    },
+    {
+        "employee_id": 22,
+        "emp_first_name": "Heather",
+        "emp_last_name": "Rose",
+        "emp_role": "Clerk",
+        "phone_ext": "1754",
+        "branch_id": 460,
+        "supervisor_id": 256
+    },
+    {
+        "employee_id": 23,
+        "emp_first_name": "Charles",
+        "emp_last_name": "Olson",
+        "emp_role": "Manager",
+        "phone_ext": "3186",
+        "branch_id": 145,
+        "supervisor_id": 230
+    },
+    {
+        "employee_id": 24,
+        "emp_first_name": "Mary",
+        "emp_last_name": "Decker",
+        "emp_role": "Analyst",
+        "phone_ext": "4733",
+        "branch_id": 349,
+        "supervisor_id": 63
+    },
+    {
+        "employee_id": 25,
+        "emp_first_name": "Gerald",
+        "emp_last_name": "Molina",
+        "emp_role": "Manager",
+        "phone_ext": "8596",
+        "branch_id": 365,
+        "supervisor_id": 158
+    },
+    {
+        "employee_id": 26,
+        "emp_first_name": "Stephanie",
+        "emp_last_name": "Coffey",
+        "emp_role": "Manager",
+        "phone_ext": "4091",
+        "branch_id": 145,
+        "supervisor_id": 328
+    },
+    {
+        "employee_id": 27,
+        "emp_first_name": "Katrina",
+        "emp_last_name": "Carney",
+        "emp_role": "Support",
+        "phone_ext": "8591",
+        "branch_id": 108,
+        "supervisor_id": 388
+    },
+    {
+        "employee_id": 28,
+        "emp_first_name": "Robert",
+        "emp_last_name": "Haley",
+        "emp_role": "Manager",
+        "phone_ext": "6887",
+        "branch_id": 421,
+        "supervisor_id": 205
+    },
+    {
+        "employee_id": 29,
+        "emp_first_name": "Tracey",
+        "emp_last_name": "Martinez",
+        "emp_role": "Manager",
+        "phone_ext": "2036",
+        "branch_id": 221,
+        "supervisor_id": 124
+    },
+    {
+        "employee_id": 30,
+        "emp_first_name": "Heather",
+        "emp_last_name": "Melton",
+        "emp_role": "Analyst",
+        "phone_ext": "9733",
+        "branch_id": 168,
+        "supervisor_id": 226
+    },
+    {
+        "employee_id": 31,
+        "emp_first_name": "Anthony",
+        "emp_last_name": "Morales",
+        "emp_role": "Analyst",
+        "phone_ext": "1440",
+        "branch_id": 16,
+        "supervisor_id": 438
+    },
+    {
+        "employee_id": 32,
+        "emp_first_name": "Daniel",
+        "emp_last_name": "Irwin",
+        "emp_role": "Support",
+        "phone_ext": "7792",
+        "branch_id": 310,
+        "supervisor_id": 322
+    },
+    {
+        "employee_id": 33,
+        "emp_first_name": "Susan",
+        "emp_last_name": "Allen",
+        "emp_role": "Manager",
+        "phone_ext": "5471",
+        "branch_id": 132,
+        "supervisor_id": 302
+    },
+    {
+        "employee_id": 34,
+        "emp_first_name": "Sean",
+        "emp_last_name": "Crawford",
+        "emp_role": "Analyst",
+        "phone_ext": "9082",
+        "branch_id": 372,
+        "supervisor_id": 188
+    },
+    {
+        "employee_id": 35,
+        "emp_first_name": "Patrick",
+        "emp_last_name": "Lloyd",
+        "emp_role": "Teller",
+        "phone_ext": "5434",
+        "branch_id": 21,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 36,
+        "emp_first_name": "Gabrielle",
+        "emp_last_name": "Farmer",
+        "emp_role": "Analyst",
+        "phone_ext": "3635",
+        "branch_id": 100,
+        "supervisor_id": 369
+    },
+    {
+        "employee_id": 37,
+        "emp_first_name": "John",
+        "emp_last_name": "Richmond",
+        "emp_role": "Analyst",
+        "phone_ext": "1992",
+        "branch_id": 156,
+        "supervisor_id": 31
+    },
+    {
+        "employee_id": 38,
+        "emp_first_name": "Annette",
+        "emp_last_name": "Ewing",
+        "emp_role": "Support",
+        "phone_ext": "2557",
+        "branch_id": 121,
+        "supervisor_id": 283
+    },
+    {
+        "employee_id": 39,
+        "emp_first_name": "James",
+        "emp_last_name": "Williams",
+        "emp_role": "Manager",
+        "phone_ext": "1282",
+        "branch_id": 31,
+        "supervisor_id": 227
+    },
+    {
+        "employee_id": 40,
+        "emp_first_name": "Andrew",
+        "emp_last_name": "Mcgrath",
+        "emp_role": "Support",
+        "phone_ext": "8238",
+        "branch_id": 431,
+        "supervisor_id": 149
+    },
+    {
+        "employee_id": 41,
+        "emp_first_name": "Courtney",
+        "emp_last_name": "Crawford",
+        "emp_role": "Manager",
+        "phone_ext": "6447",
+        "branch_id": 186,
+        "supervisor_id": 134
+    },
+    {
+        "employee_id": 42,
+        "emp_first_name": "Joe",
+        "emp_last_name": "Rivera",
+        "emp_role": "Support",
+        "phone_ext": "5758",
+        "branch_id": 107,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 43,
+        "emp_first_name": "Michelle",
+        "emp_last_name": "Campbell",
+        "emp_role": "Manager",
+        "phone_ext": "8059",
+        "branch_id": 257,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 44,
+        "emp_first_name": "Dominique",
+        "emp_last_name": "Williams",
+        "emp_role": "Manager",
+        "phone_ext": "3560",
+        "branch_id": 411,
+        "supervisor_id": 232
+    },
+    {
+        "employee_id": 45,
+        "emp_first_name": "Christine",
+        "emp_last_name": "Gomez",
+        "emp_role": "Teller",
+        "phone_ext": "5633",
+        "branch_id": 331,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 46,
+        "emp_first_name": "Phillip",
+        "emp_last_name": "Knapp",
+        "emp_role": "Teller",
+        "phone_ext": "7340",
+        "branch_id": 36,
+        "supervisor_id": 417
+    },
+    {
+        "employee_id": 47,
+        "emp_first_name": "Mary",
+        "emp_last_name": "Rogers",
+        "emp_role": "Teller",
+        "phone_ext": "4343",
+        "branch_id": 55,
+        "supervisor_id": 128
+    },
+    {
+        "employee_id": 48,
+        "emp_first_name": "Samuel",
+        "emp_last_name": "Adams",
+        "emp_role": "Analyst",
+        "phone_ext": "3327",
+        "branch_id": 101,
+        "supervisor_id": 256
+    },
+    {
+        "employee_id": 49,
+        "emp_first_name": "Jenny",
+        "emp_last_name": "Woods",
+        "emp_role": "Analyst",
+        "phone_ext": "7625",
+        "branch_id": 320,
+        "supervisor_id": 28
+    },
+    {
+        "employee_id": 50,
+        "emp_first_name": "Angela",
+        "emp_last_name": "Brown",
+        "emp_role": "Teller",
+        "phone_ext": "6777",
+        "branch_id": 33,
+        "supervisor_id": 111
+    },
+    {
+        "employee_id": 51,
+        "emp_first_name": "Andrew",
+        "emp_last_name": "Austin",
+        "emp_role": "Clerk",
+        "phone_ext": "2780",
+        "branch_id": 182,
+        "supervisor_id": 402
+    },
+    {
+        "employee_id": 52,
+        "emp_first_name": "Elizabeth",
+        "emp_last_name": "King",
+        "emp_role": "Clerk",
+        "phone_ext": "3815",
+        "branch_id": 8,
+        "supervisor_id": 385
+    },
+    {
+        "employee_id": 53,
+        "emp_first_name": "Brianna",
+        "emp_last_name": "Noble",
+        "emp_role": "Analyst",
+        "phone_ext": "3374",
+        "branch_id": 146,
+        "supervisor_id": 259
+    },
+    {
+        "employee_id": 54,
+        "emp_first_name": "David",
+        "emp_last_name": "Caldwell",
+        "emp_role": "Manager",
+        "phone_ext": "5953",
+        "branch_id": 378,
+        "supervisor_id": 226
+    },
+    {
+        "employee_id": 55,
+        "emp_first_name": "Alexander",
+        "emp_last_name": "Burgess",
+        "emp_role": "Teller",
+        "phone_ext": "4044",
+        "branch_id": 467,
+        "supervisor_id": 100
+    },
+    {
+        "employee_id": 56,
+        "emp_first_name": "Amanda",
+        "emp_last_name": "Miller",
+        "emp_role": "Teller",
+        "phone_ext": "4676",
+        "branch_id": 19,
+        "supervisor_id": 381
+    },
+    {
+        "employee_id": 57,
+        "emp_first_name": "David",
+        "emp_last_name": "Curtis",
+        "emp_role": "Support",
+        "phone_ext": "7048",
+        "branch_id": 108,
+        "supervisor_id": 235
+    },
+    {
+        "employee_id": 58,
+        "emp_first_name": "Danielle",
+        "emp_last_name": "Brown",
+        "emp_role": "Analyst",
+        "phone_ext": "4952",
+        "branch_id": 8,
+        "supervisor_id": 441
+    },
+    {
+        "employee_id": 59,
+        "emp_first_name": "Andrew",
+        "emp_last_name": "Hayden",
+        "emp_role": "Teller",
+        "phone_ext": "6538",
+        "branch_id": 82,
+        "supervisor_id": 85
+    },
+    {
+        "employee_id": 60,
+        "emp_first_name": "Tina",
+        "emp_last_name": "Williams",
+        "emp_role": "Teller",
+        "phone_ext": "6615",
+        "branch_id": 116,
+        "supervisor_id": 437
+    },
+    {
+        "employee_id": 61,
+        "emp_first_name": "Kenneth",
+        "emp_last_name": "Mullins",
+        "emp_role": "Teller",
+        "phone_ext": "1537",
+        "branch_id": 240,
+        "supervisor_id": 211
+    },
+    {
+        "employee_id": 62,
+        "emp_first_name": "Yolanda",
+        "emp_last_name": "Wilson",
+        "emp_role": "Analyst",
+        "phone_ext": "2497",
+        "branch_id": 399,
+        "supervisor_id": 169
+    },
+    {
+        "employee_id": 63,
+        "emp_first_name": "Elizabeth",
+        "emp_last_name": "Becker",
+        "emp_role": "Support",
+        "phone_ext": "3191",
+        "branch_id": 408,
+        "supervisor_id": 321
+    },
+    {
+        "employee_id": 64,
+        "emp_first_name": "Paul",
+        "emp_last_name": "Lee",
+        "emp_role": "Support",
+        "phone_ext": "5011",
+        "branch_id": 76,
+        "supervisor_id": 117
+    },
+    {
+        "employee_id": 65,
+        "emp_first_name": "David",
+        "emp_last_name": "King",
+        "emp_role": "Manager",
+        "phone_ext": "4787",
+        "branch_id": 303,
+        "supervisor_id": 271
+    },
+    {
+        "employee_id": 66,
+        "emp_first_name": "David",
+        "emp_last_name": "Fox",
+        "emp_role": "Analyst",
+        "phone_ext": "8401",
+        "branch_id": 157,
+        "supervisor_id": 142
+    },
+    {
+        "employee_id": 67,
+        "emp_first_name": "Mary",
+        "emp_last_name": "Fitzgerald",
+        "emp_role": "Teller",
+        "phone_ext": "7565",
+        "branch_id": 346,
+        "supervisor_id": 49
+    },
+    {
+        "employee_id": 68,
+        "emp_first_name": "Andrew",
+        "emp_last_name": "Young",
+        "emp_role": "Manager",
+        "phone_ext": "5292",
+        "branch_id": 457,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 69,
+        "emp_first_name": "Rodney",
+        "emp_last_name": "Reid",
+        "emp_role": "Teller",
+        "phone_ext": "6346",
+        "branch_id": 57,
+        "supervisor_id": 105
+    },
+    {
+        "employee_id": 70,
+        "emp_first_name": "Kathleen",
+        "emp_last_name": "Dennis",
+        "emp_role": "Manager",
+        "phone_ext": "5230",
+        "branch_id": 17,
+        "supervisor_id": 174
+    },
+    {
+        "employee_id": 71,
+        "emp_first_name": "Sarah",
+        "emp_last_name": "Farrell",
+        "emp_role": "Clerk",
+        "phone_ext": "5899",
+        "branch_id": 425,
+        "supervisor_id": 270
+    },
+    {
+        "employee_id": 72,
+        "emp_first_name": "Paul",
+        "emp_last_name": "Todd",
+        "emp_role": "Clerk",
+        "phone_ext": "5301",
+        "branch_id": 367,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 73,
+        "emp_first_name": "Kenneth",
+        "emp_last_name": "Maxwell",
+        "emp_role": "Clerk",
+        "phone_ext": "9472",
+        "branch_id": 413,
+        "supervisor_id": 211
+    },
+    {
+        "employee_id": 74,
+        "emp_first_name": "Michael",
+        "emp_last_name": "Sutton",
+        "emp_role": "Clerk",
+        "phone_ext": "7833",
+        "branch_id": 343,
+        "supervisor_id": 106
+    },
+    {
+        "employee_id": 75,
+        "emp_first_name": "Katherine",
+        "emp_last_name": "Sims",
+        "emp_role": "Clerk",
+        "phone_ext": "8623",
+        "branch_id": 311,
+        "supervisor_id": 264
+    },
+    {
+        "employee_id": 76,
+        "emp_first_name": "Kimberly",
+        "emp_last_name": "Savage",
+        "emp_role": "Clerk",
+        "phone_ext": "6032",
+        "branch_id": 309,
+        "supervisor_id": 47
+    },
+    {
+        "employee_id": 77,
+        "emp_first_name": "Ashley",
+        "emp_last_name": "Russell",
+        "emp_role": "Clerk",
+        "phone_ext": "8442",
+        "branch_id": 148,
+        "supervisor_id": 476
+    },
+    {
+        "employee_id": 78,
+        "emp_first_name": "Pamela",
+        "emp_last_name": "Day",
+        "emp_role": "Support",
+        "phone_ext": "1558",
+        "branch_id": 50,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 79,
+        "emp_first_name": "Gordon",
+        "emp_last_name": "Simon",
+        "emp_role": "Clerk",
+        "phone_ext": "3494",
+        "branch_id": 385,
+        "supervisor_id": 2
+    },
+    {
+        "employee_id": 80,
+        "emp_first_name": "Gina",
+        "emp_last_name": "Myers",
+        "emp_role": "Analyst",
+        "phone_ext": "5645",
+        "branch_id": 263,
+        "supervisor_id": 152
+    },
+    {
+        "employee_id": 81,
+        "emp_first_name": "Thomas",
+        "emp_last_name": "Herring",
+        "emp_role": "Support",
+        "phone_ext": "4171",
+        "branch_id": 411,
+        "supervisor_id": 488
+    },
+    {
+        "employee_id": 82,
+        "emp_first_name": "Debbie",
+        "emp_last_name": "Smith",
+        "emp_role": "Manager",
+        "phone_ext": "5638",
+        "branch_id": 363,
+        "supervisor_id": 46
+    },
+    {
+        "employee_id": 83,
+        "emp_first_name": "Molly",
+        "emp_last_name": "Miranda",
+        "emp_role": "Teller",
+        "phone_ext": "1448",
+        "branch_id": 461,
+        "supervisor_id": 3
+    },
+    {
+        "employee_id": 84,
+        "emp_first_name": "Donna",
+        "emp_last_name": "Briggs",
+        "emp_role": "Support",
+        "phone_ext": "3243",
+        "branch_id": 496,
+        "supervisor_id": 433
+    },
+    {
+        "employee_id": 85,
+        "emp_first_name": "Joseph",
+        "emp_last_name": "Bishop",
+        "emp_role": "Clerk",
+        "phone_ext": "7037",
+        "branch_id": 438,
+        "supervisor_id": 64
+    },
+    {
+        "employee_id": 86,
+        "emp_first_name": "Brenda",
+        "emp_last_name": "Thomas",
+        "emp_role": "Support",
+        "phone_ext": "7268",
+        "branch_id": 11,
+        "supervisor_id": 66
+    },
+    {
+        "employee_id": 87,
+        "emp_first_name": "Frank",
+        "emp_last_name": "Oconnor",
+        "emp_role": "Clerk",
+        "phone_ext": "2571",
+        "branch_id": 281,
+        "supervisor_id": 130
+    },
+    {
+        "employee_id": 88,
+        "emp_first_name": "William",
+        "emp_last_name": "Williams",
+        "emp_role": "Support",
+        "phone_ext": "5740",
+        "branch_id": 232,
+        "supervisor_id": 50
+    },
+    {
+        "employee_id": 89,
+        "emp_first_name": "Douglas",
+        "emp_last_name": "Reynolds",
+        "emp_role": "Analyst",
+        "phone_ext": "3169",
+        "branch_id": 470,
+        "supervisor_id": 180
+    },
+    {
+        "employee_id": 90,
+        "emp_first_name": "Matthew",
+        "emp_last_name": "Lopez",
+        "emp_role": "Clerk",
+        "phone_ext": "1194",
+        "branch_id": 147,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 91,
+        "emp_first_name": "Laura",
+        "emp_last_name": "Olson",
+        "emp_role": "Analyst",
+        "phone_ext": "3149",
+        "branch_id": 35,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 92,
+        "emp_first_name": "Joseph",
+        "emp_last_name": "Yates",
+        "emp_role": "Manager",
+        "phone_ext": "4392",
+        "branch_id": 321,
+        "supervisor_id": 98
+    },
+    {
+        "employee_id": 93,
+        "emp_first_name": "Joseph",
+        "emp_last_name": "Carter",
+        "emp_role": "Teller",
+        "phone_ext": "5894",
+        "branch_id": 319,
+        "supervisor_id": 166
+    },
+    {
+        "employee_id": 94,
+        "emp_first_name": "Lindsey",
+        "emp_last_name": "Collins",
+        "emp_role": "Manager",
+        "phone_ext": "9711",
+        "branch_id": 85,
+        "supervisor_id": 182
+    },
+    {
+        "employee_id": 95,
+        "emp_first_name": "Sean",
+        "emp_last_name": "White",
+        "emp_role": "Manager",
+        "phone_ext": "6994",
+        "branch_id": 327,
+        "supervisor_id": 78
+    },
+    {
+        "employee_id": 96,
+        "emp_first_name": "Philip",
+        "emp_last_name": "Roman",
+        "emp_role": "Teller",
+        "phone_ext": "1923",
+        "branch_id": 75,
+        "supervisor_id": 497
+    },
+    {
+        "employee_id": 97,
+        "emp_first_name": "Charles",
+        "emp_last_name": "Bowers",
+        "emp_role": "Support",
+        "phone_ext": "5230",
+        "branch_id": 231,
+        "supervisor_id": 254
+    },
+    {
+        "employee_id": 98,
+        "emp_first_name": "Wesley",
+        "emp_last_name": "Reed",
+        "emp_role": "Manager",
+        "phone_ext": "4013",
+        "branch_id": 250,
+        "supervisor_id": 24
+    },
+    {
+        "employee_id": 99,
+        "emp_first_name": "Michele",
+        "emp_last_name": "Smith",
+        "emp_role": "Support",
+        "phone_ext": "5648",
+        "branch_id": 286,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 100,
+        "emp_first_name": "Michelle",
+        "emp_last_name": "Chapman",
+        "emp_role": "Teller",
+        "phone_ext": "5918",
+        "branch_id": 168,
+        "supervisor_id": 20
+    },
+    {
+        "employee_id": 101,
+        "emp_first_name": "Robert",
+        "emp_last_name": "Kim",
+        "emp_role": "Manager",
+        "phone_ext": "8990",
+        "branch_id": 426,
+        "supervisor_id": 490
+    },
+    {
+        "employee_id": 102,
+        "emp_first_name": "Erica",
+        "emp_last_name": "Howell",
+        "emp_role": "Analyst",
+        "phone_ext": "7613",
+        "branch_id": 238,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 103,
+        "emp_first_name": "Diana",
+        "emp_last_name": "Strickland",
+        "emp_role": "Clerk",
+        "phone_ext": "2267",
+        "branch_id": 491,
+        "supervisor_id": 312
+    },
+    {
+        "employee_id": 104,
+        "emp_first_name": "Taylor",
+        "emp_last_name": "Waters",
+        "emp_role": "Analyst",
+        "phone_ext": "3113",
+        "branch_id": 234,
+        "supervisor_id": 268
+    },
+    {
+        "employee_id": 105,
+        "emp_first_name": "Kevin",
+        "emp_last_name": "Martinez",
+        "emp_role": "Manager",
+        "phone_ext": "1411",
+        "branch_id": 97,
+        "supervisor_id": 169
+    },
+    {
+        "employee_id": 106,
+        "emp_first_name": "Tasha",
+        "emp_last_name": "Skinner",
+        "emp_role": "Teller",
+        "phone_ext": "2264",
+        "branch_id": 63,
+        "supervisor_id": 147
+    },
+    {
+        "employee_id": 107,
+        "emp_first_name": "Michael",
+        "emp_last_name": "Johnson",
+        "emp_role": "Support",
+        "phone_ext": "3800",
+        "branch_id": 67,
+        "supervisor_id": 376
+    },
+    {
+        "employee_id": 108,
+        "emp_first_name": "Jennifer",
+        "emp_last_name": "Miller",
+        "emp_role": "Analyst",
+        "phone_ext": "6009",
+        "branch_id": 425,
+        "supervisor_id": 390
+    },
+    {
+        "employee_id": 109,
+        "emp_first_name": "Julie",
+        "emp_last_name": "Chandler",
+        "emp_role": "Teller",
+        "phone_ext": "3462",
+        "branch_id": 292,
+        "supervisor_id": 55
+    },
+    {
+        "employee_id": 110,
+        "emp_first_name": "Patrick",
+        "emp_last_name": "Madden",
+        "emp_role": "Analyst",
+        "phone_ext": "3241",
+        "branch_id": 254,
+        "supervisor_id": 223
+    },
+    {
+        "employee_id": 111,
+        "emp_first_name": "Jennifer",
+        "emp_last_name": "Green",
+        "emp_role": "Teller",
+        "phone_ext": "9858",
+        "branch_id": 411,
+        "supervisor_id": 352
+    },
+    {
+        "employee_id": 112,
+        "emp_first_name": "Jessica",
+        "emp_last_name": "Clark",
+        "emp_role": "Manager",
+        "phone_ext": "7301",
+        "branch_id": 68,
+        "supervisor_id": 5
+    },
+    {
+        "employee_id": 113,
+        "emp_first_name": "Cheryl",
+        "emp_last_name": "Estrada",
+        "emp_role": "Analyst",
+        "phone_ext": "6029",
+        "branch_id": 86,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 114,
+        "emp_first_name": "Samantha",
+        "emp_last_name": "Ryan",
+        "emp_role": "Support",
+        "phone_ext": "7504",
+        "branch_id": 70,
+        "supervisor_id": 433
+    },
+    {
+        "employee_id": 115,
+        "emp_first_name": "Joshua",
+        "emp_last_name": "Brown",
+        "emp_role": "Analyst",
+        "phone_ext": "1504",
+        "branch_id": 162,
+        "supervisor_id": 414
+    },
+    {
+        "employee_id": 116,
+        "emp_first_name": "Philip",
+        "emp_last_name": "Dixon",
+        "emp_role": "Manager",
+        "phone_ext": "6570",
+        "branch_id": 254,
+        "supervisor_id": 211
+    },
+    {
+        "employee_id": 117,
+        "emp_first_name": "Nicole",
+        "emp_last_name": "Little",
+        "emp_role": "Manager",
+        "phone_ext": "3598",
+        "branch_id": 473,
+        "supervisor_id": 360
+    },
+    {
+        "employee_id": 118,
+        "emp_first_name": "Maria",
+        "emp_last_name": "Cummings",
+        "emp_role": "Support",
+        "phone_ext": "9465",
+        "branch_id": 170,
+        "supervisor_id": 220
+    },
+    {
+        "employee_id": 119,
+        "emp_first_name": "David",
+        "emp_last_name": "Estrada",
+        "emp_role": "Clerk",
+        "phone_ext": "4512",
+        "branch_id": 363,
+        "supervisor_id": 351
+    },
+    {
+        "employee_id": 120,
+        "emp_first_name": "Sheryl",
+        "emp_last_name": "Castaneda",
+        "emp_role": "Clerk",
+        "phone_ext": "8431",
+        "branch_id": 35,
+        "supervisor_id": 335
+    },
+    {
+        "employee_id": 121,
+        "emp_first_name": "David",
+        "emp_last_name": "Knight",
+        "emp_role": "Clerk",
+        "phone_ext": "8047",
+        "branch_id": 332,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 122,
+        "emp_first_name": "Lori",
+        "emp_last_name": "Shah",
+        "emp_role": "Support",
+        "phone_ext": "8814",
+        "branch_id": 200,
+        "supervisor_id": 31
+    },
+    {
+        "employee_id": 123,
+        "emp_first_name": "Kimberly",
+        "emp_last_name": "Mills",
+        "emp_role": "Teller",
+        "phone_ext": "3747",
+        "branch_id": 163,
+        "supervisor_id": 19
+    },
+    {
+        "employee_id": 124,
+        "emp_first_name": "Alexandra",
+        "emp_last_name": "Tate",
+        "emp_role": "Analyst",
+        "phone_ext": "7572",
+        "branch_id": 112,
+        "supervisor_id": 40
+    },
+    {
+        "employee_id": 125,
+        "emp_first_name": "Christina",
+        "emp_last_name": "Lewis",
+        "emp_role": "Support",
+        "phone_ext": "5922",
+        "branch_id": 53,
+        "supervisor_id": 102
+    },
+    {
+        "employee_id": 126,
+        "emp_first_name": "Carlos",
+        "emp_last_name": "Willis",
+        "emp_role": "Support",
+        "phone_ext": "4085",
+        "branch_id": 249,
+        "supervisor_id": 347
+    },
+    {
+        "employee_id": 127,
+        "emp_first_name": "Peter",
+        "emp_last_name": "Moyer",
+        "emp_role": "Clerk",
+        "phone_ext": "2754",
+        "branch_id": 361,
+        "supervisor_id": 30
+    },
+    {
+        "employee_id": 128,
+        "emp_first_name": "Tiffany",
+        "emp_last_name": "Jones",
+        "emp_role": "Manager",
+        "phone_ext": "9187",
+        "branch_id": 254,
+        "supervisor_id": 338
+    },
+    {
+        "employee_id": 129,
+        "emp_first_name": "Jonathan",
+        "emp_last_name": "Robbins",
+        "emp_role": "Analyst",
+        "phone_ext": "5627",
+        "branch_id": 339,
+        "supervisor_id": 331
+    },
+    {
+        "employee_id": 130,
+        "emp_first_name": "Connie",
+        "emp_last_name": "Ortiz",
+        "emp_role": "Manager",
+        "phone_ext": "9103",
+        "branch_id": 355,
+        "supervisor_id": 493
+    },
+    {
+        "employee_id": 131,
+        "emp_first_name": "Christopher",
+        "emp_last_name": "Shepherd",
+        "emp_role": "Support",
+        "phone_ext": "6253",
+        "branch_id": 65,
+        "supervisor_id": 144
+    },
+    {
+        "employee_id": 132,
+        "emp_first_name": "Steven",
+        "emp_last_name": "Fowler",
+        "emp_role": "Teller",
+        "phone_ext": "6577",
+        "branch_id": 382,
+        "supervisor_id": 269
+    },
+    {
+        "employee_id": 133,
+        "emp_first_name": "Holly",
+        "emp_last_name": "Smith",
+        "emp_role": "Teller",
+        "phone_ext": "5187",
+        "branch_id": 339,
+        "supervisor_id": 384
+    },
+    {
+        "employee_id": 134,
+        "emp_first_name": "David",
+        "emp_last_name": "Watkins",
+        "emp_role": "Manager",
+        "phone_ext": "7175",
+        "branch_id": 442,
+        "supervisor_id": 10
+    },
+    {
+        "employee_id": 135,
+        "emp_first_name": "Shannon",
+        "emp_last_name": "Duarte",
+        "emp_role": "Teller",
+        "phone_ext": "7323",
+        "branch_id": 235,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 136,
+        "emp_first_name": "Tiffany",
+        "emp_last_name": "Johnston",
+        "emp_role": "Clerk",
+        "phone_ext": "8342",
+        "branch_id": 477,
+        "supervisor_id": 369
+    },
+    {
+        "employee_id": 137,
+        "emp_first_name": "Rebecca",
+        "emp_last_name": "Olson",
+        "emp_role": "Teller",
+        "phone_ext": "3576",
+        "branch_id": 385,
+        "supervisor_id": 14
+    },
+    {
+        "employee_id": 138,
+        "emp_first_name": "Donald",
+        "emp_last_name": "Matthews",
+        "emp_role": "Analyst",
+        "phone_ext": "2694",
+        "branch_id": 273,
+        "supervisor_id": 444
+    },
+    {
+        "employee_id": 139,
+        "emp_first_name": "Theresa",
+        "emp_last_name": "Warren",
+        "emp_role": "Clerk",
+        "phone_ext": "7036",
+        "branch_id": 141,
+        "supervisor_id": 245
+    },
+    {
+        "employee_id": 140,
+        "emp_first_name": "Nicole",
+        "emp_last_name": "Gonzalez",
+        "emp_role": "Manager",
+        "phone_ext": "5722",
+        "branch_id": 473,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 141,
+        "emp_first_name": "Jennifer",
+        "emp_last_name": "Jimenez",
+        "emp_role": "Analyst",
+        "phone_ext": "4766",
+        "branch_id": 142,
+        "supervisor_id": 233
+    },
+    {
+        "employee_id": 142,
+        "emp_first_name": "Kathryn",
+        "emp_last_name": "Simpson",
+        "emp_role": "Analyst",
+        "phone_ext": "5543",
+        "branch_id": 486,
+        "supervisor_id": 241
+    },
+    {
+        "employee_id": 143,
+        "emp_first_name": "Stephen",
+        "emp_last_name": "Davenport",
+        "emp_role": "Manager",
+        "phone_ext": "1506",
+        "branch_id": 412,
+        "supervisor_id": 60
+    },
+    {
+        "employee_id": 144,
+        "emp_first_name": "Daniel",
+        "emp_last_name": "Sanders",
+        "emp_role": "Support",
+        "phone_ext": "1670",
+        "branch_id": 64,
+        "supervisor_id": 67
+    },
+    {
+        "employee_id": 145,
+        "emp_first_name": "Jack",
+        "emp_last_name": "Hartman",
+        "emp_role": "Support",
+        "phone_ext": "7241",
+        "branch_id": 266,
+        "supervisor_id": 272
+    },
+    {
+        "employee_id": 146,
+        "emp_first_name": "Emily",
+        "emp_last_name": "Vega",
+        "emp_role": "Support",
+        "phone_ext": "4990",
+        "branch_id": 403,
+        "supervisor_id": 172
+    },
+    {
+        "employee_id": 147,
+        "emp_first_name": "Amber",
+        "emp_last_name": "Dodson",
+        "emp_role": "Support",
+        "phone_ext": "6533",
+        "branch_id": 159,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 148,
+        "emp_first_name": "Jonathan",
+        "emp_last_name": "Brady",
+        "emp_role": "Teller",
+        "phone_ext": "9879",
+        "branch_id": 482,
+        "supervisor_id": 333
+    },
+    {
+        "employee_id": 149,
+        "emp_first_name": "Tanya",
+        "emp_last_name": "Greene",
+        "emp_role": "Clerk",
+        "phone_ext": "5598",
+        "branch_id": 184,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 150,
+        "emp_first_name": "Teresa",
+        "emp_last_name": "Russell",
+        "emp_role": "Manager",
+        "phone_ext": "3122",
+        "branch_id": 318,
+        "supervisor_id": 205
+    },
+    {
+        "employee_id": 151,
+        "emp_first_name": "Robert",
+        "emp_last_name": "Levy",
+        "emp_role": "Support",
+        "phone_ext": "8407",
+        "branch_id": 127,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 152,
+        "emp_first_name": "Ernest",
+        "emp_last_name": "Burke",
+        "emp_role": "Teller",
+        "phone_ext": "5910",
+        "branch_id": 183,
+        "supervisor_id": 42
+    },
+    {
+        "employee_id": 153,
+        "emp_first_name": "Evan",
+        "emp_last_name": "Hicks",
+        "emp_role": "Teller",
+        "phone_ext": "1275",
+        "branch_id": 181,
+        "supervisor_id": 133
+    },
+    {
+        "employee_id": 154,
+        "emp_first_name": "Andrea",
+        "emp_last_name": "Craig",
+        "emp_role": "Analyst",
+        "phone_ext": "7095",
+        "branch_id": 371,
+        "supervisor_id": 204
+    },
+    {
+        "employee_id": 155,
+        "emp_first_name": "Lindsay",
+        "emp_last_name": "Mendoza",
+        "emp_role": "Teller",
+        "phone_ext": "7816",
+        "branch_id": 216,
+        "supervisor_id": 482
+    },
+    {
+        "employee_id": 156,
+        "emp_first_name": "Anthony",
+        "emp_last_name": "Obrien",
+        "emp_role": "Teller",
+        "phone_ext": "1141",
+        "branch_id": 226,
+        "supervisor_id": 27
+    },
+    {
+        "employee_id": 157,
+        "emp_first_name": "Adrian",
+        "emp_last_name": "Lee",
+        "emp_role": "Analyst",
+        "phone_ext": "6976",
+        "branch_id": 488,
+        "supervisor_id": 211
+    },
+    {
+        "employee_id": 158,
+        "emp_first_name": "Kristen",
+        "emp_last_name": "Hawkins",
+        "emp_role": "Manager",
+        "phone_ext": "5993",
+        "branch_id": 34,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 159,
+        "emp_first_name": "Lori",
+        "emp_last_name": "Dawson",
+        "emp_role": "Support",
+        "phone_ext": "3794",
+        "branch_id": 253,
+        "supervisor_id": 128
+    },
+    {
+        "employee_id": 160,
+        "emp_first_name": "Michael",
+        "emp_last_name": "Miller",
+        "emp_role": "Manager",
+        "phone_ext": "1387",
+        "branch_id": 64,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 161,
+        "emp_first_name": "Nathaniel",
+        "emp_last_name": "Hansen",
+        "emp_role": "Clerk",
+        "phone_ext": "1345",
+        "branch_id": 148,
+        "supervisor_id": 403
+    },
+    {
+        "employee_id": 162,
+        "emp_first_name": "Joanna",
+        "emp_last_name": "Mendoza",
+        "emp_role": "Clerk",
+        "phone_ext": "6233",
+        "branch_id": 273,
+        "supervisor_id": 61
+    },
+    {
+        "employee_id": 163,
+        "emp_first_name": "Ivan",
+        "emp_last_name": "Johnson",
+        "emp_role": "Support",
+        "phone_ext": "7118",
+        "branch_id": 327,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 164,
+        "emp_first_name": "Robert",
+        "emp_last_name": "Pena",
+        "emp_role": "Manager",
+        "phone_ext": "8718",
+        "branch_id": 267,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 165,
+        "emp_first_name": "Evelyn",
+        "emp_last_name": "Alvarado",
+        "emp_role": "Manager",
+        "phone_ext": "8760",
+        "branch_id": 215,
+        "supervisor_id": 363
+    },
+    {
+        "employee_id": 166,
+        "emp_first_name": "Taylor",
+        "emp_last_name": "Hamilton",
+        "emp_role": "Teller",
+        "phone_ext": "1826",
+        "branch_id": 214,
+        "supervisor_id": 379
+    },
+    {
+        "employee_id": 167,
+        "emp_first_name": "Melinda",
+        "emp_last_name": "Reed",
+        "emp_role": "Teller",
+        "phone_ext": "3321",
+        "branch_id": 387,
+        "supervisor_id": 20
+    },
+    {
+        "employee_id": 168,
+        "emp_first_name": "Adriana",
+        "emp_last_name": "Rivera",
+        "emp_role": "Teller",
+        "phone_ext": "3707",
+        "branch_id": 190,
+        "supervisor_id": 133
+    },
+    {
+        "employee_id": 169,
+        "emp_first_name": "Jeffrey",
+        "emp_last_name": "Dunlap",
+        "emp_role": "Support",
+        "phone_ext": "1797",
+        "branch_id": 439,
+        "supervisor_id": 427
+    },
+    {
+        "employee_id": 170,
+        "emp_first_name": "Jeff",
+        "emp_last_name": "Johnson",
+        "emp_role": "Support",
+        "phone_ext": "3237",
+        "branch_id": 492,
+        "supervisor_id": 136
+    },
+    {
+        "employee_id": 171,
+        "emp_first_name": "Kim",
+        "emp_last_name": "Huerta",
+        "emp_role": "Clerk",
+        "phone_ext": "1152",
+        "branch_id": 285,
+        "supervisor_id": 94
+    },
+    {
+        "employee_id": 172,
+        "emp_first_name": "Robert",
+        "emp_last_name": "Riggs",
+        "emp_role": "Analyst",
+        "phone_ext": "5992",
+        "branch_id": 43,
+        "supervisor_id": 407
+    },
+    {
+        "employee_id": 173,
+        "emp_first_name": "Pamela",
+        "emp_last_name": "Irwin",
+        "emp_role": "Clerk",
+        "phone_ext": "7605",
+        "branch_id": 435,
+        "supervisor_id": 463
+    },
+    {
+        "employee_id": 174,
+        "emp_first_name": "Jennifer",
+        "emp_last_name": "Mcconnell",
+        "emp_role": "Support",
+        "phone_ext": "4885",
+        "branch_id": 130,
+        "supervisor_id": 478
+    },
+    {
+        "employee_id": 175,
+        "emp_first_name": "Kathleen",
+        "emp_last_name": "Cox",
+        "emp_role": "Support",
+        "phone_ext": "5810",
+        "branch_id": 167,
+        "supervisor_id": 368
+    },
+    {
+        "employee_id": 176,
+        "emp_first_name": "Katrina",
+        "emp_last_name": "Smith",
+        "emp_role": "Teller",
+        "phone_ext": "9142",
+        "branch_id": 265,
+        "supervisor_id": 230
+    },
+    {
+        "employee_id": 177,
+        "emp_first_name": "Jonathan",
+        "emp_last_name": "Patrick",
+        "emp_role": "Analyst",
+        "phone_ext": "5856",
+        "branch_id": 43,
+        "supervisor_id": 107
+    },
+    {
+        "employee_id": 178,
+        "emp_first_name": "Bruce",
+        "emp_last_name": "Johnson",
+        "emp_role": "Analyst",
+        "phone_ext": "7747",
+        "branch_id": 213,
+        "supervisor_id": 13
+    },
+    {
+        "employee_id": 179,
+        "emp_first_name": "Chase",
+        "emp_last_name": "Brown",
+        "emp_role": "Support",
+        "phone_ext": "2300",
+        "branch_id": 448,
+        "supervisor_id": 381
+    },
+    {
+        "employee_id": 180,
+        "emp_first_name": "Tiffany",
+        "emp_last_name": "Henderson",
+        "emp_role": "Analyst",
+        "phone_ext": "7484",
+        "branch_id": 358,
+        "supervisor_id": 368
+    },
+    {
+        "employee_id": 181,
+        "emp_first_name": "Haley",
+        "emp_last_name": "Abbott",
+        "emp_role": "Clerk",
+        "phone_ext": "8707",
+        "branch_id": 72,
+        "supervisor_id": 374
+    },
+    {
+        "employee_id": 182,
+        "emp_first_name": "Stephanie",
+        "emp_last_name": "Hale",
+        "emp_role": "Teller",
+        "phone_ext": "4247",
+        "branch_id": 370,
+        "supervisor_id": 262
+    },
+    {
+        "employee_id": 183,
+        "emp_first_name": "Sherri",
+        "emp_last_name": "Moyer",
+        "emp_role": "Manager",
+        "phone_ext": "5773",
+        "branch_id": 487,
+        "supervisor_id": 136
+    },
+    {
+        "employee_id": 184,
+        "emp_first_name": "Michael",
+        "emp_last_name": "Scott",
+        "emp_role": "Teller",
+        "phone_ext": "3600",
+        "branch_id": 21,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 185,
+        "emp_first_name": "John",
+        "emp_last_name": "Alvarez",
+        "emp_role": "Clerk",
+        "phone_ext": "6418",
+        "branch_id": 102,
+        "supervisor_id": 186
+    },
+    {
+        "employee_id": 186,
+        "emp_first_name": "Joshua",
+        "emp_last_name": "Shelton",
+        "emp_role": "Support",
+        "phone_ext": "1825",
+        "branch_id": 80,
+        "supervisor_id": 103
+    },
+    {
+        "employee_id": 187,
+        "emp_first_name": "Diana",
+        "emp_last_name": "Murray",
+        "emp_role": "Clerk",
+        "phone_ext": "4465",
+        "branch_id": 305,
+        "supervisor_id": 203
+    },
+    {
+        "employee_id": 188,
+        "emp_first_name": "Jessica",
+        "emp_last_name": "Hall",
+        "emp_role": "Teller",
+        "phone_ext": "4865",
+        "branch_id": 153,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 189,
+        "emp_first_name": "Andrew",
+        "emp_last_name": "Medina",
+        "emp_role": "Clerk",
+        "phone_ext": "3831",
+        "branch_id": 5,
+        "supervisor_id": 16
+    },
+    {
+        "employee_id": 190,
+        "emp_first_name": "Paula",
+        "emp_last_name": "Johnson",
+        "emp_role": "Analyst",
+        "phone_ext": "9680",
+        "branch_id": 421,
+        "supervisor_id": 142
+    },
+    {
+        "employee_id": 191,
+        "emp_first_name": "Anna",
+        "emp_last_name": "Johnson",
+        "emp_role": "Manager",
+        "phone_ext": "5678",
+        "branch_id": 449,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 192,
+        "emp_first_name": "Derek",
+        "emp_last_name": "Evans",
+        "emp_role": "Teller",
+        "phone_ext": "4926",
+        "branch_id": 288,
+        "supervisor_id": 157
+    },
+    {
+        "employee_id": 193,
+        "emp_first_name": "Michael",
+        "emp_last_name": "Lloyd",
+        "emp_role": "Support",
+        "phone_ext": "2297",
+        "branch_id": 369,
+        "supervisor_id": 449
+    },
+    {
+        "employee_id": 194,
+        "emp_first_name": "Kristin",
+        "emp_last_name": "Hansen",
+        "emp_role": "Analyst",
+        "phone_ext": "2601",
+        "branch_id": 235,
+        "supervisor_id": 96
+    },
+    {
+        "employee_id": 195,
+        "emp_first_name": "Melanie",
+        "emp_last_name": "Wallace",
+        "emp_role": "Support",
+        "phone_ext": "7738",
+        "branch_id": 393,
+        "supervisor_id": 224
+    },
+    {
+        "employee_id": 196,
+        "emp_first_name": "Derrick",
+        "emp_last_name": "Ramos",
+        "emp_role": "Support",
+        "phone_ext": "2535",
+        "branch_id": 355,
+        "supervisor_id": 329
+    },
+    {
+        "employee_id": 197,
+        "emp_first_name": "Christopher",
+        "emp_last_name": "Sexton",
+        "emp_role": "Analyst",
+        "phone_ext": "8345",
+        "branch_id": 392,
+        "supervisor_id": 419
+    },
+    {
+        "employee_id": 198,
+        "emp_first_name": "Angela",
+        "emp_last_name": "Collier",
+        "emp_role": "Analyst",
+        "phone_ext": "5100",
+        "branch_id": 4,
+        "supervisor_id": 324
+    },
+    {
+        "employee_id": 199,
+        "emp_first_name": "Jacob",
+        "emp_last_name": "Edwards",
+        "emp_role": "Manager",
+        "phone_ext": "2992",
+        "branch_id": 205,
+        "supervisor_id": 443
+    },
+    {
+        "employee_id": 200,
+        "emp_first_name": "Russell",
+        "emp_last_name": "Thompson",
+        "emp_role": "Teller",
+        "phone_ext": "1292",
+        "branch_id": 460,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 201,
+        "emp_first_name": "Natalie",
+        "emp_last_name": "Jimenez",
+        "emp_role": "Analyst",
+        "phone_ext": "8280",
+        "branch_id": 70,
+        "supervisor_id": 277
+    },
+    {
+        "employee_id": 202,
+        "emp_first_name": "Bianca",
+        "emp_last_name": "Taylor",
+        "emp_role": "Teller",
+        "phone_ext": "5527",
+        "branch_id": 270,
+        "supervisor_id": 265
+    },
+    {
+        "employee_id": 203,
+        "emp_first_name": "Jason",
+        "emp_last_name": "Cochran",
+        "emp_role": "Teller",
+        "phone_ext": "9494",
+        "branch_id": 483,
+        "supervisor_id": 269
+    },
+    {
+        "employee_id": 204,
+        "emp_first_name": "Sharon",
+        "emp_last_name": "Perez",
+        "emp_role": "Teller",
+        "phone_ext": "9804",
+        "branch_id": 121,
+        "supervisor_id": 212
+    },
+    {
+        "employee_id": 205,
+        "emp_first_name": "Daniel",
+        "emp_last_name": "Knox",
+        "emp_role": "Clerk",
+        "phone_ext": "3925",
+        "branch_id": 201,
+        "supervisor_id": 421
+    },
+    {
+        "employee_id": 206,
+        "emp_first_name": "Thomas",
+        "emp_last_name": "Pollard",
+        "emp_role": "Analyst",
+        "phone_ext": "1793",
+        "branch_id": 423,
+        "supervisor_id": 340
+    },
+    {
+        "employee_id": 207,
+        "emp_first_name": "Kayla",
+        "emp_last_name": "Hill",
+        "emp_role": "Teller",
+        "phone_ext": "7674",
+        "branch_id": 70,
+        "supervisor_id": 327
+    },
+    {
+        "employee_id": 208,
+        "emp_first_name": "Zachary",
+        "emp_last_name": "Atkinson",
+        "emp_role": "Manager",
+        "phone_ext": "5390",
+        "branch_id": 382,
+        "supervisor_id": 351
+    },
+    {
+        "employee_id": 209,
+        "emp_first_name": "Jeffery",
+        "emp_last_name": "Blake",
+        "emp_role": "Manager",
+        "phone_ext": "7025",
+        "branch_id": 346,
+        "supervisor_id": 12
+    },
+    {
+        "employee_id": 210,
+        "emp_first_name": "Jorge",
+        "emp_last_name": "Allen",
+        "emp_role": "Analyst",
+        "phone_ext": "5081",
+        "branch_id": 286,
+        "supervisor_id": 215
+    },
+    {
+        "employee_id": 211,
+        "emp_first_name": "Christopher",
+        "emp_last_name": "Allen",
+        "emp_role": "Support",
+        "phone_ext": "3602",
+        "branch_id": 9,
+        "supervisor_id": 305
+    },
+    {
+        "employee_id": 212,
+        "emp_first_name": "Charles",
+        "emp_last_name": "Bruce",
+        "emp_role": "Teller",
+        "phone_ext": "3997",
+        "branch_id": 41,
+        "supervisor_id": 83
+    },
+    {
+        "employee_id": 213,
+        "emp_first_name": "Maxwell",
+        "emp_last_name": "Salinas",
+        "emp_role": "Clerk",
+        "phone_ext": "2332",
+        "branch_id": 167,
+        "supervisor_id": 183
+    },
+    {
+        "employee_id": 214,
+        "emp_first_name": "Glenn",
+        "emp_last_name": "Turner",
+        "emp_role": "Support",
+        "phone_ext": "4111",
+        "branch_id": 11,
+        "supervisor_id": 256
+    },
+    {
+        "employee_id": 215,
+        "emp_first_name": "Brittany",
+        "emp_last_name": "Salas",
+        "emp_role": "Teller",
+        "phone_ext": "2346",
+        "branch_id": 47,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 216,
+        "emp_first_name": "Dalton",
+        "emp_last_name": "Boyd",
+        "emp_role": "Manager",
+        "phone_ext": "3027",
+        "branch_id": 405,
+        "supervisor_id": 174
+    },
+    {
+        "employee_id": 217,
+        "emp_first_name": "Eric",
+        "emp_last_name": "Madden",
+        "emp_role": "Analyst",
+        "phone_ext": "7373",
+        "branch_id": 333,
+        "supervisor_id": 333
+    },
+    {
+        "employee_id": 218,
+        "emp_first_name": "Jesse",
+        "emp_last_name": "Li",
+        "emp_role": "Support",
+        "phone_ext": "6046",
+        "branch_id": 279,
+        "supervisor_id": 472
+    },
+    {
+        "employee_id": 219,
+        "emp_first_name": "Victoria",
+        "emp_last_name": "Williams",
+        "emp_role": "Analyst",
+        "phone_ext": "8329",
+        "branch_id": 238,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 220,
+        "emp_first_name": "Daniel",
+        "emp_last_name": "Gibson",
+        "emp_role": "Teller",
+        "phone_ext": "8934",
+        "branch_id": 290,
+        "supervisor_id": 181
+    },
+    {
+        "employee_id": 221,
+        "emp_first_name": "Ashley",
+        "emp_last_name": "Mullins",
+        "emp_role": "Clerk",
+        "phone_ext": "2671",
+        "branch_id": 154,
+        "supervisor_id": 120
+    },
+    {
+        "employee_id": 222,
+        "emp_first_name": "George",
+        "emp_last_name": "Bailey",
+        "emp_role": "Clerk",
+        "phone_ext": "4370",
+        "branch_id": 222,
+        "supervisor_id": 112
+    },
+    {
+        "employee_id": 223,
+        "emp_first_name": "Leah",
+        "emp_last_name": "Bradley",
+        "emp_role": "Teller",
+        "phone_ext": "5214",
+        "branch_id": 138,
+        "supervisor_id": 326
+    },
+    {
+        "employee_id": 224,
+        "emp_first_name": "Jessica",
+        "emp_last_name": "Drake",
+        "emp_role": "Support",
+        "phone_ext": "7657",
+        "branch_id": 354,
+        "supervisor_id": 153
+    },
+    {
+        "employee_id": 225,
+        "emp_first_name": "Teresa",
+        "emp_last_name": "Jones",
+        "emp_role": "Support",
+        "phone_ext": "7880",
+        "branch_id": 381,
+        "supervisor_id": 492
+    },
+    {
+        "employee_id": 226,
+        "emp_first_name": "Marissa",
+        "emp_last_name": "Jackson",
+        "emp_role": "Clerk",
+        "phone_ext": "5265",
+        "branch_id": 40,
+        "supervisor_id": 400
+    },
+    {
+        "employee_id": 227,
+        "emp_first_name": "Katherine",
+        "emp_last_name": "Marks",
+        "emp_role": "Manager",
+        "phone_ext": "1225",
+        "branch_id": 108,
+        "supervisor_id": 375
+    },
+    {
+        "employee_id": 228,
+        "emp_first_name": "Felicia",
+        "emp_last_name": "Farmer",
+        "emp_role": "Support",
+        "phone_ext": "7949",
+        "branch_id": 10,
+        "supervisor_id": 123
+    },
+    {
+        "employee_id": 229,
+        "emp_first_name": "Keith",
+        "emp_last_name": "Mitchell",
+        "emp_role": "Support",
+        "phone_ext": "4184",
+        "branch_id": 174,
+        "supervisor_id": 6
+    },
+    {
+        "employee_id": 230,
+        "emp_first_name": "James",
+        "emp_last_name": "Rojas",
+        "emp_role": "Clerk",
+        "phone_ext": "9318",
+        "branch_id": 461,
+        "supervisor_id": 361
+    },
+    {
+        "employee_id": 231,
+        "emp_first_name": "Theodore",
+        "emp_last_name": "Golden",
+        "emp_role": "Manager",
+        "phone_ext": "9564",
+        "branch_id": 7,
+        "supervisor_id": 313
+    },
+    {
+        "employee_id": 232,
+        "emp_first_name": "Mary",
+        "emp_last_name": "Murphy",
+        "emp_role": "Clerk",
+        "phone_ext": "3787",
+        "branch_id": 71,
+        "supervisor_id": 412
+    },
+    {
+        "employee_id": 233,
+        "emp_first_name": "Shane",
+        "emp_last_name": "Bates",
+        "emp_role": "Clerk",
+        "phone_ext": "6564",
+        "branch_id": 242,
+        "supervisor_id": 241
+    },
+    {
+        "employee_id": 234,
+        "emp_first_name": "Regina",
+        "emp_last_name": "Brown",
+        "emp_role": "Support",
+        "phone_ext": "9539",
+        "branch_id": 292,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 235,
+        "emp_first_name": "Ronald",
+        "emp_last_name": "Gibson",
+        "emp_role": "Manager",
+        "phone_ext": "2725",
+        "branch_id": 81,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 236,
+        "emp_first_name": "Dennis",
+        "emp_last_name": "Robbins",
+        "emp_role": "Analyst",
+        "phone_ext": "5862",
+        "branch_id": 259,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 237,
+        "emp_first_name": "Jonathan",
+        "emp_last_name": "Sanders",
+        "emp_role": "Teller",
+        "phone_ext": "4195",
+        "branch_id": 464,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 238,
+        "emp_first_name": "Lacey",
+        "emp_last_name": "Farmer",
+        "emp_role": "Support",
+        "phone_ext": "2979",
+        "branch_id": 194,
+        "supervisor_id": 253
+    },
+    {
+        "employee_id": 239,
+        "emp_first_name": "Audrey",
+        "emp_last_name": "Smith",
+        "emp_role": "Manager",
+        "phone_ext": "2938",
+        "branch_id": 50,
+        "supervisor_id": 498
+    },
+    {
+        "employee_id": 240,
+        "emp_first_name": "Tiffany",
+        "emp_last_name": "Bullock",
+        "emp_role": "Clerk",
+        "phone_ext": "9945",
+        "branch_id": 31,
+        "supervisor_id": 46
+    },
+    {
+        "employee_id": 241,
+        "emp_first_name": "Kayla",
+        "emp_last_name": "Ramirez",
+        "emp_role": "Manager",
+        "phone_ext": "1717",
+        "branch_id": 417,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 242,
+        "emp_first_name": "Nicholas",
+        "emp_last_name": "Keller",
+        "emp_role": "Clerk",
+        "phone_ext": "4174",
+        "branch_id": 171,
+        "supervisor_id": 498
+    },
+    {
+        "employee_id": 243,
+        "emp_first_name": "Kayla",
+        "emp_last_name": "Taylor",
+        "emp_role": "Support",
+        "phone_ext": "1879",
+        "branch_id": 347,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 244,
+        "emp_first_name": "Kristen",
+        "emp_last_name": "Terry",
+        "emp_role": "Support",
+        "phone_ext": "3332",
+        "branch_id": 304,
+        "supervisor_id": 388
+    },
+    {
+        "employee_id": 245,
+        "emp_first_name": "Anthony",
+        "emp_last_name": "Hodge",
+        "emp_role": "Support",
+        "phone_ext": "5865",
+        "branch_id": 38,
+        "supervisor_id": 198
+    },
+    {
+        "employee_id": 246,
+        "emp_first_name": "Nicholas",
+        "emp_last_name": "Taylor",
+        "emp_role": "Analyst",
+        "phone_ext": "4362",
+        "branch_id": 157,
+        "supervisor_id": 268
+    },
+    {
+        "employee_id": 247,
+        "emp_first_name": "Richard",
+        "emp_last_name": "Fisher",
+        "emp_role": "Support",
+        "phone_ext": "7281",
+        "branch_id": 63,
+        "supervisor_id": 288
+    },
+    {
+        "employee_id": 248,
+        "emp_first_name": "Jack",
+        "emp_last_name": "Armstrong",
+        "emp_role": "Manager",
+        "phone_ext": "6156",
+        "branch_id": 393,
+        "supervisor_id": 286
+    },
+    {
+        "employee_id": 249,
+        "emp_first_name": "Pamela",
+        "emp_last_name": "Clements",
+        "emp_role": "Teller",
+        "phone_ext": "2571",
+        "branch_id": 199,
+        "supervisor_id": 208
+    },
+    {
+        "employee_id": 250,
+        "emp_first_name": "Victoria",
+        "emp_last_name": "Patterson",
+        "emp_role": "Teller",
+        "phone_ext": "6421",
+        "branch_id": 95,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 251,
+        "emp_first_name": "Paul",
+        "emp_last_name": "Jackson",
+        "emp_role": "Clerk",
+        "phone_ext": "7780",
+        "branch_id": 66,
+        "supervisor_id": 355
+    },
+    {
+        "employee_id": 252,
+        "emp_first_name": "Susan",
+        "emp_last_name": "Cunningham",
+        "emp_role": "Manager",
+        "phone_ext": "1132",
+        "branch_id": 67,
+        "supervisor_id": 361
+    },
+    {
+        "employee_id": 253,
+        "emp_first_name": "Joseph",
+        "emp_last_name": "Diaz",
+        "emp_role": "Teller",
+        "phone_ext": "4570",
+        "branch_id": 470,
+        "supervisor_id": 388
+    },
+    {
+        "employee_id": 254,
+        "emp_first_name": "Nicholas",
+        "emp_last_name": "Hardin",
+        "emp_role": "Manager",
+        "phone_ext": "1820",
+        "branch_id": 385,
+        "supervisor_id": 489
+    },
+    {
+        "employee_id": 255,
+        "emp_first_name": "Lindsay",
+        "emp_last_name": "Sanchez",
+        "emp_role": "Analyst",
+        "phone_ext": "2551",
+        "branch_id": 48,
+        "supervisor_id": 267
+    },
+    {
+        "employee_id": 256,
+        "emp_first_name": "Mary",
+        "emp_last_name": "Martin",
+        "emp_role": "Clerk",
+        "phone_ext": "5104",
+        "branch_id": 351,
+        "supervisor_id": 277
+    },
+    {
+        "employee_id": 257,
+        "emp_first_name": "Jessica",
+        "emp_last_name": "Riley",
+        "emp_role": "Teller",
+        "phone_ext": "3833",
+        "branch_id": 202,
+        "supervisor_id": 331
+    },
+    {
+        "employee_id": 258,
+        "emp_first_name": "Anita",
+        "emp_last_name": "Porter",
+        "emp_role": "Teller",
+        "phone_ext": "5501",
+        "branch_id": 159,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 259,
+        "emp_first_name": "Timothy",
+        "emp_last_name": "Martinez",
+        "emp_role": "Clerk",
+        "phone_ext": "2775",
+        "branch_id": 112,
+        "supervisor_id": 462
+    },
+    {
+        "employee_id": 260,
+        "emp_first_name": "Eileen",
+        "emp_last_name": "Davila",
+        "emp_role": "Teller",
+        "phone_ext": "4838",
+        "branch_id": 499,
+        "supervisor_id": 398
+    },
+    {
+        "employee_id": 261,
+        "emp_first_name": "Michael",
+        "emp_last_name": "Atkins",
+        "emp_role": "Analyst",
+        "phone_ext": "6208",
+        "branch_id": 69,
+        "supervisor_id": 170
+    },
+    {
+        "employee_id": 262,
+        "emp_first_name": "James",
+        "emp_last_name": "Francis",
+        "emp_role": "Clerk",
+        "phone_ext": "5192",
+        "branch_id": 257,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 263,
+        "emp_first_name": "Pamela",
+        "emp_last_name": "James",
+        "emp_role": "Manager",
+        "phone_ext": "4931",
+        "branch_id": 299,
+        "supervisor_id": 106
+    },
+    {
+        "employee_id": 264,
+        "emp_first_name": "Andrew",
+        "emp_last_name": "Haynes",
+        "emp_role": "Support",
+        "phone_ext": "1607",
+        "branch_id": 267,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 265,
+        "emp_first_name": "Miguel",
+        "emp_last_name": "Cook",
+        "emp_role": "Manager",
+        "phone_ext": "2237",
+        "branch_id": 101,
+        "supervisor_id": 448
+    },
+    {
+        "employee_id": 266,
+        "emp_first_name": "Hayley",
+        "emp_last_name": "Munoz",
+        "emp_role": "Manager",
+        "phone_ext": "4066",
+        "branch_id": 158,
+        "supervisor_id": 461
+    },
+    {
+        "employee_id": 267,
+        "emp_first_name": "James",
+        "emp_last_name": "Henderson",
+        "emp_role": "Analyst",
+        "phone_ext": "7827",
+        "branch_id": 222,
+        "supervisor_id": 195
+    },
+    {
+        "employee_id": 268,
+        "emp_first_name": "Linda",
+        "emp_last_name": "Shannon",
+        "emp_role": "Clerk",
+        "phone_ext": "7761",
+        "branch_id": 233,
+        "supervisor_id": 339
+    },
+    {
+        "employee_id": 269,
+        "emp_first_name": "Michael",
+        "emp_last_name": "Jarvis",
+        "emp_role": "Clerk",
+        "phone_ext": "6951",
+        "branch_id": 290,
+        "supervisor_id": 296
+    },
+    {
+        "employee_id": 270,
+        "emp_first_name": "Randall",
+        "emp_last_name": "Bradford",
+        "emp_role": "Support",
+        "phone_ext": "5026",
+        "branch_id": 492,
+        "supervisor_id": 116
+    },
+    {
+        "employee_id": 271,
+        "emp_first_name": "Sarah",
+        "emp_last_name": "Brown",
+        "emp_role": "Manager",
+        "phone_ext": "7236",
+        "branch_id": 83,
+        "supervisor_id": 4
+    },
+    {
+        "employee_id": 272,
+        "emp_first_name": "Douglas",
+        "emp_last_name": "Valenzuela",
+        "emp_role": "Manager",
+        "phone_ext": "3596",
+        "branch_id": 470,
+        "supervisor_id": 472
+    },
+    {
+        "employee_id": 273,
+        "emp_first_name": "Gregory",
+        "emp_last_name": "Mooney",
+        "emp_role": "Teller",
+        "phone_ext": "7022",
+        "branch_id": 194,
+        "supervisor_id": 119
+    },
+    {
+        "employee_id": 274,
+        "emp_first_name": "Eric",
+        "emp_last_name": "Stevens",
+        "emp_role": "Clerk",
+        "phone_ext": "1574",
+        "branch_id": 348,
+        "supervisor_id": 280
+    },
+    {
+        "employee_id": 275,
+        "emp_first_name": "Daniel",
+        "emp_last_name": "Norton",
+        "emp_role": "Support",
+        "phone_ext": "9683",
+        "branch_id": 44,
+        "supervisor_id": 182
+    },
+    {
+        "employee_id": 276,
+        "emp_first_name": "Christy",
+        "emp_last_name": "Gray",
+        "emp_role": "Support",
+        "phone_ext": "7049",
+        "branch_id": 142,
+        "supervisor_id": 42
+    },
+    {
+        "employee_id": 277,
+        "emp_first_name": "Lisa",
+        "emp_last_name": "Flowers",
+        "emp_role": "Clerk",
+        "phone_ext": "7616",
+        "branch_id": 62,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 278,
+        "emp_first_name": "James",
+        "emp_last_name": "Gonzales",
+        "emp_role": "Clerk",
+        "phone_ext": "7306",
+        "branch_id": 189,
+        "supervisor_id": 355
+    },
+    {
+        "employee_id": 279,
+        "emp_first_name": "Margaret",
+        "emp_last_name": "Larson",
+        "emp_role": "Analyst",
+        "phone_ext": "4340",
+        "branch_id": 387,
+        "supervisor_id": 431
+    },
+    {
+        "employee_id": 280,
+        "emp_first_name": "Allen",
+        "emp_last_name": "Smith",
+        "emp_role": "Clerk",
+        "phone_ext": "4364",
+        "branch_id": 288,
+        "supervisor_id": 335
+    },
+    {
+        "employee_id": 281,
+        "emp_first_name": "Jennifer",
+        "emp_last_name": "Odonnell",
+        "emp_role": "Analyst",
+        "phone_ext": "7661",
+        "branch_id": 176,
+        "supervisor_id": 239
+    },
+    {
+        "employee_id": 282,
+        "emp_first_name": "Scott",
+        "emp_last_name": "Carlson",
+        "emp_role": "Clerk",
+        "phone_ext": "4143",
+        "branch_id": 321,
+        "supervisor_id": 492
+    },
+    {
+        "employee_id": 283,
+        "emp_first_name": "Crystal",
+        "emp_last_name": "Hall",
+        "emp_role": "Analyst",
+        "phone_ext": "4203",
+        "branch_id": 233,
+        "supervisor_id": 158
+    },
+    {
+        "employee_id": 284,
+        "emp_first_name": "Devin",
+        "emp_last_name": "Wilson",
+        "emp_role": "Teller",
+        "phone_ext": "9348",
+        "branch_id": 306,
+        "supervisor_id": 374
+    },
+    {
+        "employee_id": 285,
+        "emp_first_name": "Diamond",
+        "emp_last_name": "Hill",
+        "emp_role": "Clerk",
+        "phone_ext": "2098",
+        "branch_id": 282,
+        "supervisor_id": 342
+    },
+    {
+        "employee_id": 286,
+        "emp_first_name": "Emily",
+        "emp_last_name": "Perry",
+        "emp_role": "Manager",
+        "phone_ext": "4751",
+        "branch_id": 213,
+        "supervisor_id": 472
+    },
+    {
+        "employee_id": 287,
+        "emp_first_name": "Ryan",
+        "emp_last_name": "Gonzalez",
+        "emp_role": "Teller",
+        "phone_ext": "2428",
+        "branch_id": 28,
+        "supervisor_id": 110
+    },
+    {
+        "employee_id": 288,
+        "emp_first_name": "Lisa",
+        "emp_last_name": "Peterson",
+        "emp_role": "Clerk",
+        "phone_ext": "4091",
+        "branch_id": 143,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 289,
+        "emp_first_name": "Jennifer",
+        "emp_last_name": "Weaver",
+        "emp_role": "Clerk",
+        "phone_ext": "9210",
+        "branch_id": 432,
+        "supervisor_id": 454
+    },
+    {
+        "employee_id": 290,
+        "emp_first_name": "Kyle",
+        "emp_last_name": "Schwartz",
+        "emp_role": "Teller",
+        "phone_ext": "7457",
+        "branch_id": 30,
+        "supervisor_id": 294
+    },
+    {
+        "employee_id": 291,
+        "emp_first_name": "Jennifer",
+        "emp_last_name": "Johnson",
+        "emp_role": "Clerk",
+        "phone_ext": "1599",
+        "branch_id": 85,
+        "supervisor_id": 219
+    },
+    {
+        "employee_id": 292,
+        "emp_first_name": "Charles",
+        "emp_last_name": "Steele",
+        "emp_role": "Manager",
+        "phone_ext": "9194",
+        "branch_id": 29,
+        "supervisor_id": 165
+    },
+    {
+        "employee_id": 293,
+        "emp_first_name": "Robert",
+        "emp_last_name": "Butler",
+        "emp_role": "Clerk",
+        "phone_ext": "5087",
+        "branch_id": 167,
+        "supervisor_id": 302
+    },
+    {
+        "employee_id": 294,
+        "emp_first_name": "James",
+        "emp_last_name": "Davis",
+        "emp_role": "Manager",
+        "phone_ext": "6311",
+        "branch_id": 314,
+        "supervisor_id": 68
+    },
+    {
+        "employee_id": 295,
+        "emp_first_name": "Christopher",
+        "emp_last_name": "Lewis",
+        "emp_role": "Teller",
+        "phone_ext": "6027",
+        "branch_id": 80,
+        "supervisor_id": 123
+    },
+    {
+        "employee_id": 296,
+        "emp_first_name": "Richard",
+        "emp_last_name": "Brown",
+        "emp_role": "Support",
+        "phone_ext": "3515",
+        "branch_id": 321,
+        "supervisor_id": 420
+    },
+    {
+        "employee_id": 297,
+        "emp_first_name": "Peter",
+        "emp_last_name": "Mclaughlin",
+        "emp_role": "Support",
+        "phone_ext": "6732",
+        "branch_id": 379,
+        "supervisor_id": 47
+    },
+    {
+        "employee_id": 298,
+        "emp_first_name": "Kent",
+        "emp_last_name": "Rubio",
+        "emp_role": "Analyst",
+        "phone_ext": "2811",
+        "branch_id": 118,
+        "supervisor_id": 434
+    },
+    {
+        "employee_id": 299,
+        "emp_first_name": "Lisa",
+        "emp_last_name": "Jones",
+        "emp_role": "Clerk",
+        "phone_ext": "3732",
+        "branch_id": 219,
+        "supervisor_id": 56
+    },
+    {
+        "employee_id": 300,
+        "emp_first_name": "Natalie",
+        "emp_last_name": "Brooks",
+        "emp_role": "Support",
+        "phone_ext": "3142",
+        "branch_id": 328,
+        "supervisor_id": 64
+    },
+    {
+        "employee_id": 301,
+        "emp_first_name": "Ryan",
+        "emp_last_name": "Santos",
+        "emp_role": "Analyst",
+        "phone_ext": "1748",
+        "branch_id": 25,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 302,
+        "emp_first_name": "Jaime",
+        "emp_last_name": "Robinson",
+        "emp_role": "Clerk",
+        "phone_ext": "1766",
+        "branch_id": 342,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 303,
+        "emp_first_name": "Christopher",
+        "emp_last_name": "Smith",
+        "emp_role": "Teller",
+        "phone_ext": "1196",
+        "branch_id": 491,
+        "supervisor_id": 112
+    },
+    {
+        "employee_id": 304,
+        "emp_first_name": "Cindy",
+        "emp_last_name": "Jones",
+        "emp_role": "Support",
+        "phone_ext": "8398",
+        "branch_id": 339,
+        "supervisor_id": 218
+    },
+    {
+        "employee_id": 305,
+        "emp_first_name": "Diane",
+        "emp_last_name": "Romero",
+        "emp_role": "Clerk",
+        "phone_ext": "2722",
+        "branch_id": 137,
+        "supervisor_id": 63
+    },
+    {
+        "employee_id": 306,
+        "emp_first_name": "Keith",
+        "emp_last_name": "Cortez",
+        "emp_role": "Clerk",
+        "phone_ext": "4587",
+        "branch_id": 368,
+        "supervisor_id": 409
+    },
+    {
+        "employee_id": 307,
+        "emp_first_name": "Tyler",
+        "emp_last_name": "Fisher",
+        "emp_role": "Teller",
+        "phone_ext": "9477",
+        "branch_id": 211,
+        "supervisor_id": 419
+    },
+    {
+        "employee_id": 308,
+        "emp_first_name": "Kevin",
+        "emp_last_name": "Simmons",
+        "emp_role": "Analyst",
+        "phone_ext": "5734",
+        "branch_id": 348,
+        "supervisor_id": 280
+    },
+    {
+        "employee_id": 309,
+        "emp_first_name": "Katelyn",
+        "emp_last_name": "Walker",
+        "emp_role": "Analyst",
+        "phone_ext": "2901",
+        "branch_id": 323,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 310,
+        "emp_first_name": "Bethany",
+        "emp_last_name": "Carter",
+        "emp_role": "Analyst",
+        "phone_ext": "6060",
+        "branch_id": 273,
+        "supervisor_id": 470
+    },
+    {
+        "employee_id": 311,
+        "emp_first_name": "Melissa",
+        "emp_last_name": "Kline",
+        "emp_role": "Support",
+        "phone_ext": "4332",
+        "branch_id": 238,
+        "supervisor_id": 34
+    },
+    {
+        "employee_id": 312,
+        "emp_first_name": "Jessica",
+        "emp_last_name": "Clarke",
+        "emp_role": "Teller",
+        "phone_ext": "2829",
+        "branch_id": 211,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 313,
+        "emp_first_name": "Mary",
+        "emp_last_name": "Riley",
+        "emp_role": "Teller",
+        "phone_ext": "4004",
+        "branch_id": 363,
+        "supervisor_id": 134
+    },
+    {
+        "employee_id": 314,
+        "emp_first_name": "Phillip",
+        "emp_last_name": "Brown",
+        "emp_role": "Analyst",
+        "phone_ext": "7535",
+        "branch_id": 440,
+        "supervisor_id": 456
+    },
+    {
+        "employee_id": 315,
+        "emp_first_name": "Dennis",
+        "emp_last_name": "Kelley",
+        "emp_role": "Manager",
+        "phone_ext": "4070",
+        "branch_id": 166,
+        "supervisor_id": 377
+    },
+    {
+        "employee_id": 316,
+        "emp_first_name": "David",
+        "emp_last_name": "Taylor",
+        "emp_role": "Teller",
+        "phone_ext": "4082",
+        "branch_id": 344,
+        "supervisor_id": 108
+    },
+    {
+        "employee_id": 317,
+        "emp_first_name": "Justin",
+        "emp_last_name": "Cunningham",
+        "emp_role": "Support",
+        "phone_ext": "9065",
+        "branch_id": 476,
+        "supervisor_id": 422
+    },
+    {
+        "employee_id": 318,
+        "emp_first_name": "Christopher",
+        "emp_last_name": "Mccullough",
+        "emp_role": "Clerk",
+        "phone_ext": "4607",
+        "branch_id": 499,
+        "supervisor_id": 97
+    },
+    {
+        "employee_id": 319,
+        "emp_first_name": "George",
+        "emp_last_name": "Wilkinson",
+        "emp_role": "Support",
+        "phone_ext": "4971",
+        "branch_id": 287,
+        "supervisor_id": 26
+    },
+    {
+        "employee_id": 320,
+        "emp_first_name": "Paige",
+        "emp_last_name": "Koch",
+        "emp_role": "Manager",
+        "phone_ext": "4703",
+        "branch_id": 235,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 321,
+        "emp_first_name": "Brian",
+        "emp_last_name": "Garcia",
+        "emp_role": "Analyst",
+        "phone_ext": "3333",
+        "branch_id": 121,
+        "supervisor_id": 107
+    },
+    {
+        "employee_id": 322,
+        "emp_first_name": "Teresa",
+        "emp_last_name": "Reeves",
+        "emp_role": "Teller",
+        "phone_ext": "5188",
+        "branch_id": 260,
+        "supervisor_id": 202
+    },
+    {
+        "employee_id": 323,
+        "emp_first_name": "Amanda",
+        "emp_last_name": "Hall",
+        "emp_role": "Manager",
+        "phone_ext": "2693",
+        "branch_id": 111,
+        "supervisor_id": 376
+    },
+    {
+        "employee_id": 324,
+        "emp_first_name": "Kellie",
+        "emp_last_name": "Williams",
+        "emp_role": "Manager",
+        "phone_ext": "6461",
+        "branch_id": 263,
+        "supervisor_id": 472
+    },
+    {
+        "employee_id": 325,
+        "emp_first_name": "Philip",
+        "emp_last_name": "White",
+        "emp_role": "Analyst",
+        "phone_ext": "3914",
+        "branch_id": 468,
+        "supervisor_id": 288
+    },
+    {
+        "employee_id": 326,
+        "emp_first_name": "Maria",
+        "emp_last_name": "Turner",
+        "emp_role": "Analyst",
+        "phone_ext": "1463",
+        "branch_id": 296,
+        "supervisor_id": 262
+    },
+    {
+        "employee_id": 327,
+        "emp_first_name": "Jennifer",
+        "emp_last_name": "Miller",
+        "emp_role": "Manager",
+        "phone_ext": "4581",
+        "branch_id": 270,
+        "supervisor_id": 131
+    },
+    {
+        "employee_id": 328,
+        "emp_first_name": "Jessica",
+        "emp_last_name": "Cordova",
+        "emp_role": "Teller",
+        "phone_ext": "5546",
+        "branch_id": 359,
+        "supervisor_id": 400
+    },
+    {
+        "employee_id": 329,
+        "emp_first_name": "Amber",
+        "emp_last_name": "Richmond",
+        "emp_role": "Teller",
+        "phone_ext": "8050",
+        "branch_id": 201,
+        "supervisor_id": 391
+    },
+    {
+        "employee_id": 330,
+        "emp_first_name": "Lauren",
+        "emp_last_name": "Webb",
+        "emp_role": "Analyst",
+        "phone_ext": "2062",
+        "branch_id": 244,
+        "supervisor_id": 417
+    },
+    {
+        "employee_id": 331,
+        "emp_first_name": "Ricardo",
+        "emp_last_name": "Hunter",
+        "emp_role": "Analyst",
+        "phone_ext": "7160",
+        "branch_id": 11,
+        "supervisor_id": 277
+    },
+    {
+        "employee_id": 332,
+        "emp_first_name": "Betty",
+        "emp_last_name": "Atkinson",
+        "emp_role": "Clerk",
+        "phone_ext": "6525",
+        "branch_id": 246,
+        "supervisor_id": 241
+    },
+    {
+        "employee_id": 333,
+        "emp_first_name": "John",
+        "emp_last_name": "Melton",
+        "emp_role": "Teller",
+        "phone_ext": "1390",
+        "branch_id": 267,
+        "supervisor_id": 354
+    },
+    {
+        "employee_id": 334,
+        "emp_first_name": "Nicholas",
+        "emp_last_name": "Reynolds",
+        "emp_role": "Analyst",
+        "phone_ext": "7099",
+        "branch_id": 30,
+        "supervisor_id": 81
+    },
+    {
+        "employee_id": 335,
+        "emp_first_name": "Connie",
+        "emp_last_name": "Montoya",
+        "emp_role": "Support",
+        "phone_ext": "4596",
+        "branch_id": 312,
+        "supervisor_id": 114
+    },
+    {
+        "employee_id": 336,
+        "emp_first_name": "Melissa",
+        "emp_last_name": "Sparks",
+        "emp_role": "Support",
+        "phone_ext": "1239",
+        "branch_id": 9,
+        "supervisor_id": 279
+    },
+    {
+        "employee_id": 337,
+        "emp_first_name": "Dylan",
+        "emp_last_name": "Myers",
+        "emp_role": "Manager",
+        "phone_ext": "9073",
+        "branch_id": 208,
+        "supervisor_id": 406
+    },
+    {
+        "employee_id": 338,
+        "emp_first_name": "Timothy",
+        "emp_last_name": "Hess",
+        "emp_role": "Clerk",
+        "phone_ext": "2676",
+        "branch_id": 3,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 339,
+        "emp_first_name": "Juan",
+        "emp_last_name": "Gross",
+        "emp_role": "Analyst",
+        "phone_ext": "7548",
+        "branch_id": 57,
+        "supervisor_id": 336
+    },
+    {
+        "employee_id": 340,
+        "emp_first_name": "Jacob",
+        "emp_last_name": "Allison",
+        "emp_role": "Support",
+        "phone_ext": "9847",
+        "branch_id": 344,
+        "supervisor_id": 67
+    },
+    {
+        "employee_id": 341,
+        "emp_first_name": "Morgan",
+        "emp_last_name": "Graham",
+        "emp_role": "Clerk",
+        "phone_ext": "2649",
+        "branch_id": 490,
+        "supervisor_id": 497
+    },
+    {
+        "employee_id": 342,
+        "emp_first_name": "Jasmine",
+        "emp_last_name": "Mueller",
+        "emp_role": "Clerk",
+        "phone_ext": "4391",
+        "branch_id": 461,
+        "supervisor_id": 63
+    },
+    {
+        "employee_id": 343,
+        "emp_first_name": "Rebekah",
+        "emp_last_name": "Smith",
+        "emp_role": "Analyst",
+        "phone_ext": "2406",
+        "branch_id": 348,
+        "supervisor_id": 388
+    },
+    {
+        "employee_id": 344,
+        "emp_first_name": "Cassandra",
+        "emp_last_name": "Sanders",
+        "emp_role": "Support",
+        "phone_ext": "7652",
+        "branch_id": 1,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 345,
+        "emp_first_name": "Lisa",
+        "emp_last_name": "Velazquez",
+        "emp_role": "Analyst",
+        "phone_ext": "6559",
+        "branch_id": 57,
+        "supervisor_id": 247
+    },
+    {
+        "employee_id": 346,
+        "emp_first_name": "Nathan",
+        "emp_last_name": "Nelson",
+        "emp_role": "Teller",
+        "phone_ext": "7381",
+        "branch_id": 64,
+        "supervisor_id": 271
+    },
+    {
+        "employee_id": 347,
+        "emp_first_name": "Stephanie",
+        "emp_last_name": "Webb",
+        "emp_role": "Teller",
+        "phone_ext": "1218",
+        "branch_id": 40,
+        "supervisor_id": 441
+    },
+    {
+        "employee_id": 348,
+        "emp_first_name": "James",
+        "emp_last_name": "Henry",
+        "emp_role": "Clerk",
+        "phone_ext": "1421",
+        "branch_id": 491,
+        "supervisor_id": 157
+    },
+    {
+        "employee_id": 349,
+        "emp_first_name": "Mark",
+        "emp_last_name": "Case",
+        "emp_role": "Support",
+        "phone_ext": "2926",
+        "branch_id": 377,
+        "supervisor_id": 266
+    },
+    {
+        "employee_id": 350,
+        "emp_first_name": "Craig",
+        "emp_last_name": "Mendez",
+        "emp_role": "Analyst",
+        "phone_ext": "2534",
+        "branch_id": 132,
+        "supervisor_id": 298
+    },
+    {
+        "employee_id": 351,
+        "emp_first_name": "Leah",
+        "emp_last_name": "Allen",
+        "emp_role": "Manager",
+        "phone_ext": "1089",
+        "branch_id": 429,
+        "supervisor_id": 231
+    },
+    {
+        "employee_id": 352,
+        "emp_first_name": "Kaylee",
+        "emp_last_name": "Marshall",
+        "emp_role": "Teller",
+        "phone_ext": "3687",
+        "branch_id": 216,
+        "supervisor_id": 91
+    },
+    {
+        "employee_id": 353,
+        "emp_first_name": "Leah",
+        "emp_last_name": "Phillips",
+        "emp_role": "Manager",
+        "phone_ext": "9416",
+        "branch_id": 9,
+        "supervisor_id": 8
+    },
+    {
+        "employee_id": 354,
+        "emp_first_name": "Patricia",
+        "emp_last_name": "Ingram",
+        "emp_role": "Manager",
+        "phone_ext": "3539",
+        "branch_id": 4,
+        "supervisor_id": 275
+    },
+    {
+        "employee_id": 355,
+        "emp_first_name": "Brandon",
+        "emp_last_name": "Robinson",
+        "emp_role": "Analyst",
+        "phone_ext": "4857",
+        "branch_id": 9,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 356,
+        "emp_first_name": "Mary",
+        "emp_last_name": "Smith",
+        "emp_role": "Clerk",
+        "phone_ext": "7474",
+        "branch_id": 481,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 357,
+        "emp_first_name": "Leah",
+        "emp_last_name": "Newton",
+        "emp_role": "Manager",
+        "phone_ext": "1350",
+        "branch_id": 237,
+        "supervisor_id": 33
+    },
+    {
+        "employee_id": 358,
+        "emp_first_name": "Lisa",
+        "emp_last_name": "Madden",
+        "emp_role": "Analyst",
+        "phone_ext": "2830",
+        "branch_id": 192,
+        "supervisor_id": 306
+    },
+    {
+        "employee_id": 359,
+        "emp_first_name": "Steve",
+        "emp_last_name": "Thompson",
+        "emp_role": "Clerk",
+        "phone_ext": "2344",
+        "branch_id": 110,
+        "supervisor_id": 290
+    },
+    {
+        "employee_id": 360,
+        "emp_first_name": "Jonathan",
+        "emp_last_name": "Wilson",
+        "emp_role": "Clerk",
+        "phone_ext": "2048",
+        "branch_id": 238,
+        "supervisor_id": 388
+    },
+    {
+        "employee_id": 361,
+        "emp_first_name": "Amy",
+        "emp_last_name": "Smith",
+        "emp_role": "Teller",
+        "phone_ext": "9804",
+        "branch_id": 22,
+        "supervisor_id": 218
+    },
+    {
+        "employee_id": 362,
+        "emp_first_name": "Jessica",
+        "emp_last_name": "Simon",
+        "emp_role": "Support",
+        "phone_ext": "5034",
+        "branch_id": 317,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 363,
+        "emp_first_name": "Justin",
+        "emp_last_name": "Chan",
+        "emp_role": "Analyst",
+        "phone_ext": "2306",
+        "branch_id": 92,
+        "supervisor_id": 225
+    },
+    {
+        "employee_id": 364,
+        "emp_first_name": "Jennifer",
+        "emp_last_name": "Wilkinson",
+        "emp_role": "Manager",
+        "phone_ext": "1795",
+        "branch_id": 200,
+        "supervisor_id": 32
+    },
+    {
+        "employee_id": 365,
+        "emp_first_name": "Erin",
+        "emp_last_name": "Smith",
+        "emp_role": "Support",
+        "phone_ext": "9366",
+        "branch_id": 58,
+        "supervisor_id": 198
+    },
+    {
+        "employee_id": 366,
+        "emp_first_name": "Natasha",
+        "emp_last_name": "Garza",
+        "emp_role": "Support",
+        "phone_ext": "8060",
+        "branch_id": 103,
+        "supervisor_id": 171
+    },
+    {
+        "employee_id": 367,
+        "emp_first_name": "Crystal",
+        "emp_last_name": "Dalton",
+        "emp_role": "Support",
+        "phone_ext": "2420",
+        "branch_id": 466,
+        "supervisor_id": 397
+    },
+    {
+        "employee_id": 368,
+        "emp_first_name": "Robert",
+        "emp_last_name": "Taylor",
+        "emp_role": "Manager",
+        "phone_ext": "9263",
+        "branch_id": 441,
+        "supervisor_id": 109
+    },
+    {
+        "employee_id": 369,
+        "emp_first_name": "Danielle",
+        "emp_last_name": "Garcia",
+        "emp_role": "Manager",
+        "phone_ext": "4319",
+        "branch_id": 13,
+        "supervisor_id": 410
+    },
+    {
+        "employee_id": 370,
+        "emp_first_name": "Brad",
+        "emp_last_name": "Luna",
+        "emp_role": "Teller",
+        "phone_ext": "5131",
+        "branch_id": 32,
+        "supervisor_id": 271
+    },
+    {
+        "employee_id": 371,
+        "emp_first_name": "Kenneth",
+        "emp_last_name": "Watson",
+        "emp_role": "Support",
+        "phone_ext": "5836",
+        "branch_id": 304,
+        "supervisor_id": 451
+    },
+    {
+        "employee_id": 372,
+        "emp_first_name": "Fernando",
+        "emp_last_name": "Frost",
+        "emp_role": "Manager",
+        "phone_ext": "5289",
+        "branch_id": 443,
+        "supervisor_id": 82
+    },
+    {
+        "employee_id": 373,
+        "emp_first_name": "Thomas",
+        "emp_last_name": "Clark",
+        "emp_role": "Teller",
+        "phone_ext": "8166",
+        "branch_id": 61,
+        "supervisor_id": 496
+    },
+    {
+        "employee_id": 374,
+        "emp_first_name": "Virginia",
+        "emp_last_name": "Stephens",
+        "emp_role": "Support",
+        "phone_ext": "4226",
+        "branch_id": 176,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 375,
+        "emp_first_name": "James",
+        "emp_last_name": "Guzman",
+        "emp_role": "Analyst",
+        "phone_ext": "9572",
+        "branch_id": 165,
+        "supervisor_id": 36
+    },
+    {
+        "employee_id": 376,
+        "emp_first_name": "Alexandra",
+        "emp_last_name": "Carter",
+        "emp_role": "Clerk",
+        "phone_ext": "7102",
+        "branch_id": 289,
+        "supervisor_id": 375
+    },
+    {
+        "employee_id": 377,
+        "emp_first_name": "Anna",
+        "emp_last_name": "Roberts",
+        "emp_role": "Support",
+        "phone_ext": "7456",
+        "branch_id": 336,
+        "supervisor_id": 81
+    },
+    {
+        "employee_id": 378,
+        "emp_first_name": "Kimberly",
+        "emp_last_name": "Russo",
+        "emp_role": "Manager",
+        "phone_ext": "8757",
+        "branch_id": 487,
+        "supervisor_id": 362
+    },
+    {
+        "employee_id": 379,
+        "emp_first_name": "Carlos",
+        "emp_last_name": "Holland",
+        "emp_role": "Manager",
+        "phone_ext": "8368",
+        "branch_id": 138,
+        "supervisor_id": 25
+    },
+    {
+        "employee_id": 380,
+        "emp_first_name": "Gregory",
+        "emp_last_name": "Jimenez",
+        "emp_role": "Manager",
+        "phone_ext": "3790",
+        "branch_id": 266,
+        "supervisor_id": 292
+    },
+    {
+        "employee_id": 381,
+        "emp_first_name": "Lynn",
+        "emp_last_name": "Webb",
+        "emp_role": "Teller",
+        "phone_ext": "7952",
+        "branch_id": 231,
+        "supervisor_id": 330
+    },
+    {
+        "employee_id": 382,
+        "emp_first_name": "Joan",
+        "emp_last_name": "Johnson",
+        "emp_role": "Analyst",
+        "phone_ext": "8163",
+        "branch_id": 211,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 383,
+        "emp_first_name": "Faith",
+        "emp_last_name": "Calderon",
+        "emp_role": "Clerk",
+        "phone_ext": "5170",
+        "branch_id": 326,
+        "supervisor_id": 118
+    },
+    {
+        "employee_id": 384,
+        "emp_first_name": "Christie",
+        "emp_last_name": "Johnson",
+        "emp_role": "Teller",
+        "phone_ext": "6586",
+        "branch_id": 465,
+        "supervisor_id": 289
+    },
+    {
+        "employee_id": 385,
+        "emp_first_name": "Brandi",
+        "emp_last_name": "Christian",
+        "emp_role": "Manager",
+        "phone_ext": "1470",
+        "branch_id": 44,
+        "supervisor_id": 450
+    },
+    {
+        "employee_id": 386,
+        "emp_first_name": "Amy",
+        "emp_last_name": "Rubio",
+        "emp_role": "Manager",
+        "phone_ext": "7671",
+        "branch_id": 198,
+        "supervisor_id": 399
+    },
+    {
+        "employee_id": 387,
+        "emp_first_name": "Linda",
+        "emp_last_name": "Mays",
+        "emp_role": "Analyst",
+        "phone_ext": "4401",
+        "branch_id": 208,
+        "supervisor_id": 65
+    },
+    {
+        "employee_id": 388,
+        "emp_first_name": "Joshua",
+        "emp_last_name": "Bryant",
+        "emp_role": "Clerk",
+        "phone_ext": "7780",
+        "branch_id": 449,
+        "supervisor_id": 45
+    },
+    {
+        "employee_id": 389,
+        "emp_first_name": "Brianna",
+        "emp_last_name": "Tran",
+        "emp_role": "Teller",
+        "phone_ext": "7628",
+        "branch_id": 175,
+        "supervisor_id": 460
+    },
+    {
+        "employee_id": 390,
+        "emp_first_name": "Michael",
+        "emp_last_name": "Cook",
+        "emp_role": "Manager",
+        "phone_ext": "1559",
+        "branch_id": 249,
+        "supervisor_id": 465
+    },
+    {
+        "employee_id": 391,
+        "emp_first_name": "Ellen",
+        "emp_last_name": "Sanchez",
+        "emp_role": "Analyst",
+        "phone_ext": "7444",
+        "branch_id": 269,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 392,
+        "emp_first_name": "Pamela",
+        "emp_last_name": "Hale",
+        "emp_role": "Manager",
+        "phone_ext": "6651",
+        "branch_id": 179,
+        "supervisor_id": 138
+    },
+    {
+        "employee_id": 393,
+        "emp_first_name": "Brittany",
+        "emp_last_name": "Cobb",
+        "emp_role": "Manager",
+        "phone_ext": "3497",
+        "branch_id": 54,
+        "supervisor_id": 185
+    },
+    {
+        "employee_id": 394,
+        "emp_first_name": "Keith",
+        "emp_last_name": "Higgins",
+        "emp_role": "Support",
+        "phone_ext": "6763",
+        "branch_id": 426,
+        "supervisor_id": 204
+    },
+    {
+        "employee_id": 395,
+        "emp_first_name": "David",
+        "emp_last_name": "Carter",
+        "emp_role": "Clerk",
+        "phone_ext": "5941",
+        "branch_id": 252,
+        "supervisor_id": 193
+    },
+    {
+        "employee_id": 396,
+        "emp_first_name": "Robert",
+        "emp_last_name": "Rodriguez",
+        "emp_role": "Teller",
+        "phone_ext": "5161",
+        "branch_id": 50,
+        "supervisor_id": 186
+    },
+    {
+        "employee_id": 397,
+        "emp_first_name": "David",
+        "emp_last_name": "Brooks",
+        "emp_role": "Teller",
+        "phone_ext": "8807",
+        "branch_id": 447,
+        "supervisor_id": 174
+    },
+    {
+        "employee_id": 398,
+        "emp_first_name": "Linda",
+        "emp_last_name": "Murphy",
+        "emp_role": "Support",
+        "phone_ext": "2103",
+        "branch_id": 460,
+        "supervisor_id": 63
+    },
+    {
+        "employee_id": 399,
+        "emp_first_name": "Robert",
+        "emp_last_name": "Villanueva",
+        "emp_role": "Manager",
+        "phone_ext": "1521",
+        "branch_id": 74,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 400,
+        "emp_first_name": "Michael",
+        "emp_last_name": "Bender",
+        "emp_role": "Teller",
+        "phone_ext": "6617",
+        "branch_id": 378,
+        "supervisor_id": 371
+    },
+    {
+        "employee_id": 401,
+        "emp_first_name": "Scott",
+        "emp_last_name": "Williams",
+        "emp_role": "Clerk",
+        "phone_ext": "2224",
+        "branch_id": 297,
+        "supervisor_id": 375
+    },
+    {
+        "employee_id": 402,
+        "emp_first_name": "Dominique",
+        "emp_last_name": "Ruiz",
+        "emp_role": "Support",
+        "phone_ext": "9889",
+        "branch_id": 200,
+        "supervisor_id": 377
+    },
+    {
+        "employee_id": 403,
+        "emp_first_name": "Sara",
+        "emp_last_name": "Crane",
+        "emp_role": "Manager",
+        "phone_ext": "8729",
+        "branch_id": 196,
+        "supervisor_id": 22
+    },
+    {
+        "employee_id": 404,
+        "emp_first_name": "Lauren",
+        "emp_last_name": "George",
+        "emp_role": "Manager",
+        "phone_ext": "9763",
+        "branch_id": 427,
+        "supervisor_id": 434
+    },
+    {
+        "employee_id": 405,
+        "emp_first_name": "Ashley",
+        "emp_last_name": "Johnson",
+        "emp_role": "Support",
+        "phone_ext": "9435",
+        "branch_id": 421,
+        "supervisor_id": 416
+    },
+    {
+        "employee_id": 406,
+        "emp_first_name": "Joseph",
+        "emp_last_name": "Shelton",
+        "emp_role": "Clerk",
+        "phone_ext": "6016",
+        "branch_id": 401,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 407,
+        "emp_first_name": "Ruben",
+        "emp_last_name": "Castro",
+        "emp_role": "Clerk",
+        "phone_ext": "5106",
+        "branch_id": 458,
+        "supervisor_id": 241
+    },
+    {
+        "employee_id": 408,
+        "emp_first_name": "Elizabeth",
+        "emp_last_name": "Richardson",
+        "emp_role": "Support",
+        "phone_ext": "5854",
+        "branch_id": 260,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 409,
+        "emp_first_name": "Gabriel",
+        "emp_last_name": "Khan",
+        "emp_role": "Teller",
+        "phone_ext": "9206",
+        "branch_id": 354,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 410,
+        "emp_first_name": "Blake",
+        "emp_last_name": "Webster",
+        "emp_role": "Manager",
+        "phone_ext": "3485",
+        "branch_id": 260,
+        "supervisor_id": 89
+    },
+    {
+        "employee_id": 411,
+        "emp_first_name": "Jasmine",
+        "emp_last_name": "Brown",
+        "emp_role": "Support",
+        "phone_ext": "7770",
+        "branch_id": 299,
+        "supervisor_id": 91
+    },
+    {
+        "employee_id": 412,
+        "emp_first_name": "Richard",
+        "emp_last_name": "Martinez",
+        "emp_role": "Clerk",
+        "phone_ext": "4125",
+        "branch_id": 324,
+        "supervisor_id": 162
+    },
+    {
+        "employee_id": 413,
+        "emp_first_name": "Sandra",
+        "emp_last_name": "Gray",
+        "emp_role": "Manager",
+        "phone_ext": "6403",
+        "branch_id": 278,
+        "supervisor_id": 81
+    },
+    {
+        "employee_id": 414,
+        "emp_first_name": "Danny",
+        "emp_last_name": "Snyder",
+        "emp_role": "Analyst",
+        "phone_ext": "8558",
+        "branch_id": 329,
+        "supervisor_id": 156
+    },
+    {
+        "employee_id": 415,
+        "emp_first_name": "Lucas",
+        "emp_last_name": "Simmons",
+        "emp_role": "Teller",
+        "phone_ext": "8277",
+        "branch_id": 106,
+        "supervisor_id": 341
+    },
+    {
+        "employee_id": 416,
+        "emp_first_name": "Aaron",
+        "emp_last_name": "Mayo",
+        "emp_role": "Analyst",
+        "phone_ext": "6544",
+        "branch_id": 477,
+        "supervisor_id": 105
+    },
+    {
+        "employee_id": 417,
+        "emp_first_name": "Kelli",
+        "emp_last_name": "Logan",
+        "emp_role": "Manager",
+        "phone_ext": "1203",
+        "branch_id": 388,
+        "supervisor_id": 316
+    },
+    {
+        "employee_id": 418,
+        "emp_first_name": "Tiffany",
+        "emp_last_name": "Sandoval",
+        "emp_role": "Support",
+        "phone_ext": "1747",
+        "branch_id": 329,
+        "supervisor_id": 491
+    },
+    {
+        "employee_id": 419,
+        "emp_first_name": "Sierra",
+        "emp_last_name": "Gregory",
+        "emp_role": "Clerk",
+        "phone_ext": "4211",
+        "branch_id": 379,
+        "supervisor_id": 168
+    },
+    {
+        "employee_id": 420,
+        "emp_first_name": "Lauren",
+        "emp_last_name": "Sanchez",
+        "emp_role": "Support",
+        "phone_ext": "1108",
+        "branch_id": 342,
+        "supervisor_id": 140
+    },
+    {
+        "employee_id": 421,
+        "emp_first_name": "Kyle",
+        "emp_last_name": "Archer",
+        "emp_role": "Teller",
+        "phone_ext": "5475",
+        "branch_id": 78,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 422,
+        "emp_first_name": "David",
+        "emp_last_name": "Saunders",
+        "emp_role": "Teller",
+        "phone_ext": "3957",
+        "branch_id": 84,
+        "supervisor_id": 315
+    },
+    {
+        "employee_id": 423,
+        "emp_first_name": "Melissa",
+        "emp_last_name": "Griffin",
+        "emp_role": "Support",
+        "phone_ext": "8072",
+        "branch_id": 500,
+        "supervisor_id": 250
+    },
+    {
+        "employee_id": 424,
+        "emp_first_name": "Roberto",
+        "emp_last_name": "Walker",
+        "emp_role": "Teller",
+        "phone_ext": "7581",
+        "branch_id": 480,
+        "supervisor_id": 127
+    },
+    {
+        "employee_id": 425,
+        "emp_first_name": "Brian",
+        "emp_last_name": "Lewis",
+        "emp_role": "Clerk",
+        "phone_ext": "4416",
+        "branch_id": 425,
+        "supervisor_id": 500
+    },
+    {
+        "employee_id": 426,
+        "emp_first_name": "Nicholas",
+        "emp_last_name": "Carter",
+        "emp_role": "Support",
+        "phone_ext": "1837",
+        "branch_id": 283,
+        "supervisor_id": 451
+    },
+    {
+        "employee_id": 427,
+        "emp_first_name": "Carolyn",
+        "emp_last_name": "Robinson",
+        "emp_role": "Support",
+        "phone_ext": "6232",
+        "branch_id": 137,
+        "supervisor_id": 440
+    },
+    {
+        "employee_id": 428,
+        "emp_first_name": "Melinda",
+        "emp_last_name": "Mitchell",
+        "emp_role": "Support",
+        "phone_ext": "6579",
+        "branch_id": 434,
+        "supervisor_id": 177
+    },
+    {
+        "employee_id": 429,
+        "emp_first_name": "Wendy",
+        "emp_last_name": "Taylor",
+        "emp_role": "Teller",
+        "phone_ext": "9785",
+        "branch_id": 360,
+        "supervisor_id": 456
+    },
+    {
+        "employee_id": 430,
+        "emp_first_name": "John",
+        "emp_last_name": "Scott",
+        "emp_role": "Clerk",
+        "phone_ext": "8680",
+        "branch_id": 471,
+        "supervisor_id": 281
+    },
+    {
+        "employee_id": 431,
+        "emp_first_name": "Kristy",
+        "emp_last_name": "Johnson",
+        "emp_role": "Analyst",
+        "phone_ext": "6319",
+        "branch_id": 19,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 432,
+        "emp_first_name": "Michael",
+        "emp_last_name": "Cannon",
+        "emp_role": "Analyst",
+        "phone_ext": "7801",
+        "branch_id": 25,
+        "supervisor_id": 377
+    },
+    {
+        "employee_id": 433,
+        "emp_first_name": "Phillip",
+        "emp_last_name": "Hood",
+        "emp_role": "Support",
+        "phone_ext": "1747",
+        "branch_id": 301,
+        "supervisor_id": 30
+    },
+    {
+        "employee_id": 434,
+        "emp_first_name": "Tina",
+        "emp_last_name": "Mills",
+        "emp_role": "Clerk",
+        "phone_ext": "7909",
+        "branch_id": 297,
+        "supervisor_id": 222
+    },
+    {
+        "employee_id": 435,
+        "emp_first_name": "Christopher",
+        "emp_last_name": "Hubbard",
+        "emp_role": "Teller",
+        "phone_ext": "6905",
+        "branch_id": 350,
+        "supervisor_id": 140
+    },
+    {
+        "employee_id": 436,
+        "emp_first_name": "Jason",
+        "emp_last_name": "Forbes",
+        "emp_role": "Teller",
+        "phone_ext": "2117",
+        "branch_id": 358,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 437,
+        "emp_first_name": "Melissa",
+        "emp_last_name": "Allen",
+        "emp_role": "Manager",
+        "phone_ext": "9968",
+        "branch_id": 241,
+        "supervisor_id": 301
+    },
+    {
+        "employee_id": 438,
+        "emp_first_name": "Rebecca",
+        "emp_last_name": "Shannon",
+        "emp_role": "Teller",
+        "phone_ext": "3274",
+        "branch_id": 265,
+        "supervisor_id": 405
+    },
+    {
+        "employee_id": 439,
+        "emp_first_name": "Michael",
+        "emp_last_name": "Foster",
+        "emp_role": "Analyst",
+        "phone_ext": "6101",
+        "branch_id": 464,
+        "supervisor_id": 286
+    },
+    {
+        "employee_id": 440,
+        "emp_first_name": "Jesse",
+        "emp_last_name": "Fowler",
+        "emp_role": "Manager",
+        "phone_ext": "4094",
+        "branch_id": 492,
+        "supervisor_id": 17
+    },
+    {
+        "employee_id": 441,
+        "emp_first_name": "Ronald",
+        "emp_last_name": "Fisher",
+        "emp_role": "Teller",
+        "phone_ext": "7290",
+        "branch_id": 185,
+        "supervisor_id": 110
+    },
+    {
+        "employee_id": 442,
+        "emp_first_name": "Joseph",
+        "emp_last_name": "Bennett",
+        "emp_role": "Support",
+        "phone_ext": "5828",
+        "branch_id": 113,
+        "supervisor_id": 93
+    },
+    {
+        "employee_id": 443,
+        "emp_first_name": "Barbara",
+        "emp_last_name": "Rodriguez",
+        "emp_role": "Teller",
+        "phone_ext": "1544",
+        "branch_id": 274,
+        "supervisor_id": 286
+    },
+    {
+        "employee_id": 444,
+        "emp_first_name": "Xavier",
+        "emp_last_name": "Wolf",
+        "emp_role": "Support",
+        "phone_ext": "6972",
+        "branch_id": 118,
+        "supervisor_id": 124
+    },
+    {
+        "employee_id": 445,
+        "emp_first_name": "Adam",
+        "emp_last_name": "Harrison",
+        "emp_role": "Clerk",
+        "phone_ext": "1775",
+        "branch_id": 305,
+        "supervisor_id": 174
+    },
+    {
+        "employee_id": 446,
+        "emp_first_name": "Samuel",
+        "emp_last_name": "Johnson",
+        "emp_role": "Manager",
+        "phone_ext": "2863",
+        "branch_id": 336,
+        "supervisor_id": 53
+    },
+    {
+        "employee_id": 447,
+        "emp_first_name": "Christian",
+        "emp_last_name": "Humphrey",
+        "emp_role": "Manager",
+        "phone_ext": "6679",
+        "branch_id": 112,
+        "supervisor_id": 409
+    },
+    {
+        "employee_id": 448,
+        "emp_first_name": "Sharon",
+        "emp_last_name": "Morgan",
+        "emp_role": "Support",
+        "phone_ext": "9538",
+        "branch_id": 229,
+        "supervisor_id": 139
+    },
+    {
+        "employee_id": 449,
+        "emp_first_name": "Jennifer",
+        "emp_last_name": "Hall",
+        "emp_role": "Clerk",
+        "phone_ext": "7714",
+        "branch_id": 99,
+        "supervisor_id": 139
+    },
+    {
+        "employee_id": 450,
+        "emp_first_name": "Corey",
+        "emp_last_name": "Green",
+        "emp_role": "Manager",
+        "phone_ext": "9355",
+        "branch_id": 112,
+        "supervisor_id": 321
+    },
+    {
+        "employee_id": 451,
+        "emp_first_name": "Holly",
+        "emp_last_name": "Stone",
+        "emp_role": "Clerk",
+        "phone_ext": "2318",
+        "branch_id": 273,
+        "supervisor_id": 113
+    },
+    {
+        "employee_id": 452,
+        "emp_first_name": "Curtis",
+        "emp_last_name": "Collins",
+        "emp_role": "Analyst",
+        "phone_ext": "9244",
+        "branch_id": 477,
+        "supervisor_id": 455
+    },
+    {
+        "employee_id": 453,
+        "emp_first_name": "Nancy",
+        "emp_last_name": "Moody",
+        "emp_role": "Support",
+        "phone_ext": "7931",
+        "branch_id": 125,
+        "supervisor_id": 180
+    },
+    {
+        "employee_id": 454,
+        "emp_first_name": "Paul",
+        "emp_last_name": "Young",
+        "emp_role": "Support",
+        "phone_ext": "3185",
+        "branch_id": 414,
+        "supervisor_id": 267
+    },
+    {
+        "employee_id": 455,
+        "emp_first_name": "Christine",
+        "emp_last_name": "Contreras",
+        "emp_role": "Analyst",
+        "phone_ext": "9929",
+        "branch_id": 411,
+        "supervisor_id": 377
+    },
+    {
+        "employee_id": 456,
+        "emp_first_name": "Alison",
+        "emp_last_name": "Munoz",
+        "emp_role": "Analyst",
+        "phone_ext": "5867",
+        "branch_id": 279,
+        "supervisor_id": 449
+    },
+    {
+        "employee_id": 457,
+        "emp_first_name": "Tamara",
+        "emp_last_name": "Bowen",
+        "emp_role": "Analyst",
+        "phone_ext": "9432",
+        "branch_id": 96,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 458,
+        "emp_first_name": "John",
+        "emp_last_name": "Hickman",
+        "emp_role": "Support",
+        "phone_ext": "6524",
+        "branch_id": 24,
+        "supervisor_id": 110
+    },
+    {
+        "employee_id": 459,
+        "emp_first_name": "Marcus",
+        "emp_last_name": "Ryan",
+        "emp_role": "Teller",
+        "phone_ext": "3461",
+        "branch_id": 296,
+        "supervisor_id": 163
+    },
+    {
+        "employee_id": 460,
+        "emp_first_name": "Jessica",
+        "emp_last_name": "Smith",
+        "emp_role": "Teller",
+        "phone_ext": "3815",
+        "branch_id": 39,
+        "supervisor_id": 361
+    },
+    {
+        "employee_id": 461,
+        "emp_first_name": "Sarah",
+        "emp_last_name": "Hall",
+        "emp_role": "Clerk",
+        "phone_ext": "5126",
+        "branch_id": 23,
+        "supervisor_id": 298
+    },
+    {
+        "employee_id": 462,
+        "emp_first_name": "Roberta",
+        "emp_last_name": "Bryant",
+        "emp_role": "Support",
+        "phone_ext": "5461",
+        "branch_id": 121,
+        "supervisor_id": 157
+    },
+    {
+        "employee_id": 463,
+        "emp_first_name": "Raymond",
+        "emp_last_name": "Simpson",
+        "emp_role": "Clerk",
+        "phone_ext": "6105",
+        "branch_id": 137,
+        "supervisor_id": 472
+    },
+    {
+        "employee_id": 464,
+        "emp_first_name": "Daniel",
+        "emp_last_name": "Williams",
+        "emp_role": "Support",
+        "phone_ext": "8940",
+        "branch_id": 232,
+        "supervisor_id": 246
+    },
+    {
+        "employee_id": 465,
+        "emp_first_name": "Anthony",
+        "emp_last_name": "Wilkinson",
+        "emp_role": "Support",
+        "phone_ext": "1889",
+        "branch_id": 395,
+        "supervisor_id": 26
+    },
+    {
+        "employee_id": 466,
+        "emp_first_name": "David",
+        "emp_last_name": "Gutierrez",
+        "emp_role": "Support",
+        "phone_ext": "5075",
+        "branch_id": 481,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 467,
+        "emp_first_name": "Steven",
+        "emp_last_name": "Jones",
+        "emp_role": "Clerk",
+        "phone_ext": "1396",
+        "branch_id": 153,
+        "supervisor_id": 408
+    },
+    {
+        "employee_id": 468,
+        "emp_first_name": "Joseph",
+        "emp_last_name": "Mann",
+        "emp_role": "Clerk",
+        "phone_ext": "7460",
+        "branch_id": 68,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 469,
+        "emp_first_name": "Zachary",
+        "emp_last_name": "Whitehead",
+        "emp_role": "Teller",
+        "phone_ext": "5322",
+        "branch_id": 379,
+        "supervisor_id": 402
+    },
+    {
+        "employee_id": 470,
+        "emp_first_name": "Chase",
+        "emp_last_name": "Bradford",
+        "emp_role": "Support",
+        "phone_ext": "9259",
+        "branch_id": 272,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 471,
+        "emp_first_name": "Allison",
+        "emp_last_name": "Kim",
+        "emp_role": "Clerk",
+        "phone_ext": "1785",
+        "branch_id": 474,
+        "supervisor_id": 87
+    },
+    {
+        "employee_id": 472,
+        "emp_first_name": "Krystal",
+        "emp_last_name": "Jones",
+        "emp_role": "Clerk",
+        "phone_ext": "5936",
+        "branch_id": 420,
+        "supervisor_id": 214
+    },
+    {
+        "employee_id": 473,
+        "emp_first_name": "Steven",
+        "emp_last_name": "Carlson",
+        "emp_role": "Support",
+        "phone_ext": "8401",
+        "branch_id": 251,
+        "supervisor_id": 344
+    },
+    {
+        "employee_id": 474,
+        "emp_first_name": "Timothy",
+        "emp_last_name": "Archer",
+        "emp_role": "Analyst",
+        "phone_ext": "5093",
+        "branch_id": 30,
+        "supervisor_id": 94
+    },
+    {
+        "employee_id": 475,
+        "emp_first_name": "John",
+        "emp_last_name": "Hunter",
+        "emp_role": "Teller",
+        "phone_ext": "2866",
+        "branch_id": 389,
+        "supervisor_id": 10
+    },
+    {
+        "employee_id": 476,
+        "emp_first_name": "Shawn",
+        "emp_last_name": "Becker",
+        "emp_role": "Clerk",
+        "phone_ext": "6076",
+        "branch_id": 187,
+        "supervisor_id": 185
+    },
+    {
+        "employee_id": 477,
+        "emp_first_name": "Jon",
+        "emp_last_name": "Martin",
+        "emp_role": "Teller",
+        "phone_ext": "3317",
+        "branch_id": 493,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 478,
+        "emp_first_name": "Lydia",
+        "emp_last_name": "Barrera",
+        "emp_role": "Clerk",
+        "phone_ext": "3721",
+        "branch_id": 188,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 479,
+        "emp_first_name": "Carrie",
+        "emp_last_name": "Santana",
+        "emp_role": "Analyst",
+        "phone_ext": "5631",
+        "branch_id": 140,
+        "supervisor_id": 262
+    },
+    {
+        "employee_id": 480,
+        "emp_first_name": "Jessica",
+        "emp_last_name": "Tyler",
+        "emp_role": "Teller",
+        "phone_ext": "5823",
+        "branch_id": 339,
+        "supervisor_id": 260
+    },
+    {
+        "employee_id": 481,
+        "emp_first_name": "Raymond",
+        "emp_last_name": "White",
+        "emp_role": "Teller",
+        "phone_ext": "9480",
+        "branch_id": 70,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 482,
+        "emp_first_name": "Courtney",
+        "emp_last_name": "Burns",
+        "emp_role": "Clerk",
+        "phone_ext": "1970",
+        "branch_id": 324,
+        "supervisor_id": 259
+    },
+    {
+        "employee_id": 483,
+        "emp_first_name": "Timothy",
+        "emp_last_name": "Johnson",
+        "emp_role": "Analyst",
+        "phone_ext": "8468",
+        "branch_id": 117,
+        "supervisor_id": 90
+    },
+    {
+        "employee_id": 484,
+        "emp_first_name": "Christina",
+        "emp_last_name": "Kelley",
+        "emp_role": "Manager",
+        "phone_ext": "6152",
+        "branch_id": 149,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 485,
+        "emp_first_name": "Brooke",
+        "emp_last_name": "Russell",
+        "emp_role": "Clerk",
+        "phone_ext": "9186",
+        "branch_id": 68,
+        "supervisor_id": 16
+    },
+    {
+        "employee_id": 486,
+        "emp_first_name": "Bradley",
+        "emp_last_name": "Russo",
+        "emp_role": "Teller",
+        "phone_ext": "2488",
+        "branch_id": 36,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 487,
+        "emp_first_name": "Mark",
+        "emp_last_name": "Jones",
+        "emp_role": "Support",
+        "phone_ext": "1761",
+        "branch_id": 346,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 488,
+        "emp_first_name": "Erin",
+        "emp_last_name": "Cole",
+        "emp_role": "Manager",
+        "phone_ext": "6973",
+        "branch_id": 466,
+        "supervisor_id": 251
+    },
+    {
+        "employee_id": 489,
+        "emp_first_name": "Jeffrey",
+        "emp_last_name": "Davis",
+        "emp_role": "Clerk",
+        "phone_ext": "1201",
+        "branch_id": 449,
+        "supervisor_id": 143
+    },
+    {
+        "employee_id": 490,
+        "emp_first_name": "Andrea",
+        "emp_last_name": "Casey",
+        "emp_role": "Analyst",
+        "phone_ext": "6027",
+        "branch_id": 134,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 491,
+        "emp_first_name": "Stacy",
+        "emp_last_name": "Chan",
+        "emp_role": "Analyst",
+        "phone_ext": "8869",
+        "branch_id": 258,
+        "supervisor_id": null
+    },
+    {
+        "employee_id": 492,
+        "emp_first_name": "Felicia",
+        "emp_last_name": "Andrews",
+        "emp_role": "Teller",
+        "phone_ext": "9068",
+        "branch_id": 286,
+        "supervisor_id": 244
+    },
+    {
+        "employee_id": 493,
+        "emp_first_name": "Theresa",
+        "emp_last_name": "Lee",
+        "emp_role": "Analyst",
+        "phone_ext": "3204",
+        "branch_id": 375,
+        "supervisor_id": 460
+    },
+    {
+        "employee_id": 494,
+        "emp_first_name": "Michelle",
+        "emp_last_name": "Jones",
+        "emp_role": "Manager",
+        "phone_ext": "9139",
+        "branch_id": 384,
+        "supervisor_id": 302
+    },
+    {
+        "employee_id": 495,
+        "emp_first_name": "Jonathan",
+        "emp_last_name": "Parks",
+        "emp_role": "Support",
+        "phone_ext": "7481",
+        "branch_id": 87,
+        "supervisor_id": 90
+    },
+    {
+        "employee_id": 496,
+        "emp_first_name": "Timothy",
+        "emp_last_name": "Whitney",
+        "emp_role": "Teller",
+        "phone_ext": "2339",
+        "branch_id": 94,
+        "supervisor_id": 113
+    },
+    {
+        "employee_id": 497,
+        "emp_first_name": "Cody",
+        "emp_last_name": "Cunningham",
+        "emp_role": "Teller",
+        "phone_ext": "4753",
+        "branch_id": 231,
+        "supervisor_id": 104
+    },
+    {
+        "employee_id": 498,
+        "emp_first_name": "John",
+        "emp_last_name": "Young",
+        "emp_role": "Analyst",
+        "phone_ext": "5074",
+        "branch_id": 285,
+        "supervisor_id": 94
+    },
+    {
+        "employee_id": 499,
+        "emp_first_name": "Megan",
+        "emp_last_name": "Baker",
+        "emp_role": "Manager",
+        "phone_ext": "1630",
+        "branch_id": 140,
+        "supervisor_id": 185
+    },
+    {
+        "employee_id": 500,
+        "emp_first_name": "Aaron",
+        "emp_last_name": "Perez",
+        "emp_role": "Clerk",
+        "phone_ext": "5914",
+        "branch_id": 304,
+        "supervisor_id": 382
+    }
+]

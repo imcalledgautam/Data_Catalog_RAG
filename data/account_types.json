@@ -1,0 +1,17 @@
+[
+    {
+        "account_category": "Savings",
+        "min_balance_req": 1000,
+        "interest_rate": 3.5
+    },
+    {
+        "account_category": "Current",
+        "min_balance_req": 5000,
+        "interest_rate": 2
+    },
+    {
+        "account_category": "Fixed",
+        "min_balance_req": 10000,
+        "interest_rate": 5
+    }
+]

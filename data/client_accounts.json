@@ -1,0 +1,2502 @@
+[
+    {
+        "client_id": 473,
+        "account_id": 162,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 437,
+        "account_id": 480,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 342,
+        "account_id": 97,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 332,
+        "account_id": 324,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 383,
+        "account_id": 139,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 3,
+        "account_id": 74,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 465,
+        "account_id": 398,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 433,
+        "account_id": 484,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 75,
+        "account_id": 356,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 469,
+        "account_id": 45,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 246,
+        "account_id": 272,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 234,
+        "account_id": 149,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 310,
+        "account_id": 191,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 369,
+        "account_id": 302,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 190,
+        "account_id": 172,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 358,
+        "account_id": 385,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 367,
+        "account_id": 63,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 85,
+        "account_id": 459,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 162,
+        "account_id": 157,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 126,
+        "account_id": 24,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 94,
+        "account_id": 134,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 225,
+        "account_id": 283,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 226,
+        "account_id": 181,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 308,
+        "account_id": 206,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 407,
+        "account_id": 485,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 308,
+        "account_id": 37,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 486,
+        "account_id": 446,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 346,
+        "account_id": 440,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 243,
+        "account_id": 41,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 244,
+        "account_id": 327,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 153,
+        "account_id": 357,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 243,
+        "account_id": 19,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 19,
+        "account_id": 34,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 489,
+        "account_id": 314,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 3,
+        "account_id": 317,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 318,
+        "account_id": 462,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 452,
+        "account_id": 26,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 303,
+        "account_id": 371,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 447,
+        "account_id": 231,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 483,
+        "account_id": 269,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 173,
+        "account_id": 242,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 170,
+        "account_id": 386,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 47,
+        "account_id": 8,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 422,
+        "account_id": 8,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 361,
+        "account_id": 95,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 253,
+        "account_id": 100,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 394,
+        "account_id": 163,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 59,
+        "account_id": 329,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 95,
+        "account_id": 148,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 406,
+        "account_id": 496,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 435,
+        "account_id": 454,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 493,
+        "account_id": 145,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 500,
+        "account_id": 273,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 411,
+        "account_id": 298,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 379,
+        "account_id": 209,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 142,
+        "account_id": 111,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 432,
+        "account_id": 252,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 282,
+        "account_id": 462,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 376,
+        "account_id": 484,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 66,
+        "account_id": 3,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 166,
+        "account_id": 103,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 224,
+        "account_id": 370,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 74,
+        "account_id": 49,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 365,
+        "account_id": 252,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 388,
+        "account_id": 185,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 291,
+        "account_id": 137,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 34,
+        "account_id": 325,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 385,
+        "account_id": 100,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 430,
+        "account_id": 8,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 294,
+        "account_id": 133,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 161,
+        "account_id": 181,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 11,
+        "account_id": 63,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 12,
+        "account_id": 161,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 396,
+        "account_id": 455,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 232,
+        "account_id": 437,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 3,
+        "account_id": 78,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 372,
+        "account_id": 340,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 168,
+        "account_id": 462,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 123,
+        "account_id": 485,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 499,
+        "account_id": 356,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 19,
+        "account_id": 176,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 364,
+        "account_id": 295,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 240,
+        "account_id": 385,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 153,
+        "account_id": 172,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 37,
+        "account_id": 444,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 453,
+        "account_id": 434,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 69,
+        "account_id": 24,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 270,
+        "account_id": 83,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 377,
+        "account_id": 169,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 448,
+        "account_id": 360,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 268,
+        "account_id": 208,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 456,
+        "account_id": 164,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 265,
+        "account_id": 131,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 304,
+        "account_id": 481,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 318,
+        "account_id": 417,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 235,
+        "account_id": 445,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 23,
+        "account_id": 197,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 320,
+        "account_id": 481,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 79,
+        "account_id": 452,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 407,
+        "account_id": 251,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 48,
+        "account_id": 287,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 36,
+        "account_id": 98,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 446,
+        "account_id": 188,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 417,
+        "account_id": 277,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 286,
+        "account_id": 87,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 77,
+        "account_id": 190,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 43,
+        "account_id": 477,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 110,
+        "account_id": 201,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 133,
+        "account_id": 474,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 220,
+        "account_id": 400,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 24,
+        "account_id": 298,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 311,
+        "account_id": 17,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 77,
+        "account_id": 245,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 346,
+        "account_id": 185,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 67,
+        "account_id": 72,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 411,
+        "account_id": 275,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 451,
+        "account_id": 239,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 470,
+        "account_id": 63,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 159,
+        "account_id": 407,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 277,
+        "account_id": 245,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 51,
+        "account_id": 111,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 154,
+        "account_id": 484,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 490,
+        "account_id": 29,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 364,
+        "account_id": 284,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 28,
+        "account_id": 311,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 471,
+        "account_id": 331,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 195,
+        "account_id": 35,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 69,
+        "account_id": 452,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 325,
+        "account_id": 69,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 109,
+        "account_id": 137,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 390,
+        "account_id": 209,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 222,
+        "account_id": 380,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 4,
+        "account_id": 412,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 37,
+        "account_id": 244,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 99,
+        "account_id": 249,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 214,
+        "account_id": 73,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 467,
+        "account_id": 343,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 74,
+        "account_id": 452,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 61,
+        "account_id": 385,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 152,
+        "account_id": 80,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 475,
+        "account_id": 99,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 41,
+        "account_id": 356,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 454,
+        "account_id": 127,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 175,
+        "account_id": 103,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 73,
+        "account_id": 209,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 359,
+        "account_id": 170,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 154,
+        "account_id": 430,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 273,
+        "account_id": 80,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 439,
+        "account_id": 205,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 52,
+        "account_id": 235,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 342,
+        "account_id": 75,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 398,
+        "account_id": 403,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 279,
+        "account_id": 190,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 236,
+        "account_id": 205,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 236,
+        "account_id": 260,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 214,
+        "account_id": 458,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 321,
+        "account_id": 14,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 484,
+        "account_id": 184,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 216,
+        "account_id": 301,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 33,
+        "account_id": 293,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 304,
+        "account_id": 372,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 108,
+        "account_id": 126,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 304,
+        "account_id": 282,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 49,
+        "account_id": 343,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 387,
+        "account_id": 174,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 158,
+        "account_id": 200,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 167,
+        "account_id": 269,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 76,
+        "account_id": 365,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 434,
+        "account_id": 236,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 186,
+        "account_id": 343,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 259,
+        "account_id": 328,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 400,
+        "account_id": 68,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 157,
+        "account_id": 388,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 372,
+        "account_id": 436,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 442,
+        "account_id": 389,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 112,
+        "account_id": 205,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 334,
+        "account_id": 385,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 262,
+        "account_id": 345,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 243,
+        "account_id": 438,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 174,
+        "account_id": 407,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 396,
+        "account_id": 318,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 215,
+        "account_id": 351,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 195,
+        "account_id": 227,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 485,
+        "account_id": 423,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 195,
+        "account_id": 228,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 159,
+        "account_id": 9,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 225,
+        "account_id": 130,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 390,
+        "account_id": 19,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 137,
+        "account_id": 131,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 69,
+        "account_id": 216,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 1,
+        "account_id": 496,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 367,
+        "account_id": 395,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 191,
+        "account_id": 264,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 336,
+        "account_id": 114,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 19,
+        "account_id": 257,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 326,
+        "account_id": 276,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 372,
+        "account_id": 317,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 431,
+        "account_id": 405,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 279,
+        "account_id": 50,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 345,
+        "account_id": 280,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 407,
+        "account_id": 270,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 477,
+        "account_id": 233,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 249,
+        "account_id": 368,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 83,
+        "account_id": 21,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 422,
+        "account_id": 27,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 36,
+        "account_id": 119,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 394,
+        "account_id": 485,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 103,
+        "account_id": 15,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 316,
+        "account_id": 392,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 456,
+        "account_id": 484,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 372,
+        "account_id": 329,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 166,
+        "account_id": 47,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 479,
+        "account_id": 137,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 437,
+        "account_id": 73,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 225,
+        "account_id": 445,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 287,
+        "account_id": 477,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 27,
+        "account_id": 329,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 400,
+        "account_id": 269,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 15,
+        "account_id": 96,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 253,
+        "account_id": 454,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 92,
+        "account_id": 52,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 9,
+        "account_id": 422,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 344,
+        "account_id": 273,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 475,
+        "account_id": 50,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 384,
+        "account_id": 271,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 384,
+        "account_id": 130,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 19,
+        "account_id": 252,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 214,
+        "account_id": 252,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 55,
+        "account_id": 265,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 451,
+        "account_id": 414,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 97,
+        "account_id": 241,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 25,
+        "account_id": 343,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 176,
+        "account_id": 281,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 456,
+        "account_id": 120,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 174,
+        "account_id": 358,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 342,
+        "account_id": 232,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 477,
+        "account_id": 342,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 41,
+        "account_id": 349,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 339,
+        "account_id": 235,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 381,
+        "account_id": 275,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 256,
+        "account_id": 277,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 325,
+        "account_id": 485,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 422,
+        "account_id": 122,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 165,
+        "account_id": 15,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 57,
+        "account_id": 196,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 44,
+        "account_id": 170,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 470,
+        "account_id": 253,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 226,
+        "account_id": 192,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 46,
+        "account_id": 485,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 128,
+        "account_id": 433,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 316,
+        "account_id": 264,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 76,
+        "account_id": 111,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 293,
+        "account_id": 135,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 427,
+        "account_id": 482,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 41,
+        "account_id": 404,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 312,
+        "account_id": 469,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 343,
+        "account_id": 59,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 178,
+        "account_id": 302,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 294,
+        "account_id": 333,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 456,
+        "account_id": 70,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 102,
+        "account_id": 100,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 96,
+        "account_id": 483,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 418,
+        "account_id": 135,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 165,
+        "account_id": 212,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 259,
+        "account_id": 452,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 172,
+        "account_id": 399,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 212,
+        "account_id": 58,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 119,
+        "account_id": 376,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 144,
+        "account_id": 70,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 30,
+        "account_id": 104,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 47,
+        "account_id": 424,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 49,
+        "account_id": 1,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 4,
+        "account_id": 123,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 434,
+        "account_id": 55,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 304,
+        "account_id": 182,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 5,
+        "account_id": 213,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 199,
+        "account_id": 402,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 438,
+        "account_id": 258,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 306,
+        "account_id": 299,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 257,
+        "account_id": 51,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 357,
+        "account_id": 481,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 28,
+        "account_id": 186,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 348,
+        "account_id": 97,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 481,
+        "account_id": 358,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 252,
+        "account_id": 362,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 113,
+        "account_id": 336,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 219,
+        "account_id": 159,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 18,
+        "account_id": 420,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 495,
+        "account_id": 231,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 405,
+        "account_id": 143,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 421,
+        "account_id": 16,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 438,
+        "account_id": 314,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 330,
+        "account_id": 18,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 277,
+        "account_id": 191,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 352,
+        "account_id": 53,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 166,
+        "account_id": 137,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 439,
+        "account_id": 324,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 219,
+        "account_id": 370,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 121,
+        "account_id": 110,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 365,
+        "account_id": 357,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 239,
+        "account_id": 457,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 15,
+        "account_id": 210,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 70,
+        "account_id": 461,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 43,
+        "account_id": 178,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 278,
+        "account_id": 192,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 258,
+        "account_id": 161,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 247,
+        "account_id": 152,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 258,
+        "account_id": 383,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 22,
+        "account_id": 284,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 420,
+        "account_id": 310,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 232,
+        "account_id": 346,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 415,
+        "account_id": 10,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 364,
+        "account_id": 279,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 451,
+        "account_id": 138,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 221,
+        "account_id": 364,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 154,
+        "account_id": 444,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 420,
+        "account_id": 339,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 14,
+        "account_id": 132,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 127,
+        "account_id": 119,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 28,
+        "account_id": 232,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 81,
+        "account_id": 343,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 495,
+        "account_id": 458,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 419,
+        "account_id": 435,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 44,
+        "account_id": 118,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 26,
+        "account_id": 447,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 69,
+        "account_id": 128,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 235,
+        "account_id": 140,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 211,
+        "account_id": 420,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 445,
+        "account_id": 120,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 123,
+        "account_id": 81,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 435,
+        "account_id": 356,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 421,
+        "account_id": 338,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 245,
+        "account_id": 196,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 223,
+        "account_id": 428,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 343,
+        "account_id": 96,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 244,
+        "account_id": 64,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 179,
+        "account_id": 458,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 303,
+        "account_id": 346,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 461,
+        "account_id": 450,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 263,
+        "account_id": 16,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 494,
+        "account_id": 248,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 227,
+        "account_id": 221,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 449,
+        "account_id": 155,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 71,
+        "account_id": 386,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 260,
+        "account_id": 473,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 439,
+        "account_id": 148,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 492,
+        "account_id": 383,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 351,
+        "account_id": 461,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 465,
+        "account_id": 141,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 270,
+        "account_id": 491,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 99,
+        "account_id": 421,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 326,
+        "account_id": 86,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 28,
+        "account_id": 90,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 398,
+        "account_id": 421,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 395,
+        "account_id": 49,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 206,
+        "account_id": 119,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 243,
+        "account_id": 193,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 263,
+        "account_id": 73,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 45,
+        "account_id": 78,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 267,
+        "account_id": 424,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 19,
+        "account_id": 455,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 155,
+        "account_id": 53,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 316,
+        "account_id": 59,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 422,
+        "account_id": 392,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 313,
+        "account_id": 378,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 334,
+        "account_id": 418,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 127,
+        "account_id": 36,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 142,
+        "account_id": 232,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 70,
+        "account_id": 244,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 21,
+        "account_id": 116,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 464,
+        "account_id": 348,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 327,
+        "account_id": 462,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 212,
+        "account_id": 121,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 494,
+        "account_id": 162,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 419,
+        "account_id": 266,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 419,
+        "account_id": 32,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 361,
+        "account_id": 115,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 107,
+        "account_id": 217,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 276,
+        "account_id": 468,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 487,
+        "account_id": 140,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 86,
+        "account_id": 306,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 473,
+        "account_id": 109,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 120,
+        "account_id": 356,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 79,
+        "account_id": 280,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 361,
+        "account_id": 425,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 66,
+        "account_id": 105,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 318,
+        "account_id": 124,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 323,
+        "account_id": 225,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 235,
+        "account_id": 231,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 108,
+        "account_id": 193,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 274,
+        "account_id": 2,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 214,
+        "account_id": 197,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 319,
+        "account_id": 97,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 423,
+        "account_id": 127,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 452,
+        "account_id": 423,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 297,
+        "account_id": 401,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 264,
+        "account_id": 189,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 242,
+        "account_id": 75,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 283,
+        "account_id": 328,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 223,
+        "account_id": 144,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 84,
+        "account_id": 140,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 347,
+        "account_id": 253,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 293,
+        "account_id": 74,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 210,
+        "account_id": 89,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 2,
+        "account_id": 280,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 405,
+        "account_id": 360,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 402,
+        "account_id": 228,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 99,
+        "account_id": 402,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 260,
+        "account_id": 429,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 181,
+        "account_id": 316,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 137,
+        "account_id": 39,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 421,
+        "account_id": 173,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 4,
+        "account_id": 243,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 471,
+        "account_id": 364,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 150,
+        "account_id": 122,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 290,
+        "account_id": 325,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 225,
+        "account_id": 371,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 28,
+        "account_id": 461,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 231,
+        "account_id": 440,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 58,
+        "account_id": 92,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 395,
+        "account_id": 500,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 228,
+        "account_id": 298,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 456,
+        "account_id": 241,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 97,
+        "account_id": 126,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 243,
+        "account_id": 138,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 490,
+        "account_id": 491,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 479,
+        "account_id": 59,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 455,
+        "account_id": 166,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 20,
+        "account_id": 177,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 274,
+        "account_id": 337,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 280,
+        "account_id": 495,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 336,
+        "account_id": 232,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 153,
+        "account_id": 324,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 409,
+        "account_id": 366,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 147,
+        "account_id": 168,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 146,
+        "account_id": 229,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 223,
+        "account_id": 245,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 117,
+        "account_id": 197,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 340,
+        "account_id": 37,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 64,
+        "account_id": 55,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 296,
+        "account_id": 470,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 390,
+        "account_id": 218,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 367,
+        "account_id": 204,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 445,
+        "account_id": 211,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 233,
+        "account_id": 382,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 172,
+        "account_id": 448,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 133,
+        "account_id": 497,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 255,
+        "account_id": 334,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 318,
+        "account_id": 411,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 77,
+        "account_id": 441,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 495,
+        "account_id": 194,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 397,
+        "account_id": 139,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 132,
+        "account_id": 22,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 290,
+        "account_id": 322,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 10,
+        "account_id": 430,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 229,
+        "account_id": 387,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 281,
+        "account_id": 158,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 198,
+        "account_id": 264,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 492,
+        "account_id": 106,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 162,
+        "account_id": 413,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 144,
+        "account_id": 353,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 46,
+        "account_id": 307,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 27,
+        "account_id": 205,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 34,
+        "account_id": 284,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 263,
+        "account_id": 376,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 385,
+        "account_id": 351,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 156,
+        "account_id": 91,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 488,
+        "account_id": 391,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 18,
+        "account_id": 301,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 300,
+        "account_id": 212,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 412,
+        "account_id": 308,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 247,
+        "account_id": 449,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 248,
+        "account_id": 157,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 4,
+        "account_id": 348,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 297,
+        "account_id": 263,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 315,
+        "account_id": 333,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 41,
+        "account_id": 214,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 289,
+        "account_id": 489,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 20,
+        "account_id": 455,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 331,
+        "account_id": 11,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 219,
+        "account_id": 38,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 371,
+        "account_id": 305,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 70,
+        "account_id": 50,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 154,
+        "account_id": 64,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 95,
+        "account_id": 51,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 173,
+        "account_id": 149,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 370,
+        "account_id": 68,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 499,
+        "account_id": 243,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 467,
+        "account_id": 87,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 269,
+        "account_id": 260,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 471,
+        "account_id": 386,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 223,
+        "account_id": 183,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 374,
+        "account_id": 54,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 462,
+        "account_id": 154,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 87,
+        "account_id": 308,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 142,
+        "account_id": 382,
+        "relationship_type": "Primary"
+    },
+    {
+        "client_id": 354,
+        "account_id": 365,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 480,
+        "account_id": 360,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 500,
+        "account_id": 375,
+        "relationship_type": "Joint"
+    },
+    {
+        "client_id": 157,
+        "account_id": 41,
+        "relationship_type": "Primary"
+    }
+]
