@@ -11,7 +11,7 @@ from datetime import datetime
 import os
 from dotenv import load_dotenv
 from neo4j import GraphDatabase
-import openai
+from openai import OpenAI
 
 # Load environment variables
 load_dotenv()
@@ -38,7 +38,8 @@ NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "password")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-openai.api_key = OPENAI_API_KEY
+# Initialize OpenAI client (v1.0+ API)
+openai_client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Pydantic Models for Request/Response
 class QuestionRequest(BaseModel):
@@ -121,7 +122,7 @@ CYPHER: <query>
 """
 
         # Call OpenAI
-        response = openai.chat.completions.create(
+        response = openai_client.chat.completions.create(
             model="gpt-4",
             messages=[
                 {"role": "system", "content": "You are a Neo4j Cypher expert."},
@@ -195,7 +196,7 @@ Total Records: {len(results)}
 Provide a clear, business-friendly summary of what the data shows."""
 
     try:
-        response = openai.chat.completions.create(
+        response = openai_client.chat.completions.create(
             model="gpt-4",
             messages=[
                 {"role": "system", "content": "You are a data analyst providing business insights."},
