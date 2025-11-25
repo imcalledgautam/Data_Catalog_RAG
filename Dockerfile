@@ -21,8 +21,9 @@ COPY src/ ./src/
 COPY data/ ./data/
 COPY config/ ./config/
 
-# Expose port
-EXPOSE 8000
+# Expose port (Cloud Run will set PORT env var)
+EXPOSE 8080
 
 # Run the FastAPI application
-CMD ["uvicorn", "backend_api:app", "--host", "0.0.0.0", "--port", "8000"]
+# Use PORT environment variable from Cloud Run, default to 8080
+CMD uvicorn backend_api:app --host 0.0.0.0 --port ${PORT:-8080}
