@@ -147,7 +147,7 @@ export const getStats = async () => {
  */
 export const healthCheck = async () => {
   try {
-    const response = await axios.get('http://localhost:8000/');
+    const response = await axios.get('https://data-catalog-rag-291677621486.europe-west1.run.app/');
     return response.data;
   } catch (error) {
     throw new Error('API is not reachable');

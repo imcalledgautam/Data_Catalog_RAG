@@ -8,7 +8,7 @@ export default defineConfig({
     port: 5173,
     proxy: {
       '/api': {
-        target: 'http://localhost:8000',
+        target: 'https://data-catalog-rag-291677621486.europe-west1.run.app',
         changeOrigin: true,
       },
     },
