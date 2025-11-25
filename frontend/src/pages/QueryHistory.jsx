@@ -203,6 +203,19 @@ function QueryHistory() {
                   </div>
                 )}
 
+                {/* SQL Query */}
+                {selectedQuery.sql_query && (
+                  <div className="card">
+                    <div className="flex items-center mb-2">
+                      <Code className="h-4 w-4 text-gray-700 mr-2" />
+                      <h3 className="text-sm font-medium text-gray-700">Equivalent SQL Query</h3>
+                    </div>
+                    <pre className="bg-gray-900 text-gray-100 p-4 rounded-lg overflow-x-auto text-sm">
+                      <code>{selectedQuery.sql_query}</code>
+                    </pre>
+                  </div>
+                )}
+
                 {/* Results */}
                 {selectedQuery.results && selectedQuery.results.length > 0 && (
                   <div className="card">
