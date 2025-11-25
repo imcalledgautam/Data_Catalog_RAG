@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Documentation
+*.md
+README.md
+docs/
+FRONTEND_README.md
+IMPLEMENTATION_SUMMARY.md
+SQL_CONVERSION_GUIDE.md
+TESTING_VALIDATION_REPORT.md
+
+# Tests
+tests/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Frontend (if building backend only)
+frontend/
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+
+# Other
+.qodo/
+*.bak
+*.tmp
+.coverage
+htmlcov/
