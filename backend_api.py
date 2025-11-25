@@ -48,6 +48,7 @@ class QuestionRequest(BaseModel):
 class QueryResponse(BaseModel):
     explanation: str
     cypher_query: str
+    sql_query: Optional[str] = None
     results: List[Dict[str, Any]]
     summary: Optional[str] = None
     timestamp: str
@@ -210,6 +211,67 @@ Provide a clear, business-friendly summary of what the data shows."""
         return f"Summary generation failed: {str(e)}"
 
 
+def generate_sql_from_cypher(cypher_query: str, question: str) -> str:
+    """
+    Convert Cypher query to equivalent SQL query using OpenAI
+    Helps users understand the query in familiar SQL syntax
+    """
+    prompt = f"""You are a database expert. Convert this Neo4j Cypher query to an equivalent SQL query.
+
+Original Question: {question}
+
+Cypher Query:
+{cypher_query}
+
+Database Schema (assume relational):
+- clients (client_id, first_name, last_name, email_address, phone_number, date_of_birth, address, city, state, zip_code, country, account_opening_date)
+- bank_accounts (account_id, client_id, account_no, balance_amount, account_category, account_opening_date, account_status)
+- account_types (account_category, min_balance_req, interest_rate, monthly_fee)
+- card_details (card_id, client_id, card_number, card_type, card_status, card_issue_date, card_expiry_date)
+- card_transactions (transaction_id, card_id, merchant_name, transaction_amount, transaction_date, transaction_status)
+- loan_records (loan_id, client_id, loan_amount, interest_rate, loan_status, loan_start_date, loan_end_date, monthly_payment)
+- employees (employee_id, emp_first_name, emp_last_name, emp_role, emp_salary, emp_hire_date, branch_id)
+- branches (branch_id, branch_name, branch_address, branch_city, branch_state, branch_zip, branch_phone)
+- customer_support (ticket_id, client_id, issue_category, issue_description, ticket_status, ticket_created_date, ticket_resolved_date)
+- online_transactions (online_txn_id, account_id, txn_amount, txn_date, txn_status, payment_method)
+
+Relationships (for joins):
+- clients.client_id → bank_accounts.client_id
+- clients.client_id → card_details.client_id
+- clients.client_id → loan_records.client_id
+- card_details.card_id → card_transactions.card_id
+- employees.branch_id → branches.branch_id
+- clients.client_id → customer_support.client_id
+- bank_accounts.account_id → online_transactions.account_id
+- bank_accounts.account_category → account_types.account_category
+
+Convert the Cypher query to a valid SQL query (PostgreSQL/MySQL compatible).
+Return ONLY the SQL query, no explanations."""
+
+    try:
+        response = openai_client.chat.completions.create(
+            model="gpt-4",
+            messages=[
+                {"role": "system", "content": "You are a database expert converting Cypher to SQL. Return only valid SQL code."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.3,
+            max_tokens=500
+        )
+
+        sql_query = response.choices[0].message.content.strip()
+
+        # Clean up the response (remove markdown code blocks if present)
+        if sql_query.startswith("```sql"):
+            sql_query = sql_query.replace("```sql", "").replace("```", "").strip()
+        elif sql_query.startswith("```"):
+            sql_query = sql_query.replace("```", "").strip()
+
+        return sql_query
+    except Exception as e:
+        return f"-- SQL generation failed: {str(e)}"
+
+
 # API ENDPOINTS
 
 @app.get("/")
@@ -226,6 +288,7 @@ async def root():
 async def ask_question(request: QuestionRequest):
     """
     Main endpoint: Convert natural language question to Cypher, execute, and return results
+    Also generates equivalent SQL query for user understanding
     """
     try:
         # Generate Cypher from question
@@ -237,12 +300,16 @@ async def ask_question(request: QuestionRequest):
         # Execute query
         results = execute_cypher_query(cypher_query)
 
+        # Generate SQL equivalent from Cypher
+        sql_query = generate_sql_from_cypher(cypher_query, request.question)
+
         # Generate summary
         summary = generate_summary(request.question, results, cypher_query)
 
         return QueryResponse(
             explanation=explanation,
             cypher_query=cypher_query,
+            sql_query=sql_query,
             results=results,
             summary=summary,
             timestamp=datetime.now().isoformat()

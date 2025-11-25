@@ -52,6 +52,7 @@ function HomePage() {
       saveQuery({
         question,
         cypher_query: data.cypher_query,
+        sql_query: data.sql_query,
         explanation: data.explanation,
         summary: data.summary,
         results: data.results,
@@ -82,7 +83,7 @@ function HomePage() {
         </h1>
         <p className="text-lg text-gray-600 max-w-2xl mx-auto">
           Use natural language to query your bank's data catalog. Our AI will convert your
-          question into a Cypher query and return the results.
+          question into Cypher and SQL queries, execute them, and return summarized results.
         </p>
       </div>
 
@@ -175,11 +176,11 @@ function HomePage() {
           {/* Tabs */}
           <div className="border-b border-gray-200 mb-4">
             <nav className="flex space-x-8">
-              {['summary', 'results', 'cypher'].map((tab) => (
+              {['summary', 'results', 'cypher', 'sql'].map((tab) => (
                 <button
                   key={tab}
                   onClick={() => setActiveTab(tab)}
-                  className={`py-2 px-1 border-b-2 font-medium text-sm capitalize transition-colors duration-200 ${
+                  className={`py-2 px-1 border-b-2 font-medium text-sm uppercase transition-colors duration-200 ${
                     activeTab === tab
                       ? 'border-primary-600 text-primary-600'
                       : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
@@ -263,6 +264,31 @@ function HomePage() {
                 <pre className="bg-gray-900 text-gray-100 p-4 rounded-lg overflow-x-auto text-sm">
                   <code>{result.cypher_query}</code>
                 </pre>
+              </div>
+            )}
+
+            {/* SQL Tab */}
+            {activeTab === 'sql' && (
+              <div>
+                <div className="flex items-center justify-between mb-2">
+                  <h3 className="text-sm font-medium text-gray-700">Equivalent SQL Query</h3>
+                  <button
+                    onClick={() => copyToClipboard(result.sql_query)}
+                    className="flex items-center text-sm text-gray-600 hover:text-gray-900 transition-colors duration-200"
+                  >
+                    <Copy className="h-4 w-4 mr-1" />
+                    {copied ? 'Copied!' : 'Copy'}
+                  </button>
+                </div>
+                <pre className="bg-gray-900 text-gray-100 p-4 rounded-lg overflow-x-auto text-sm">
+                  <code>{result.sql_query}</code>
+                </pre>
+                <div className="mt-3 bg-yellow-50 border border-yellow-200 rounded-lg p-3">
+                  <p className="text-xs text-yellow-800">
+                    <strong>Note:</strong> This SQL query is an equivalent representation for understanding.
+                    The actual data is queried from Neo4j using Cypher.
+                  </p>
+                </div>
               </div>
             )}
           </div>
