@@ -5,8 +5,8 @@
 
 import axios from 'axios';
 
-// Base API URL - proxied through Vite
-const API_BASE_URL = '/api';
+// Base API URL - Cloud Run backend
+const API_BASE_URL = 'https://data-catalog-rag-291677621486.europe-west1.run.app/api';
 
 // Create axios instance with default config
 const apiClient = axios.create({

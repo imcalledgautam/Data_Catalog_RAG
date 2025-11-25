@@ -26,7 +26,12 @@ app = FastAPI(
 # CORS Configuration - Allow frontend to connect
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000"],  # Vite default port
+    allow_origins=[
+        "http://localhost:5173",  # Local Vite dev server
+        "http://localhost:3000",  # Alternative local port
+        "https://data-catalog-rag-291677621486.europe-west1.run.app",  # Cloud Run backend
+        "*"  # Allow all origins for Cloud Run (restrict in production)
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
