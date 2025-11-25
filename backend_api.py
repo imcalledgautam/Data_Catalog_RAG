@@ -120,6 +120,8 @@ Provide:
 Format your response as:
 EXPLANATION: <explanation>
 CYPHER: <query>
+
+IMPORTANT: Return the Cypher query as plain text, NOT wrapped in markdown code blocks (no ```).
 """
 
         # Call OpenAI
@@ -158,6 +160,15 @@ CYPHER: <query>
             cypher_query = '\n'.join(cypher_lines).strip()
             explanation = "Generated Cypher query for your question."
 
+        # Clean up markdown code blocks from GPT-4 response
+        if cypher_query.startswith("```cypher"):
+            cypher_query = cypher_query.replace("```cypher", "").replace("```", "").strip()
+        elif cypher_query.startswith("```"):
+            cypher_query = cypher_query.replace("```", "").strip()
+
+        # Remove any remaining backticks at start/end
+        cypher_query = cypher_query.strip('`').strip()
+
         return explanation, cypher_query
 
     finally:
@@ -180,31 +191,77 @@ def execute_cypher_query(cypher: str) -> List[Dict[str, Any]]:
 
 
 def generate_summary(question: str, results: List[Dict], cypher: str) -> str:
-    """Generate AI summary of query results"""
+    """Generate AI summary of query results with enhanced quality and structure"""
     if not results:
         return "No results found for your query."
 
-    # Limit results for summary (first 10 records)
-    sample_results = results[:10]
+    # Analyze results to provide better context
+    total_records = len(results)
+    sample_size = min(15, total_records)  # Use up to 15 records for better context
+    sample_results = results[:sample_size]
 
-    prompt = f"""Based on the following query results, provide a concise business summary.
+    # Get column names and data types for context
+    if results:
+        columns = list(results[0].keys())
+        column_info = ", ".join(columns)
+    else:
+        column_info = "N/A"
 
-User Question: {question}
-Cypher Query: {cypher}
-Results (sample): {sample_results}
-Total Records: {len(results)}
+    # Calculate basic statistics if applicable
+    stats_context = ""
+    if results and any(isinstance(v, (int, float)) for v in results[0].values()):
+        numeric_columns = [k for k, v in results[0].items() if isinstance(v, (int, float))]
+        if numeric_columns:
+            stats_context = f"\nNumeric columns available for analysis: {', '.join(numeric_columns)}"
 
-Provide a clear, business-friendly summary of what the data shows."""
+    prompt = f"""You are a senior business analyst at a bank. Analyze the query results and provide a comprehensive, insightful summary.
+
+**Context:**
+- Domain: Banking & Financial Services
+- User Question: "{question}"
+- Total Records Retrieved: {total_records}
+- Columns: {column_info}
+{stats_context}
+
+**Sample Data (first {sample_size} records):**
+{sample_results}
+
+**Instructions:**
+1. **Understand the Question**: Directly answer what the user asked
+2. **Provide Key Insights**: What are the most important findings?
+3. **Include Specific Numbers**: Use actual values from the data (counts, amounts, percentages)
+4. **Business Context**: Explain what this means for banking operations
+5. **Be Concise but Complete**: 2-4 sentences maximum, but pack them with insights
+
+**Format Guidelines:**
+- Start with a direct answer to the user's question
+- Include specific metrics and numbers from the results
+- Use business terminology appropriate for banking
+- Highlight patterns, trends, or notable findings
+- If showing counts or lists, mention the total and give examples
+- Don't just describe the data structure - provide actual insights
+
+**Examples of Good Summaries:**
+
+Question: "How many clients have loans over $50,000?"
+BAD: "The query returned results showing clients with loans."
+GOOD: "There are 127 clients with loans exceeding $50,000, with amounts ranging from $50,100 to $250,000. The average loan amount in this segment is $87,500, indicating a significant portfolio of high-value borrowers."
+
+Question: "What are the different account types?"
+BAD: "The query shows different account types in the database."
+GOOD: "The bank offers 4 account types: Savings (2.5% interest), Checking (0.1% interest), Money Market (3.2% interest), and CD (4.0% interest). Money Market and CD accounts require minimum balances of $10,000 and $5,000 respectively."
+
+Now provide your summary for the current query:"""
 
     try:
         response = openai_client.chat.completions.create(
             model="gpt-4",
             messages=[
-                {"role": "system", "content": "You are a data analyst providing business insights."},
+                {"role": "system", "content": "You are a senior business analyst specializing in banking and financial services. Provide data-driven insights with specific numbers and business context."},
                 {"role": "user", "content": prompt}
             ],
-            temperature=0.5,
-            max_tokens=300
+            temperature=0.3,  # Lower temperature for more consistent, factual responses
+            max_tokens=500    # More tokens for comprehensive summaries
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
